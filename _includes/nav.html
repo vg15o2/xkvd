@@ -1,0 +1,10 @@
+<nav class="comic-nav">
+  <ul>
+    <li>{% if include.first %}<a href="{{ include.first.url | relative_url }}" rel="first">|&lt; First</a>{% else %}<span class="disabled">|&lt; First</span>{% endif %}</li>
+    <li>{% if include.prev %}<a href="{{ include.prev.url | relative_url }}" rel="prev">&lt; Prev</a>{% else %}<span class="disabled">&lt; Prev</span>{% endif %}</li>
+    <li><a href="{{ '/random/' | relative_url }}">Random</a></li>
+    <li>{% if include.next %}<a href="{{ include.next.url | relative_url }}" rel="next">Next &gt;</a>{% else %}<span class="disabled">Next &gt;</span>{% endif %}</li>
+    <li>{% if include.last %}<a href="{{ include.last.url | relative_url }}" rel="last">Latest &gt;|</a>{% else %}<span class="disabled">Latest &gt;|</span>{% endif %}</li>
+    <li><a href="{{ '/archive/' | relative_url }}">Archive</a></li>
+  </ul>
+</nav>

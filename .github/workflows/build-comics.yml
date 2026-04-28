@@ -1,0 +1,36 @@
+name: Build comics
+
+on:
+  schedule:
+    - cron: "0 8 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/**"
+      - ".github/workflows/build-comics.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Generate comics from Letterboxd RSS
+        run: python scripts/build_comics.py
+      - name: Commit any new comics
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if [ -n "$(git status --porcelain)" ]; then
+            git add _comics assets/comics scripts/state.json
+            git commit -m "build: add new comic(s) from Letterboxd"
+            git push
+          else
+            echo "No new comics."
+          fi

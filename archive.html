@@ -1,0 +1,29 @@
+---
+layout: default
+title: Archive
+permalink: /archive/
+---
+{%- assign comics = site.comics | sort: "id" | reverse -%}
+<article id="archive">
+  <h1>Archive</h1>
+  {% if comics.size == 0 %}
+    <p>No comics yet. Run <code>python scripts/build_comics.py</code> to generate them.</p>
+  {% else %}
+    <p>{{ comics.size }} comic{% if comics.size != 1 %}s{% endif %}.</p>
+    <table class="archive-table">
+      <thead>
+        <tr><th>#</th><th>Date</th><th>Film</th><th>Rating</th></tr>
+      </thead>
+      <tbody>
+        {% for c in comics %}
+          <tr>
+            <td>{{ c.id }}</td>
+            <td>{{ c.date | date: "%Y-%m-%d" }}</td>
+            <td><a href="{{ c.url | relative_url }}">{{ c.film }}{% if c.year %} ({{ c.year }}){% endif %}</a></td>
+            <td>{{ c.rating }}</td>
+          </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  {% endif %}
+</article>

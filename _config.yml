@@ -1,0 +1,35 @@
+title: xkvd
+tagline: a webcomic of my Letterboxd reviews
+description: >-
+  Stick-figure comics auto-generated from my Letterboxd reviews.
+url: ""
+baseurl: ""
+
+# Fill this in with your Letterboxd username (the bit after letterboxd.com/).
+letterboxd_username: "voaish"
+
+collections:
+  comics:
+    output: true
+    permalink: /comics/:name/
+
+defaults:
+  - scope:
+      path: ""
+      type: comics
+    values:
+      layout: comic
+
+plugins:
+  - jekyll-feed
+  - jekyll-redirect-from
+
+exclude:
+  - Downloads
+  - OneDrive
+  - .claude
+  - scripts
+  - vendor
+  - README.md
+  - Gemfile
+  - Gemfile.lock

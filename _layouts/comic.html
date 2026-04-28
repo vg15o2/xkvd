@@ -1,0 +1,49 @@
+---
+layout: default
+---
+{%- assign comics = site.comics | sort: "id" -%}
+{%- if page.id -%}
+  {%- assign current = page -%}
+{%- else -%}
+  {%- assign current = comics | last -%}
+{%- endif -%}
+
+{%- assign current_index = -1 -%}
+{%- for c in comics -%}
+  {%- if c.id == current.id -%}{%- assign current_index = forloop.index0 -%}{%- endif -%}
+{%- endfor -%}
+
+{%- assign first = comics | first -%}
+{%- assign last = comics | last -%}
+{%- if current_index > 0 -%}
+  {%- assign prev_index = current_index | minus: 1 -%}
+  {%- assign prev = comics[prev_index] -%}
+{%- endif -%}
+{%- assign next_index = current_index | plus: 1 -%}
+{%- if next_index < comics.size -%}
+  {%- assign next = comics[next_index] -%}
+{%- endif -%}
+
+{% include nav.html first=first prev=prev next=next last=last %}
+
+<article id="comic-area">
+  {% if current %}
+    <h1 id="ctitle">{{ current.title }}</h1>
+    <div id="comic">
+      <img src="{{ current.svg | relative_url }}"
+           alt="{{ current.title | escape }}"
+           title="{{ current.alt | escape }}">
+    </div>
+    <p class="comic-meta">
+      From your review of
+      <a href="{{ current.letterboxd_url }}"><em>{{ current.film }}</em>{% if current.year %} ({{ current.year }}){% endif %}</a>
+      {% if current.rating and current.rating != "" %}— {{ current.rating }}{% endif %}.
+      Permanent link to this comic: <a href="{{ current.url | relative_url }}">{{ current.url | relative_url }}</a>.
+    </p>
+  {% else %}
+    <h1>No comics yet</h1>
+    <p>Run <code>python scripts/build_comics.py</code> to generate the first one.</p>
+  {% endif %}
+</article>
+
+{% include nav.html first=first prev=prev next=next last=last %}

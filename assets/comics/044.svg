@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 398" width="640" height="398" role="img" aria-label="#044 — Zootopia (2016)">
+  <rect width="100%" height="100%" fill="white"/>
+  <text x="320.0" y="32" text-anchor="middle" font-family="Comic Neue, Comic Sans MS, cursive" font-size="15" font-weight="700" fill="black">#044 — Zootopia (2016) ★★★★</text>
+    <g class="panel">
+    <rect x="14" y="44" width="300" height="340" fill="white" stroke="black" stroke-width="2"/>
+    <rect x="29" y="58" width="270" height="102" rx="12" ry="12" fill="white" stroke="black" stroke-width="1.6"/>
+    <polygon points="156.0,159 172.0,159 175.2868524270259,240" fill="white" stroke="black" stroke-width="1.6"/>
+    <line x1="157.0" y1="160" x2="171.0" y2="160" stroke="white" stroke-width="2.2"/>
+    <text x="164.0" y="76" text-anchor="middle" font-family="Comic Neue, Comic Sans MS, cursive" font-size="13" fill="black"><tspan x="164.0" dy="0">damnzaaa another diz</tspan><tspan x="164.0" dy="16">banger its always the</tspan><tspan x="164.0" dy="16">disney movies when</tspan><tspan x="164.0" dy="16">comfort was the need</tspan><tspan x="164.0" dy="16">eh?</tspan></text>
+    <circle cx="175.2868524270259" cy="254" r="14" fill="none" stroke="black" stroke-width="2.2"/>
+    <line x1="175.2868524270259" y1="268" x2="175.2868524270259" y2="308" stroke="black" stroke-width="2.2"/>
+    <line x1="175.2868524270259" y1="280" x2="201.2868524270259" y2="276" stroke="black" stroke-width="2.2"/>
+    <line x1="175.2868524270259" y1="280" x2="159.2868524270259" y2="298" stroke="black" stroke-width="2.2"/>
+    <line x1="175.2868524270259" y1="308" x2="161.2868524270259" y2="336" stroke="black" stroke-width="2.2"/>
+    <line x1="175.2868524270259" y1="308" x2="189.2868524270259" y2="336" stroke="black" stroke-width="2.2"/>
+    <line x1="34" y1="350" x2="294" y2="350" stroke="black" stroke-width="1.5"/>
+</g>
+  <g class="panel">
+    <rect x="326" y="44" width="300" height="340" fill="white" stroke="black" stroke-width="2"/>
+    <rect x="341" y="58" width="270" height="70" rx="12" ry="12" fill="white" stroke="black" stroke-width="1.6"/>
+    <polygon points="468.0,127 484.0,127 446.66939824910975,240" fill="white" stroke="black" stroke-width="1.6"/>
+    <line x1="469.0" y1="128" x2="483.0" y2="128" stroke="white" stroke-width="2.2"/>
+    <text x="476.0" y="76" text-anchor="middle" font-family="Comic Neue, Comic Sans MS, cursive" font-size="13" fill="black"><tspan x="476.0" dy="0">Godfather cameo was</tspan><tspan x="476.0" dy="16">cherry on top tho chef</tspan><tspan x="476.0" dy="16">kiss</tspan></text>
+    <circle cx="446.66939824910975" cy="254" r="14" fill="none" stroke="black" stroke-width="2.2"/>
+    <line x1="446.66939824910975" y1="268" x2="446.66939824910975" y2="308" stroke="black" stroke-width="2.2"/>
+    <line x1="446.66939824910975" y1="274" x2="424.66939824910975" y2="250" stroke="black" stroke-width="2.2"/>
+    <line x1="446.66939824910975" y1="274" x2="468.66939824910975" y2="250" stroke="black" stroke-width="2.2"/>
+    <line x1="446.66939824910975" y1="308" x2="432.66939824910975" y2="336" stroke="black" stroke-width="2.2"/>
+    <line x1="446.66939824910975" y1="308" x2="460.66939824910975" y2="336" stroke="black" stroke-width="2.2"/>
+    <line x1="346" y1="350" x2="606" y2="350" stroke="black" stroke-width="1.5"/>
+</g>
+</svg>

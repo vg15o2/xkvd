@@ -1,0 +1,11 @@
+_site/
+.claude/
+.jekyll-cache/
+.jekyll-metadata
+.sass-cache/
+vendor/
+.bundle/
+node_modules/
+.DS_Store
+__pycache__/
+*.pyc

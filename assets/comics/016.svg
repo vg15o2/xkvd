@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 398" width="640" height="398" role="img" aria-label="#016 — The Terminal (2004)">
+  <rect width="100%" height="100%" fill="white"/>
+  <text x="320.0" y="32" text-anchor="middle" font-family="Comic Neue, Comic Sans MS, cursive" font-size="15" font-weight="700" fill="black">#016 — The Terminal (2004) ★★★★★</text>
+    <g class="panel">
+    <rect x="14" y="44" width="300" height="340" fill="white" stroke="black" stroke-width="2"/>
+    <rect x="29" y="58" width="270" height="102" rx="12" ry="12" fill="white" stroke="black" stroke-width="1.6"/>
+    <polygon points="156.0,159 172.0,159 184.28704163562054,240" fill="white" stroke="black" stroke-width="1.6"/>
+    <line x1="157.0" y1="160" x2="171.0" y2="160" stroke="white" stroke-width="2.2"/>
+    <text x="164.0" y="76" text-anchor="middle" font-family="Comic Neue, Comic Sans MS, cursive" font-size="13" fill="black"><tspan x="164.0" dy="0">I might have shed a</tspan><tspan x="164.0" dy="16">tear and I saw Steven</tspan><tspan x="164.0" dy="16">Spielberg on screen</tspan><tspan x="164.0" dy="16">Well that explains it</tspan><tspan x="164.0" dy="16">I still can cry the</tspan></text>
+    <circle cx="184.28704163562054" cy="254" r="14" fill="none" stroke="black" stroke-width="2.2"/>
+    <line x1="184.28704163562054" y1="268" x2="184.28704163562054" y2="308" stroke="black" stroke-width="2.2"/>
+    <line x1="184.28704163562054" y1="280" x2="166.28704163562054" y2="298" stroke="black" stroke-width="2.2"/>
+    <line x1="184.28704163562054" y1="280" x2="202.28704163562054" y2="298" stroke="black" stroke-width="2.2"/>
+    <line x1="184.28704163562054" y1="308" x2="170.28704163562054" y2="336" stroke="black" stroke-width="2.2"/>
+    <line x1="184.28704163562054" y1="308" x2="198.28704163562054" y2="336" stroke="black" stroke-width="2.2"/>
+    <line x1="34" y1="350" x2="294" y2="350" stroke="black" stroke-width="1.5"/>
+</g>
+  <g class="panel">
+    <rect x="326" y="44" width="300" height="340" fill="white" stroke="black" stroke-width="2"/>
+    <rect x="341" y="58" width="270" height="102" rx="12" ry="12" fill="white" stroke="black" stroke-width="1.6"/>
+    <polygon points="468.0,159 484.0,159 485.46073773755256,240" fill="white" stroke="black" stroke-width="1.6"/>
+    <line x1="469.0" y1="160" x2="483.0" y2="160" stroke="white" stroke-width="2.2"/>
+    <text x="476.0" y="76" text-anchor="middle" font-family="Comic Neue, Comic Sans MS, cursive" font-size="13" fill="black"><tspan x="476.0" dy="0">The way the man stand</tspan><tspan x="476.0" dy="16">tall with his values</tspan><tspan x="476.0" dy="16">and keeps the promise</tspan><tspan x="476.0" dy="16">but never against the</tspan><tspan x="476.0" dy="16">rules, his fight his</tspan></text>
+    <circle cx="485.46073773755256" cy="254" r="14" fill="none" stroke="black" stroke-width="2.2"/>
+    <line x1="485.46073773755256" y1="268" x2="485.46073773755256" y2="308" stroke="black" stroke-width="2.2"/>
+    <line x1="485.46073773755256" y1="274" x2="463.46073773755256" y2="250" stroke="black" stroke-width="2.2"/>
+    <line x1="485.46073773755256" y1="274" x2="507.46073773755256" y2="250" stroke="black" stroke-width="2.2"/>
+    <line x1="485.46073773755256" y1="308" x2="471.46073773755256" y2="336" stroke="black" stroke-width="2.2"/>
+    <line x1="485.46073773755256" y1="308" x2="499.46073773755256" y2="336" stroke="black" stroke-width="2.2"/>
+    <line x1="346" y1="350" x2="606" y2="350" stroke="black" stroke-width="1.5"/>
+</g>
+</svg>

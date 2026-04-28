@@ -1,0 +1,23 @@
+---
+layout: default
+title: Random
+permalink: /random/
+---
+{%- assign comics = site.comics | sort: "id" -%}
+<article id="random">
+  <h1>Picking a random comic&hellip;</h1>
+  <p>If you aren't redirected, <a id="fallback" href="{{ '/archive/' | relative_url }}">visit the archive</a>.</p>
+</article>
+<script>
+(function () {
+  var urls = [
+    {%- for c in comics -%}
+      "{{ c.url | relative_url }}"{%- unless forloop.last -%},{%- endunless -%}
+    {%- endfor -%}
+  ];
+  if (urls.length === 0) return;
+  var pick = urls[Math.floor(Math.random() * urls.length)];
+  document.getElementById("fallback").setAttribute("href", pick);
+  window.location.replace(pick);
+})();
+</script>

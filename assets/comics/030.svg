@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 328 398" width="328" height="398" role="img" aria-label="#030 — Rebecca (2020)">
+  <rect width="100%" height="100%" fill="white"/>
+  <text x="164.0" y="32" text-anchor="middle" font-family="Comic Neue, Comic Sans MS, cursive" font-size="15" font-weight="700" fill="black">#030 — Rebecca (2020) ★½</text>
+    <g class="panel">
+    <rect x="14" y="44" width="300" height="340" fill="white" stroke="black" stroke-width="2"/>
+    <rect x="29" y="58" width="270" height="54" rx="12" ry="12" fill="white" stroke="black" stroke-width="1.6"/>
+    <polygon points="156.0,111 172.0,111 186.32701387407099,240" fill="white" stroke="black" stroke-width="1.6"/>
+    <line x1="157.0" y1="112" x2="171.0" y2="112" stroke="white" stroke-width="2.2"/>
+    <text x="164.0" y="76" text-anchor="middle" font-family="Comic Neue, Comic Sans MS, cursive" font-size="13" fill="black"><tspan x="164.0" dy="0">Watched on Thursday</tspan><tspan x="164.0" dy="16">December 25, 2025.</tspan></text>
+    <circle cx="186.32701387407099" cy="254" r="14" fill="none" stroke="black" stroke-width="2.2"/>
+    <line x1="186.32701387407099" y1="268" x2="186.32701387407099" y2="308" stroke="black" stroke-width="2.2"/>
+    <line x1="186.32701387407099" y1="280" x2="168.32701387407099" y2="298" stroke="black" stroke-width="2.2"/>
+    <line x1="186.32701387407099" y1="280" x2="194.32701387407099" y2="262" stroke="black" stroke-width="2.2"/>
+    <line x1="194.32701387407099" y1="262" x2="190.32701387407099" y2="250" stroke="black" stroke-width="2.2"/>
+    <line x1="186.32701387407099" y1="308" x2="172.32701387407099" y2="336" stroke="black" stroke-width="2.2"/>
+    <line x1="186.32701387407099" y1="308" x2="200.32701387407099" y2="336" stroke="black" stroke-width="2.2"/>
+    <line x1="34" y1="350" x2="294" y2="350" stroke="black" stroke-width="1.5"/>
+</g>
+</svg>
