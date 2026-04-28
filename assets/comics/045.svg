@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 412 402" width="412" height="402" role="img" aria-label="#045 — The Housemaid (2025)">
-  <rect width="100%" height="100%" fill="white"/>
+  <rect width="100%" height="100%" fill="#f1e7cc"/>
   <text x="206.0" y="34" text-anchor="middle" font-family="Comic Neue, Comic Sans MS, cursive" font-size="16" font-weight="700" fill="black">#045 — The Housemaid (2025) ★★★★½</text>
   <g class="panel">
     <path d="M 16.00 46.00 C 142.67 46.70, 269.33 46.38, 396.00 46.00 C 395.81 159.33, 395.43 272.67, 396.00 386.00 C 269.33 386.43, 142.67 385.80, 16.00 386.00 C 16.77 272.67, 15.35 159.33, 16.00 46.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
@@ -32,9 +32,9 @@
     <path d="M 226.00 340.00 C 234.00 339.49, 242.00 340.95, 250.00 340.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
     <path d="M 250.00 340.00 C 249.83 346.09, 251.24 352.01, 252.00 358.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
     <path d="M 226.00 340.00 C 223.57 346.11, 221.11 352.20, 218.00 358.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
-    <path d="M 36.00 60.00 C 80.00 60.04, 124.00 59.68, 168.00 60.00 C 171.20 63.46, 174.42 66.91, 178.00 70.00 C 178.67 81.33, 177.55 92.67, 178.00 104.00 C 174.77 107.43, 171.31 110.64, 168.00 114.00 C 124.00 114.09, 80.00 113.62, 36.00 114.00 C 32.23 111.10, 29.31 107.36, 26.00 104.00 C 26.40 92.67, 26.48 81.33, 26.00 70.00 C 29.76 67.09, 32.31 62.97, 36.00 60.00" fill="white" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M 131.00 114.00 C 133.12 177.34, 135.13 240.69, 138.00 304.00 C 139.66 240.64, 141.97 177.31, 145.00 114.00" fill="white" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
-    <line x1="132.0" y1="114" x2="144.0" y2="114" stroke="white" stroke-width="2.4"/>
+    <path d="M 36.00 60.00 C 80.00 60.04, 124.00 59.68, 168.00 60.00 C 171.20 63.46, 174.42 66.91, 178.00 70.00 C 178.67 81.33, 177.55 92.67, 178.00 104.00 C 174.77 107.43, 171.31 110.64, 168.00 114.00 C 124.00 114.09, 80.00 113.62, 36.00 114.00 C 32.23 111.10, 29.31 107.36, 26.00 104.00 C 26.40 92.67, 26.48 81.33, 26.00 70.00 C 29.76 67.09, 32.31 62.97, 36.00 60.00" fill="#f1e7cc" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 131.00 114.00 C 133.12 177.34, 135.13 240.69, 138.00 304.00 C 139.66 240.64, 141.97 177.31, 145.00 114.00" fill="#f1e7cc" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="132.0" y1="114" x2="144.0" y2="114" stroke="#f1e7cc" stroke-width="2.4"/>
     <text x="102.0" y="78.0" text-anchor="middle" font-family="Comic Neue, Comic Sans MS, cursive" font-size="13" fill="black"><tspan x="102.0" dy="0">gals gal Sweeney</tspan><tspan x="102.0" dy="16">banger</tspan></text>
   </g>
 </svg>

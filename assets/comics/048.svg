@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 412 402" width="412" height="402" role="img" aria-label="#048 — Midnight in Paris (2011)">
-  <rect width="100%" height="100%" fill="white"/>
+  <rect width="100%" height="100%" fill="#f1e7cc"/>
   <text x="206.0" y="34" text-anchor="middle" font-family="Comic Neue, Comic Sans MS, cursive" font-size="16" font-weight="700" fill="black">#048 — Midnight in Paris (2011) ★★★★★</text>
   <g class="panel">
     <path d="M 16.00 46.00 C 142.67 45.38, 269.33 45.91, 396.00 46.00 C 395.97 159.33, 396.13 272.67, 396.00 386.00 C 269.33 386.21, 142.67 385.85, 16.00 386.00 C 15.80 272.67, 15.20 159.33, 16.00 46.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
@@ -34,9 +34,9 @@
     <path d="M 226.00 340.00 C 234.00 339.14, 242.00 340.69, 250.00 340.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
     <path d="M 250.00 340.00 C 250.83 345.98, 250.88 352.05, 252.00 358.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
     <path d="M 226.00 340.00 C 223.71 346.17, 221.40 352.33, 218.00 358.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
-    <path d="M 36.00 60.00 C 80.00 59.22, 124.00 60.55, 168.00 60.00 C 171.39 63.28, 175.00 66.34, 178.00 70.00 C 177.70 76.00, 178.19 82.00, 178.00 88.00 C 174.40 91.06, 171.43 94.76, 168.00 98.00 C 124.00 98.52, 80.00 98.79, 36.00 98.00 C 33.03 94.30, 29.52 91.14, 26.00 88.00 C 26.61 82.00, 25.89 76.00, 26.00 70.00 C 29.24 66.57, 33.15 63.81, 36.00 60.00" fill="white" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M 131.00 98.00 C 133.51 166.66, 134.87 235.36, 138.00 304.00 C 141.10 235.36, 143.22 166.69, 145.00 98.00" fill="white" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
-    <line x1="132.0" y1="98" x2="144.0" y2="98" stroke="white" stroke-width="2.4"/>
+    <path d="M 36.00 60.00 C 80.00 59.22, 124.00 60.55, 168.00 60.00 C 171.39 63.28, 175.00 66.34, 178.00 70.00 C 177.70 76.00, 178.19 82.00, 178.00 88.00 C 174.40 91.06, 171.43 94.76, 168.00 98.00 C 124.00 98.52, 80.00 98.79, 36.00 98.00 C 33.03 94.30, 29.52 91.14, 26.00 88.00 C 26.61 82.00, 25.89 76.00, 26.00 70.00 C 29.24 66.57, 33.15 63.81, 36.00 60.00" fill="#f1e7cc" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 131.00 98.00 C 133.51 166.66, 134.87 235.36, 138.00 304.00 C 141.10 235.36, 143.22 166.69, 145.00 98.00" fill="#f1e7cc" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="132.0" y1="98" x2="144.0" y2="98" stroke="#f1e7cc" stroke-width="2.4"/>
     <text x="102.0" y="78.0" text-anchor="middle" font-family="Comic Neue, Comic Sans MS, cursive" font-size="13" fill="black"><tspan x="102.0" dy="0">I love yearning🤤</tspan></text>
   </g>
 </svg>

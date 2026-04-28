@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 806 402" width="806" height="402" role="img" aria-label="#020 — Inglourious Basterds (2009)">
-  <rect width="100%" height="100%" fill="white"/>
+  <rect width="100%" height="100%" fill="#f1e7cc"/>
   <text x="403.0" y="34" text-anchor="middle" font-family="Comic Neue, Comic Sans MS, cursive" font-size="16" font-weight="700" fill="black">#020 — Inglourious Basterds (2009) ★★★★</text>
   <g class="panel">
     <path d="M 16.00 46.00 C 142.67 45.94, 269.33 45.70, 396.00 46.00 C 396.27 159.33, 395.26 272.67, 396.00 386.00 C 269.33 386.08, 142.67 385.89, 16.00 386.00 C 15.57 272.67, 15.70 159.33, 16.00 46.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
@@ -13,9 +13,9 @@
     <path d="M 187.00 288.00 C 195.09 279.26, 201.29 269.04, 209.00 260.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
     <path d="M 187.00 324.00 C 183.78 333.03, 178.80 341.24, 175.00 350.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
     <path d="M 187.00 324.00 C 190.58 332.86, 194.49 341.57, 199.00 350.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
-    <path d="M 36.00 60.00 C 86.00 59.72, 136.00 60.08, 186.00 60.00 C 189.13 63.54, 192.88 66.45, 196.00 70.00 C 195.46 92.00, 195.82 114.00, 196.00 136.00 C 192.24 138.90, 188.89 142.23, 186.00 146.00 C 136.00 146.15, 86.00 146.50, 36.00 146.00 C 32.28 143.05, 28.99 139.67, 26.00 136.00 C 25.82 114.00, 26.23 92.00, 26.00 70.00 C 28.98 66.32, 32.76 63.42, 36.00 60.00" fill="white" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M 177.00 146.00 C 182.98 188.67, 188.25 231.44, 195.00 274.00 C 193.42 231.34, 192.07 188.68, 191.00 146.00" fill="white" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
-    <line x1="178" y1="146" x2="190" y2="146" stroke="white" stroke-width="2.4"/>
+    <path d="M 36.00 60.00 C 86.00 59.72, 136.00 60.08, 186.00 60.00 C 189.13 63.54, 192.88 66.45, 196.00 70.00 C 195.46 92.00, 195.82 114.00, 196.00 136.00 C 192.24 138.90, 188.89 142.23, 186.00 146.00 C 136.00 146.15, 86.00 146.50, 36.00 146.00 C 32.28 143.05, 28.99 139.67, 26.00 136.00 C 25.82 114.00, 26.23 92.00, 26.00 70.00 C 28.98 66.32, 32.76 63.42, 36.00 60.00" fill="#f1e7cc" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 177.00 146.00 C 182.98 188.67, 188.25 231.44, 195.00 274.00 C 193.42 231.34, 192.07 188.68, 191.00 146.00" fill="#f1e7cc" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="178" y1="146" x2="190" y2="146" stroke="#f1e7cc" stroke-width="2.4"/>
     <text x="111.0" y="78.0" text-anchor="middle" font-family="Comic Neue, Comic Sans MS, cursive" font-size="13" fill="black"><tspan x="111.0" dy="0">What a cool movie Now</tspan><tspan x="111.0" dy="16">that is how you teach</tspan><tspan x="111.0" dy="16">history and I will</tspan><tspan x="111.0" dy="16">actually listen!!</tspan></text>
   </g>
   <g class="panel">
@@ -48,9 +48,9 @@
     <path d="M 620.00 340.00 C 628.00 340.99, 636.00 339.95, 644.00 340.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
     <path d="M 644.00 340.00 C 644.32 346.04, 644.52 352.09, 646.00 358.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
     <path d="M 620.00 340.00 C 616.75 345.74, 614.06 351.73, 612.00 358.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
-    <path d="M 430.00 60.00 C 480.00 59.39, 530.00 60.54, 580.00 60.00 C 583.21 63.46, 586.14 67.19, 590.00 70.00 C 590.32 92.00, 589.68 114.00, 590.00 136.00 C 586.30 138.97, 583.39 142.73, 580.00 146.00 C 530.00 145.94, 480.00 146.61, 430.00 146.00 C 426.13 143.20, 423.50 139.17, 420.00 136.00 C 419.70 114.00, 419.33 92.00, 420.00 70.00 C 423.59 66.92, 427.01 63.67, 430.00 60.00" fill="white" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M 525.00 146.00 C 526.81 198.69, 529.83 251.33, 532.00 304.00 C 534.73 251.35, 537.03 198.68, 539.00 146.00" fill="white" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
-    <line x1="526.0" y1="146" x2="538.0" y2="146" stroke="white" stroke-width="2.4"/>
+    <path d="M 430.00 60.00 C 480.00 59.39, 530.00 60.54, 580.00 60.00 C 583.21 63.46, 586.14 67.19, 590.00 70.00 C 590.32 92.00, 589.68 114.00, 590.00 136.00 C 586.30 138.97, 583.39 142.73, 580.00 146.00 C 530.00 145.94, 480.00 146.61, 430.00 146.00 C 426.13 143.20, 423.50 139.17, 420.00 136.00 C 419.70 114.00, 419.33 92.00, 420.00 70.00 C 423.59 66.92, 427.01 63.67, 430.00 60.00" fill="#f1e7cc" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 525.00 146.00 C 526.81 198.69, 529.83 251.33, 532.00 304.00 C 534.73 251.35, 537.03 198.68, 539.00 146.00" fill="#f1e7cc" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="526.0" y1="146" x2="538.0" y2="146" stroke="#f1e7cc" stroke-width="2.4"/>
     <text x="505.0" y="78.0" text-anchor="middle" font-family="Comic Neue, Comic Sans MS, cursive" font-size="13" fill="black"><tspan x="505.0" dy="0">Great way of showing</tspan><tspan x="505.0" dy="16">nazii cunningness with</tspan><tspan x="505.0" dy="16">the creme and three</tspan><tspan x="505.0" dy="16">glasses…</tspan></text>
   </g>
 </svg>

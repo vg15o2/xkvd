@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 412 402" width="412" height="402" role="img" aria-label="#030 — Rebecca (2020)">
-  <rect width="100%" height="100%" fill="white"/>
+  <rect width="100%" height="100%" fill="#f1e7cc"/>
   <text x="206.0" y="34" text-anchor="middle" font-family="Comic Neue, Comic Sans MS, cursive" font-size="16" font-weight="700" fill="black">#030 — Rebecca (2020) ★½</text>
   <g class="panel">
     <path d="M 16.00 46.00 C 142.67 46.19, 269.33 46.73, 396.00 46.00 C 395.88 159.33, 396.17 272.67, 396.00 386.00 C 269.33 385.88, 142.67 386.21, 16.00 386.00 C 16.42 272.67, 15.50 159.33, 16.00 46.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
@@ -15,9 +15,9 @@
     <path d="M 187.00 288.00 C 193.87 278.30, 201.88 269.50, 209.00 260.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
     <path d="M 187.00 324.00 C 182.26 332.32, 178.55 341.13, 175.00 350.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
     <path d="M 187.00 324.00 C 190.13 333.07, 194.68 341.48, 199.00 350.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
-    <path d="M 36.00 60.00 C 86.00 60.76, 136.00 60.20, 186.00 60.00 C 188.84 63.83, 192.83 66.50, 196.00 70.00 C 195.34 81.33, 195.46 92.67, 196.00 104.00 C 192.28 106.95, 189.65 110.99, 186.00 114.00 C 136.00 113.41, 86.00 114.01, 36.00 114.00 C 32.10 111.23, 29.53 107.14, 26.00 104.00 C 26.64 92.67, 26.12 81.33, 26.00 70.00 C 29.23 66.56, 32.74 63.40, 36.00 60.00" fill="white" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M 177.00 114.00 C 182.45 167.40, 189.57 220.60, 195.00 274.00 C 193.79 220.66, 192.63 167.33, 191.00 114.00" fill="white" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
-    <line x1="178" y1="114" x2="190" y2="114" stroke="white" stroke-width="2.4"/>
+    <path d="M 36.00 60.00 C 86.00 60.76, 136.00 60.20, 186.00 60.00 C 188.84 63.83, 192.83 66.50, 196.00 70.00 C 195.34 81.33, 195.46 92.67, 196.00 104.00 C 192.28 106.95, 189.65 110.99, 186.00 114.00 C 136.00 113.41, 86.00 114.01, 36.00 114.00 C 32.10 111.23, 29.53 107.14, 26.00 104.00 C 26.64 92.67, 26.12 81.33, 26.00 70.00 C 29.23 66.56, 32.74 63.40, 36.00 60.00" fill="#f1e7cc" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 177.00 114.00 C 182.45 167.40, 189.57 220.60, 195.00 274.00 C 193.79 220.66, 192.63 167.33, 191.00 114.00" fill="#f1e7cc" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="178" y1="114" x2="190" y2="114" stroke="#f1e7cc" stroke-width="2.4"/>
     <text x="111.0" y="78.0" text-anchor="middle" font-family="Comic Neue, Comic Sans MS, cursive" font-size="13" fill="black"><tspan x="111.0" dy="0">Watched on Thursday</tspan><tspan x="111.0" dy="16">December 25, 2025.</tspan></text>
   </g>
 </svg>

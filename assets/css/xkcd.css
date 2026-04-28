@@ -7,8 +7,8 @@ body {
   font-size: 16px;
   margin: 0;
   padding: 0 1rem 2rem;
-  background: #fff;
-  color: #000;
+  background: #f1e7cc;
+  color: #2a241a;
   text-align: center;
 }
 
@@ -16,7 +16,7 @@ a, a:visited { color: #1a3a8e; }
 a:hover { color: #d92626; }
 
 #topcontainer {
-  border-bottom: 2px solid #6e7d91;
+  border-bottom: 2px solid #8a7a55;
   padding: 1.25rem 0 1rem;
   margin-bottom: 1rem;
 }
@@ -79,9 +79,9 @@ a:hover { color: #d92626; }
 #bottom {
   margin-top: 3rem;
   padding-top: 1rem;
-  border-top: 2px solid #6e7d91;
+  border-top: 2px solid #8a7a55;
   font-size: 0.85rem;
-  color: #555;
+  color: #6b5e44;
 }
 
 .archive-table {
@@ -95,7 +95,8 @@ a:hover { color: #d92626; }
   padding: 0.4rem 0.6rem;
   border-bottom: 1px solid #ddd;
 }
-.archive-table th { background: #f5f5f5; }
+.archive-table th { background: #e8dcb9; }
+.archive-table th, .archive-table td { border-bottom: 1px solid #c9b986; }
 .archive-table td:first-child { width: 4em; color: #888; font-variant-numeric: tabular-nums; }
 .archive-table td:nth-child(2) { width: 8em; color: #888; }
 .archive-table td:last-child { width: 6em; }

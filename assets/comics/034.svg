@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 412 402" width="412" height="402" role="img" aria-label="#034 — 12 Angry Men (1957)">
-  <rect width="100%" height="100%" fill="white"/>
+  <rect width="100%" height="100%" fill="#f1e7cc"/>
   <text x="206.0" y="34" text-anchor="middle" font-family="Comic Neue, Comic Sans MS, cursive" font-size="16" font-weight="700" fill="black">#034 — 12 Angry Men (1957) ★★★★★</text>
   <g class="panel">
     <path d="M 16.00 46.00 C 142.67 46.68, 269.33 45.66, 396.00 46.00 C 396.45 159.33, 396.09 272.67, 396.00 386.00 C 269.33 385.54, 142.67 385.61, 16.00 386.00 C 16.24 272.67, 15.88 159.33, 16.00 46.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
@@ -31,9 +31,9 @@
     <path d="M 274.40 292.00 C 279.82 297.92, 284.97 304.09, 290.40 310.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
     <path d="M 274.40 324.00 C 270.28 332.61, 265.77 341.04, 262.40 350.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
     <path d="M 274.40 324.00 C 278.89 332.44, 281.76 341.63, 286.40 350.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
-    <path d="M 36.00 60.00 C 86.00 59.28, 136.00 59.66, 186.00 60.00 C 188.81 63.86, 192.16 67.18, 196.00 70.00 C 196.07 76.00, 196.68 82.00, 196.00 88.00 C 192.14 90.80, 189.54 94.87, 186.00 98.00 C 136.00 98.58, 86.00 97.66, 36.00 98.00 C 32.99 94.34, 29.87 90.79, 26.00 88.00 C 26.24 82.00, 25.93 76.00, 26.00 70.00 C 29.09 66.43, 33.05 63.72, 36.00 60.00" fill="white" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M 138.60 98.00 C 141.72 156.64, 142.58 215.36, 145.60 274.00 C 148.57 215.36, 150.95 156.69, 152.60 98.00" fill="white" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
-    <line x1="139.60000000000002" y1="98" x2="151.60000000000002" y2="98" stroke="white" stroke-width="2.4"/>
+    <path d="M 36.00 60.00 C 86.00 59.28, 136.00 59.66, 186.00 60.00 C 188.81 63.86, 192.16 67.18, 196.00 70.00 C 196.07 76.00, 196.68 82.00, 196.00 88.00 C 192.14 90.80, 189.54 94.87, 186.00 98.00 C 136.00 98.58, 86.00 97.66, 36.00 98.00 C 32.99 94.34, 29.87 90.79, 26.00 88.00 C 26.24 82.00, 25.93 76.00, 26.00 70.00 C 29.09 66.43, 33.05 63.72, 36.00 60.00" fill="#f1e7cc" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 138.60 98.00 C 141.72 156.64, 142.58 215.36, 145.60 274.00 C 148.57 215.36, 150.95 156.69, 152.60 98.00" fill="#f1e7cc" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="139.60000000000002" y1="98" x2="151.60000000000002" y2="98" stroke="#f1e7cc" stroke-width="2.4"/>
     <text x="111.0" y="78.0" text-anchor="middle" font-family="Comic Neue, Comic Sans MS, cursive" font-size="13" fill="black"><tspan x="111.0" dy="0">what. a. masterpeice.</tspan></text>
   </g>
 </svg>

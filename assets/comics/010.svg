@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 412 402" width="412" height="402" role="img" aria-label="#010 — Materialists (2025)">
-  <rect width="100%" height="100%" fill="white"/>
+  <rect width="100%" height="100%" fill="#f1e7cc"/>
   <text x="206.0" y="34" text-anchor="middle" font-family="Comic Neue, Comic Sans MS, cursive" font-size="16" font-weight="700" fill="black">#010 — Materialists (2025) ★★½</text>
   <g class="panel">
     <path d="M 16.00 46.00 C 142.67 45.63, 269.33 45.21, 396.00 46.00 C 395.94 159.33, 396.40 272.67, 396.00 386.00 C 269.33 386.70, 142.67 385.67, 16.00 386.00 C 16.41 272.67, 16.68 159.33, 16.00 46.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
@@ -26,9 +26,9 @@
     <path d="M 296.40 278.00 C 297.37 284.08, 299.55 289.89, 300.40 296.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
     <path d="M 274.40 324.00 C 269.64 332.32, 266.59 341.42, 262.40 350.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
     <path d="M 274.40 324.00 C 278.49 332.62, 283.06 341.03, 286.40 350.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
-    <path d="M 36.00 60.00 C 74.67 59.37, 113.33 60.77, 152.00 60.00 C 155.22 63.44, 158.65 66.69, 162.00 70.00 C 162.07 76.00, 161.74 82.00, 162.00 88.00 C 159.18 91.85, 155.49 94.82, 152.00 98.00 C 113.33 97.67, 74.67 98.76, 36.00 98.00 C 32.77 94.56, 29.30 91.37, 26.00 88.00 C 26.24 82.00, 25.94 76.00, 26.00 70.00 C 29.75 67.08, 32.16 62.83, 36.00 60.00" fill="white" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M 138.60 98.00 C 140.92 156.67, 143.47 215.33, 145.60 274.00 C 148.71 215.36, 149.95 156.65, 152.60 98.00" fill="white" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
-    <line x1="139.60000000000002" y1="98" x2="151.60000000000002" y2="98" stroke="white" stroke-width="2.4"/>
+    <path d="M 36.00 60.00 C 74.67 59.37, 113.33 60.77, 152.00 60.00 C 155.22 63.44, 158.65 66.69, 162.00 70.00 C 162.07 76.00, 161.74 82.00, 162.00 88.00 C 159.18 91.85, 155.49 94.82, 152.00 98.00 C 113.33 97.67, 74.67 98.76, 36.00 98.00 C 32.77 94.56, 29.30 91.37, 26.00 88.00 C 26.24 82.00, 25.94 76.00, 26.00 70.00 C 29.75 67.08, 32.16 62.83, 36.00 60.00" fill="#f1e7cc" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 138.60 98.00 C 140.92 156.67, 143.47 215.33, 145.60 274.00 C 148.71 215.36, 149.95 156.65, 152.60 98.00" fill="#f1e7cc" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="139.60000000000002" y1="98" x2="151.60000000000002" y2="98" stroke="#f1e7cc" stroke-width="2.4"/>
     <text x="94.0" y="78.0" text-anchor="middle" font-family="Comic Neue, Comic Sans MS, cursive" font-size="13" fill="black"><tspan x="94.0" dy="0">Mehh ass movie</tspan></text>
   </g>
 </svg>

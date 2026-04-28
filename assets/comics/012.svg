@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 412 402" width="412" height="402" role="img" aria-label="#012 — Soul (2020)">
-  <rect width="100%" height="100%" fill="white"/>
+  <rect width="100%" height="100%" fill="#f1e7cc"/>
   <text x="206.0" y="34" text-anchor="middle" font-family="Comic Neue, Comic Sans MS, cursive" font-size="16" font-weight="700" fill="black">#012 — Soul (2020) ★★★★</text>
   <g class="panel">
     <path d="M 16.00 46.00 C 142.67 45.56, 269.33 45.30, 396.00 46.00 C 395.40 159.33, 396.53 272.67, 396.00 386.00 C 269.33 386.02, 142.67 385.54, 16.00 386.00 C 15.51 272.67, 15.52 159.33, 16.00 46.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
@@ -37,9 +37,9 @@
     <path d="M 226.00 340.00 C 234.00 339.57, 242.00 339.60, 250.00 340.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
     <path d="M 250.00 340.00 C 250.91 345.97, 252.17 351.91, 252.00 358.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
     <path d="M 226.00 340.00 C 223.79 346.20, 219.97 351.69, 218.00 358.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
-    <path d="M 36.00 60.00 C 86.00 59.53, 136.00 60.17, 186.00 60.00 C 189.32 63.35, 193.02 66.31, 196.00 70.00 C 196.35 86.67, 195.99 103.33, 196.00 120.00 C 192.74 123.40, 189.27 126.60, 186.00 130.00 C 136.00 130.60, 86.00 130.71, 36.00 130.00 C 32.32 127.01, 28.78 123.89, 26.00 120.00 C 25.96 103.33, 26.17 86.67, 26.00 70.00 C 28.93 66.26, 33.02 63.69, 36.00 60.00" fill="white" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M 131.00 130.00 C 133.81 187.98, 136.00 245.99, 138.00 304.00 C 140.69 246.01, 142.46 187.99, 145.00 130.00" fill="white" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
-    <line x1="132.0" y1="130" x2="144.0" y2="130" stroke="white" stroke-width="2.4"/>
+    <path d="M 36.00 60.00 C 86.00 59.53, 136.00 60.17, 186.00 60.00 C 189.32 63.35, 193.02 66.31, 196.00 70.00 C 196.35 86.67, 195.99 103.33, 196.00 120.00 C 192.74 123.40, 189.27 126.60, 186.00 130.00 C 136.00 130.60, 86.00 130.71, 36.00 130.00 C 32.32 127.01, 28.78 123.89, 26.00 120.00 C 25.96 103.33, 26.17 86.67, 26.00 70.00 C 28.93 66.26, 33.02 63.69, 36.00 60.00" fill="#f1e7cc" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 131.00 130.00 C 133.81 187.98, 136.00 245.99, 138.00 304.00 C 140.69 246.01, 142.46 187.99, 145.00 130.00" fill="#f1e7cc" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="132.0" y1="130" x2="144.0" y2="130" stroke="#f1e7cc" stroke-width="2.4"/>
     <text x="111.0" y="78.0" text-anchor="middle" font-family="Comic Neue, Comic Sans MS, cursive" font-size="13" fill="black"><tspan x="111.0" dy="0">You were jazzingggg</tspan><tspan x="111.0" dy="16">twenty twooo😭</tspan><tspan x="111.0" dy="16">WHOLESOME MOVIE</tspan></text>
   </g>
 </svg>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 412 402" width="412" height="402" role="img" aria-label="#035 — Marty Supreme (2025)">
-  <rect width="100%" height="100%" fill="white"/>
+  <rect width="100%" height="100%" fill="#f1e7cc"/>
   <text x="206.0" y="34" text-anchor="middle" font-family="Comic Neue, Comic Sans MS, cursive" font-size="16" font-weight="700" fill="black">#035 — Marty Supreme (2025) ★★★★½</text>
   <g class="panel">
     <path d="M 16.00 46.00 C 142.67 45.35, 269.33 45.31, 396.00 46.00 C 396.57 159.33, 396.77 272.67, 396.00 386.00 C 269.33 386.11, 142.67 385.35, 16.00 386.00 C 15.79 272.67, 15.65 159.33, 16.00 46.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
@@ -22,9 +22,9 @@
     <path d="M 274.40 290.00 C 279.11 297.17, 284.85 303.50, 290.40 310.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
     <path d="M 274.40 324.00 C 270.82 332.86, 266.29 341.28, 262.40 350.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
     <path d="M 274.40 324.00 C 278.40 332.67, 283.29 340.92, 286.40 350.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
-    <path d="M 36.00 60.00 C 86.00 60.42, 136.00 59.23, 186.00 60.00 C 189.39 63.27, 192.66 66.67, 196.00 70.00 C 196.37 81.33, 195.75 92.67, 196.00 104.00 C 192.33 106.99, 188.90 110.23, 186.00 114.00 C 136.00 113.56, 86.00 113.81, 36.00 114.00 C 32.32 111.01, 29.16 107.51, 26.00 104.00 C 25.24 92.67, 26.03 81.33, 26.00 70.00 C 29.76 67.10, 32.79 63.46, 36.00 60.00" fill="white" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M 138.60 114.00 C 140.75 167.34, 142.86 220.68, 145.60 274.00 C 148.51 220.69, 149.73 167.31, 152.60 114.00" fill="white" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
-    <line x1="139.60000000000002" y1="114" x2="151.60000000000002" y2="114" stroke="white" stroke-width="2.4"/>
+    <path d="M 36.00 60.00 C 86.00 60.42, 136.00 59.23, 186.00 60.00 C 189.39 63.27, 192.66 66.67, 196.00 70.00 C 196.37 81.33, 195.75 92.67, 196.00 104.00 C 192.33 106.99, 188.90 110.23, 186.00 114.00 C 136.00 113.56, 86.00 113.81, 36.00 114.00 C 32.32 111.01, 29.16 107.51, 26.00 104.00 C 25.24 92.67, 26.03 81.33, 26.00 70.00 C 29.76 67.10, 32.79 63.46, 36.00 60.00" fill="#f1e7cc" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 138.60 114.00 C 140.75 167.34, 142.86 220.68, 145.60 274.00 C 148.51 220.69, 149.73 167.31, 152.60 114.00" fill="#f1e7cc" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="139.60000000000002" y1="114" x2="151.60000000000002" y2="114" stroke="#f1e7cc" stroke-width="2.4"/>
     <text x="111.0" y="78.0" text-anchor="middle" font-family="Comic Neue, Comic Sans MS, cursive" font-size="13" fill="black"><tspan x="111.0" dy="0">may the paddle chip</tspan><tspan x="111.0" dy="16">and shatter</tspan></text>
   </g>
 </svg>

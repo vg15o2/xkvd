@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 806 402" width="806" height="402" role="img" aria-label="#031 — Avatar: Fire and Ash (2025)">
-  <rect width="100%" height="100%" fill="white"/>
+  <rect width="100%" height="100%" fill="#f1e7cc"/>
   <text x="403.0" y="34" text-anchor="middle" font-family="Comic Neue, Comic Sans MS, cursive" font-size="16" font-weight="700" fill="black">#031 — Avatar: Fire and Ash (2025) ★★★★</text>
   <g class="panel">
     <path d="M 16.00 46.00 C 142.67 45.98, 269.33 45.80, 396.00 46.00 C 396.55 159.33, 396.54 272.67, 396.00 386.00 C 269.33 386.27, 142.67 386.49, 16.00 386.00 C 15.20 272.67, 15.88 159.33, 16.00 46.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
@@ -22,13 +22,13 @@
     <path d="M 274.40 292.00 C 280.46 297.35, 284.45 304.55, 290.40 310.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
     <path d="M 274.40 324.00 C 269.74 332.36, 265.60 340.96, 262.40 350.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
     <path d="M 274.40 324.00 C 278.95 332.41, 282.78 341.16, 286.40 350.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
-    <path d="M 36.00 60.00 C 86.00 59.95, 136.00 59.78, 186.00 60.00 C 189.34 63.32, 192.53 66.80, 196.00 70.00 C 195.23 92.00, 196.47 114.00, 196.00 136.00 C 193.05 139.72, 189.70 143.03, 186.00 146.00 C 136.00 145.68, 86.00 145.62, 36.00 146.00 C 32.87 142.47, 29.20 139.46, 26.00 136.00 C 26.66 114.00, 25.69 92.00, 26.00 70.00 C 29.48 66.81, 32.56 63.23, 36.00 60.00" fill="white" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M 138.60 146.00 C 140.36 188.70, 144.06 231.29, 145.60 274.00 C 147.53 231.31, 149.89 188.65, 152.60 146.00" fill="white" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
-    <line x1="139.60000000000002" y1="146" x2="151.60000000000002" y2="146" stroke="white" stroke-width="2.4"/>
+    <path d="M 36.00 60.00 C 86.00 59.95, 136.00 59.78, 186.00 60.00 C 189.34 63.32, 192.53 66.80, 196.00 70.00 C 195.23 92.00, 196.47 114.00, 196.00 136.00 C 193.05 139.72, 189.70 143.03, 186.00 146.00 C 136.00 145.68, 86.00 145.62, 36.00 146.00 C 32.87 142.47, 29.20 139.46, 26.00 136.00 C 26.66 114.00, 25.69 92.00, 26.00 70.00 C 29.48 66.81, 32.56 63.23, 36.00 60.00" fill="#f1e7cc" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 138.60 146.00 C 140.36 188.70, 144.06 231.29, 145.60 274.00 C 147.53 231.31, 149.89 188.65, 152.60 146.00" fill="#f1e7cc" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="139.60000000000002" y1="146" x2="151.60000000000002" y2="146" stroke="#f1e7cc" stroke-width="2.4"/>
     <text x="111.0" y="78.0" text-anchor="middle" font-family="Comic Neue, Comic Sans MS, cursive" font-size="13" fill="black"><tspan x="111.0" dy="0">Against all popular</tspan><tspan x="111.0" dy="16">opinions I liked itt</tspan><tspan x="111.0" dy="16">Cool viz, and</tspan><tspan x="111.0" dy="16">bromance.</tspan></text>
-    <path d="M 226.00 60.00 C 276.00 60.76, 326.00 59.55, 376.00 60.00 C 379.31 63.36, 382.59 66.74, 386.00 70.00 C 385.68 92.00, 385.98 114.00, 386.00 136.00 C 382.77 139.44, 379.27 142.60, 376.00 146.00 C 326.00 146.46, 276.00 145.53, 226.00 146.00 C 223.08 142.26, 219.22 139.44, 216.00 136.00 C 216.60 114.00, 215.32 92.00, 216.00 70.00 C 219.50 66.83, 222.14 62.80, 226.00 60.00" fill="white" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M 259.40 146.00 C 261.32 188.69, 264.33 231.32, 266.40 274.00 C 268.97 231.35, 271.50 188.69, 273.40 146.00" fill="white" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
-    <line x1="260.40000000000003" y1="146" x2="272.40000000000003" y2="146" stroke="white" stroke-width="2.4"/>
+    <path d="M 226.00 60.00 C 276.00 60.76, 326.00 59.55, 376.00 60.00 C 379.31 63.36, 382.59 66.74, 386.00 70.00 C 385.68 92.00, 385.98 114.00, 386.00 136.00 C 382.77 139.44, 379.27 142.60, 376.00 146.00 C 326.00 146.46, 276.00 145.53, 226.00 146.00 C 223.08 142.26, 219.22 139.44, 216.00 136.00 C 216.60 114.00, 215.32 92.00, 216.00 70.00 C 219.50 66.83, 222.14 62.80, 226.00 60.00" fill="#f1e7cc" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 259.40 146.00 C 261.32 188.69, 264.33 231.32, 266.40 274.00 C 268.97 231.35, 271.50 188.69, 273.40 146.00" fill="#f1e7cc" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="260.40000000000003" y1="146" x2="272.40000000000003" y2="146" stroke="#f1e7cc" stroke-width="2.4"/>
     <text x="301.0" y="78.0" text-anchor="middle" font-family="Comic Neue, Comic Sans MS, cursive" font-size="13" fill="black"><tspan x="301.0" dy="0">I see the slow arc</tspan><tspan x="301.0" dy="16">shift and character</tspan><tspan x="301.0" dy="16">development or</tspan><tspan x="301.0" dy="16">whatsoever.</tspan></text>
   </g>
   <g class="panel">
@@ -58,9 +58,9 @@
     <path d="M 668.40 292.00 C 673.55 298.17, 678.65 304.37, 684.40 310.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
     <path d="M 668.40 324.00 C 663.97 332.47, 660.37 341.32, 656.40 350.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
     <path d="M 668.40 324.00 C 672.63 332.56, 677.15 340.99, 680.40 350.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
-    <path d="M 430.00 60.00 C 480.00 59.62, 530.00 59.67, 580.00 60.00 C 582.83 63.83, 587.20 66.13, 590.00 70.00 C 590.69 86.67, 590.45 103.33, 590.00 120.00 C 586.51 123.18, 582.90 126.23, 580.00 130.00 C 530.00 129.21, 480.00 130.07, 430.00 130.00 C 426.75 126.59, 423.06 123.61, 420.00 120.00 C 419.20 103.33, 420.68 86.67, 420.00 70.00 C 423.36 66.69, 426.58 63.24, 430.00 60.00" fill="white" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M 532.60 130.00 C 534.59 178.02, 537.67 225.98, 539.60 274.00 C 541.57 225.98, 543.82 177.98, 546.60 130.00" fill="white" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
-    <line x1="533.6" y1="130" x2="545.6" y2="130" stroke="white" stroke-width="2.4"/>
+    <path d="M 430.00 60.00 C 480.00 59.62, 530.00 59.67, 580.00 60.00 C 582.83 63.83, 587.20 66.13, 590.00 70.00 C 590.69 86.67, 590.45 103.33, 590.00 120.00 C 586.51 123.18, 582.90 126.23, 580.00 130.00 C 530.00 129.21, 480.00 130.07, 430.00 130.00 C 426.75 126.59, 423.06 123.61, 420.00 120.00 C 419.20 103.33, 420.68 86.67, 420.00 70.00 C 423.36 66.69, 426.58 63.24, 430.00 60.00" fill="#f1e7cc" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 532.60 130.00 C 534.59 178.02, 537.67 225.98, 539.60 274.00 C 541.57 225.98, 543.82 177.98, 546.60 130.00" fill="#f1e7cc" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="533.6" y1="130" x2="545.6" y2="130" stroke="#f1e7cc" stroke-width="2.4"/>
     <text x="505.0" y="78.0" text-anchor="middle" font-family="Comic Neue, Comic Sans MS, cursive" font-size="13" fill="black"><tspan x="505.0" dy="0">And w high hopes I</tspan><tspan x="505.0" dy="16">look fwd P.s Varang is</tspan><tspan x="505.0" dy="16">so smexyyy</tspan></text>
   </g>
 </svg>

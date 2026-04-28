@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 806 402" width="806" height="402" role="img" aria-label="#046 — Spirited Away (2001)">
-  <rect width="100%" height="100%" fill="white"/>
+  <rect width="100%" height="100%" fill="#f1e7cc"/>
   <text x="403.0" y="34" text-anchor="middle" font-family="Comic Neue, Comic Sans MS, cursive" font-size="16" font-weight="700" fill="black">#046 — Spirited Away (2001) ★★★★★</text>
   <g class="panel">
     <path d="M 16.00 46.00 C 142.67 45.43, 269.33 45.82, 396.00 46.00 C 395.66 159.33, 395.23 272.67, 396.00 386.00 C 269.33 385.39, 142.67 385.98, 16.00 386.00 C 15.40 272.67, 16.54 159.33, 16.00 46.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
     <path d="M 26.00 362.00 C 146.00 362.23, 266.00 361.11, 386.00 362.00" fill="none" stroke="black" stroke-width="1.4" stroke-linecap="round"/>
     <path d="M 84.40 314.00 C 104.40 314.72, 124.40 313.92, 144.40 314.00 C 144.25 324.67, 144.03 335.33, 144.40 346.00 C 124.40 346.02, 104.40 346.52, 84.40 346.00 C 84.00 335.33, 85.01 324.67, 84.40 314.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M 84.40 302.00 C 104.40 302.59, 124.40 302.28, 144.40 302.00 C 144.69 306.00, 143.65 310.00, 144.40 314.00 C 124.40 313.81, 104.40 314.45, 84.40 314.00 C 84.24 310.00, 85.03 306.00, 84.40 302.00" fill="white" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 84.40 302.00 C 104.40 302.59, 124.40 302.28, 144.40 302.00 C 144.69 306.00, 143.65 310.00, 144.40 314.00 C 124.40 313.81, 104.40 314.45, 84.40 314.00 C 84.24 310.00, 85.03 306.00, 84.40 302.00" fill="#f1e7cc" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
     <path d="M 88.40 314.00 C 91.85 309.45, 96.15 305.75, 100.40 302.00 C 103.07 301.78, 105.73 302.22, 108.40 302.00 C 104.77 306.37, 99.86 309.46, 96.40 314.00 C 93.73 314.31, 91.07 313.60, 88.40 314.00" fill="black" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
     <path d="M 112.40 314.00 C 116.01 309.61, 120.84 306.44, 124.40 302.00 C 127.07 301.85, 129.73 302.41, 132.40 302.00 C 128.55 306.15, 124.42 310.02, 120.40 314.00 C 117.73 313.39, 115.07 314.07, 112.40 314.00" fill="black" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
     <path d="M 278.82 270.00 C 278.27 271.49, 278.16 273.06, 277.95 274.62 C 276.96 275.81, 275.73 276.81, 275.06 278.26 C 273.66 279.09, 272.90 280.62, 271.57 281.52 C 269.95 281.47, 268.44 282.28, 266.80 282.09 C 265.42 281.30, 263.83 281.20, 262.35 280.73 C 260.92 280.13, 259.67 279.18, 258.27 278.53 C 257.63 277.10, 256.84 275.77, 255.90 274.52 C 255.29 273.05, 254.72 271.56, 254.40 270.00 C 254.60 268.40, 255.21 266.92, 255.67 265.39 C 256.31 263.93, 257.20 262.63, 258.21 261.41 C 259.35 260.28, 261.01 259.94, 262.18 258.86 C 263.70 258.47, 265.30 258.53, 266.80 258.07 C 268.36 258.35, 269.97 258.22, 271.52 258.61 C 272.73 259.63, 274.04 260.53, 275.26 261.54 C 276.34 262.69, 277.08 264.08, 277.92 265.39 C 278.09 266.96, 278.52 268.46, 278.82 270.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
@@ -18,9 +18,9 @@
     <path d="M 266.80 292.00 C 271.89 298.21, 276.83 304.57, 282.80 310.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
     <path d="M 266.80 324.00 C 263.56 333.02, 259.18 341.51, 254.80 350.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
     <path d="M 266.80 324.00 C 271.11 332.52, 274.84 341.32, 278.80 350.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
-    <path d="M 226.00 60.00 C 276.00 60.51, 326.00 60.24, 376.00 60.00 C 379.86 62.81, 382.26 67.07, 386.00 70.00 C 386.63 81.33, 386.18 92.67, 386.00 104.00 C 382.25 106.91, 379.61 110.94, 376.00 114.00 C 326.00 113.57, 276.00 113.96, 226.00 114.00 C 223.15 110.19, 218.84 107.82, 216.00 104.00 C 216.30 92.67, 215.62 81.33, 216.00 70.00 C 219.01 66.35, 223.06 63.72, 226.00 60.00" fill="white" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M 251.80 114.00 C 253.75 167.35, 256.08 220.68, 258.80 274.00 C 261.53 220.68, 262.75 167.30, 265.80 114.00" fill="white" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
-    <line x1="252.8" y1="114" x2="264.8" y2="114" stroke="white" stroke-width="2.4"/>
+    <path d="M 226.00 60.00 C 276.00 60.51, 326.00 60.24, 376.00 60.00 C 379.86 62.81, 382.26 67.07, 386.00 70.00 C 386.63 81.33, 386.18 92.67, 386.00 104.00 C 382.25 106.91, 379.61 110.94, 376.00 114.00 C 326.00 113.57, 276.00 113.96, 226.00 114.00 C 223.15 110.19, 218.84 107.82, 216.00 104.00 C 216.30 92.67, 215.62 81.33, 216.00 70.00 C 219.01 66.35, 223.06 63.72, 226.00 60.00" fill="#f1e7cc" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 251.80 114.00 C 253.75 167.35, 256.08 220.68, 258.80 274.00 C 261.53 220.68, 262.75 167.30, 265.80 114.00" fill="#f1e7cc" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="252.8" y1="114" x2="264.8" y2="114" stroke="#f1e7cc" stroke-width="2.4"/>
     <text x="301.0" y="78.0" text-anchor="middle" font-family="Comic Neue, Comic Sans MS, cursive" font-size="13" fill="black"><tspan x="301.0" dy="0">third movie of the day</tspan><tspan x="301.0" dy="16">btw.</tspan></text>
   </g>
   <g class="panel">
@@ -50,9 +50,9 @@
     <path d="M 668.40 292.00 C 674.19 297.59, 678.43 304.56, 684.40 310.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
     <path d="M 668.40 324.00 C 665.30 333.08, 660.90 341.57, 656.40 350.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
     <path d="M 668.40 324.00 C 671.81 332.94, 677.11 341.00, 680.40 350.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
-    <path d="M 430.00 60.00 C 480.00 59.46, 530.00 60.33, 580.00 60.00 C 583.12 63.55, 586.84 66.49, 590.00 70.00 C 589.95 92.00, 590.03 114.00, 590.00 136.00 C 587.04 139.71, 583.57 142.90, 580.00 146.00 C 530.00 146.43, 480.00 145.78, 430.00 146.00 C 426.55 142.78, 423.65 139.02, 420.00 136.00 C 419.26 114.00, 420.66 92.00, 420.00 70.00 C 423.16 66.49, 426.49 63.16, 430.00 60.00" fill="white" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M 532.60 146.00 C 535.44 188.64, 536.81 231.36, 539.60 274.00 C 542.62 231.37, 544.01 188.65, 546.60 146.00" fill="white" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
-    <line x1="533.6" y1="146" x2="545.6" y2="146" stroke="white" stroke-width="2.4"/>
+    <path d="M 430.00 60.00 C 480.00 59.46, 530.00 60.33, 580.00 60.00 C 583.12 63.55, 586.84 66.49, 590.00 70.00 C 589.95 92.00, 590.03 114.00, 590.00 136.00 C 587.04 139.71, 583.57 142.90, 580.00 146.00 C 530.00 146.43, 480.00 145.78, 430.00 146.00 C 426.55 142.78, 423.65 139.02, 420.00 136.00 C 419.26 114.00, 420.66 92.00, 420.00 70.00 C 423.16 66.49, 426.49 63.16, 430.00 60.00" fill="#f1e7cc" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 532.60 146.00 C 535.44 188.64, 536.81 231.36, 539.60 274.00 C 542.62 231.37, 544.01 188.65, 546.60 146.00" fill="#f1e7cc" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="533.6" y1="146" x2="545.6" y2="146" stroke="#f1e7cc" stroke-width="2.4"/>
     <text x="505.0" y="78.0" text-anchor="middle" font-family="Comic Neue, Comic Sans MS, cursive" font-size="13" fill="black"><tspan x="505.0" dy="0">I uwu rewatching this.</tspan><tspan x="505.0" dy="16">something about taking</tspan><tspan x="505.0" dy="16">a day off and watching</tspan><tspan x="505.0" dy="16">literally…</tspan></text>
   </g>
 </svg>

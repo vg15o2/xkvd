@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 806 402" width="806" height="402" role="img" aria-label="#028 — Home Alone 2: Lost in New York (1992)">
-  <rect width="100%" height="100%" fill="white"/>
+  <rect width="100%" height="100%" fill="#f1e7cc"/>
   <text x="403.0" y="34" text-anchor="middle" font-family="Comic Neue, Comic Sans MS, cursive" font-size="16" font-weight="700" fill="black">#028 — Home Alone 2: Lost in New York (1992) ★★★★</text>
   <g class="panel">
     <path d="M 16.00 46.00 C 142.67 45.25, 269.33 46.21, 396.00 46.00 C 395.42 159.33, 396.01 272.67, 396.00 386.00 C 269.33 386.03, 142.67 386.57, 16.00 386.00 C 15.91 272.67, 15.54 159.33, 16.00 46.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
@@ -27,13 +27,13 @@
     <path d="M 274.40 292.00 C 279.17 298.50, 285.79 303.36, 290.40 310.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
     <path d="M 274.40 324.00 C 271.28 333.07, 266.21 341.25, 262.40 350.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
     <path d="M 274.40 324.00 C 277.99 332.86, 281.60 341.70, 286.40 350.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
-    <path d="M 36.00 60.00 C 82.67 59.51, 129.33 59.60, 176.00 60.00 C 178.88 63.79, 182.59 66.74, 186.00 70.00 C 186.14 81.33, 186.16 92.67, 186.00 104.00 C 182.46 107.13, 179.51 110.84, 176.00 114.00 C 129.33 114.71, 82.67 114.20, 36.00 114.00 C 33.06 110.27, 29.61 107.05, 26.00 104.00 C 25.90 92.67, 25.60 81.33, 26.00 70.00 C 29.55 66.88, 32.18 62.85, 36.00 60.00" fill="white" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M 138.60 114.00 C 140.42 167.36, 143.63 220.65, 145.60 274.00 C 147.85 220.66, 149.83 167.31, 152.60 114.00" fill="white" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
-    <line x1="139.60000000000002" y1="114" x2="151.60000000000002" y2="114" stroke="white" stroke-width="2.4"/>
+    <path d="M 36.00 60.00 C 82.67 59.51, 129.33 59.60, 176.00 60.00 C 178.88 63.79, 182.59 66.74, 186.00 70.00 C 186.14 81.33, 186.16 92.67, 186.00 104.00 C 182.46 107.13, 179.51 110.84, 176.00 114.00 C 129.33 114.71, 82.67 114.20, 36.00 114.00 C 33.06 110.27, 29.61 107.05, 26.00 104.00 C 25.90 92.67, 25.60 81.33, 26.00 70.00 C 29.55 66.88, 32.18 62.85, 36.00 60.00" fill="#f1e7cc" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 138.60 114.00 C 140.42 167.36, 143.63 220.65, 145.60 274.00 C 147.85 220.66, 149.83 167.31, 152.60 114.00" fill="#f1e7cc" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="139.60000000000002" y1="114" x2="151.60000000000002" y2="114" stroke="#f1e7cc" stroke-width="2.4"/>
     <text x="106.0" y="78.0" text-anchor="middle" font-family="Comic Neue, Comic Sans MS, cursive" font-size="13" fill="black"><tspan x="106.0" dy="0">I fuckin love Joe</tspan><tspan x="106.0" dy="16">pesci man.</tspan></text>
-    <path d="M 226.00 60.00 C 276.00 60.79, 326.00 59.71, 376.00 60.00 C 379.55 63.12, 382.81 66.52, 386.00 70.00 C 386.16 81.33, 386.35 92.67, 386.00 104.00 C 382.36 107.03, 379.86 111.19, 376.00 114.00 C 326.00 113.29, 276.00 113.95, 226.00 114.00 C 223.23 110.11, 219.22 107.44, 216.00 104.00 C 215.92 92.67, 215.23 81.33, 216.00 70.00 C 219.28 66.62, 222.97 63.64, 226.00 60.00" fill="white" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M 259.40 114.00 C 262.20 167.31, 264.69 220.64, 266.40 274.00 C 268.71 220.67, 270.73 167.32, 273.40 114.00" fill="white" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
-    <line x1="260.40000000000003" y1="114" x2="272.40000000000003" y2="114" stroke="white" stroke-width="2.4"/>
+    <path d="M 226.00 60.00 C 276.00 60.79, 326.00 59.71, 376.00 60.00 C 379.55 63.12, 382.81 66.52, 386.00 70.00 C 386.16 81.33, 386.35 92.67, 386.00 104.00 C 382.36 107.03, 379.86 111.19, 376.00 114.00 C 326.00 113.29, 276.00 113.95, 226.00 114.00 C 223.23 110.11, 219.22 107.44, 216.00 104.00 C 215.92 92.67, 215.23 81.33, 216.00 70.00 C 219.28 66.62, 222.97 63.64, 226.00 60.00" fill="#f1e7cc" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 259.40 114.00 C 262.20 167.31, 264.69 220.64, 266.40 274.00 C 268.71 220.67, 270.73 167.32, 273.40 114.00" fill="#f1e7cc" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="260.40000000000003" y1="114" x2="272.40000000000003" y2="114" stroke="#f1e7cc" stroke-width="2.4"/>
     <text x="301.0" y="78.0" text-anchor="middle" font-family="Comic Neue, Comic Sans MS, cursive" font-size="13" fill="black"><tspan x="301.0" dy="0">P.s kick starting dec</tspan><tspan x="301.0" dy="16">with classic.</tspan></text>
   </g>
   <g class="panel">
@@ -56,9 +56,9 @@
     <path d="M 668.40 292.00 C 673.24 298.44, 678.72 304.31, 684.40 310.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
     <path d="M 668.40 324.00 C 664.20 332.57, 660.44 341.35, 656.40 350.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
     <path d="M 668.40 324.00 C 672.69 332.53, 676.72 341.18, 680.40 350.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
-    <path d="M 430.00 60.00 C 480.00 60.02, 530.00 60.72, 580.00 60.00 C 582.82 63.85, 586.22 67.12, 590.00 70.00 C 589.55 81.33, 590.77 92.67, 590.00 104.00 C 586.88 107.55, 583.78 111.11, 580.00 114.00 C 530.00 114.03, 480.00 113.58, 430.00 114.00 C 426.78 110.55, 423.40 107.26, 420.00 104.00 C 419.53 92.67, 419.24 81.33, 420.00 70.00 C 423.44 66.77, 427.04 63.71, 430.00 60.00" fill="white" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M 532.60 114.00 C 535.30 167.32, 537.08 220.68, 539.60 274.00 C 542.16 220.68, 543.89 167.32, 546.60 114.00" fill="white" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
-    <line x1="533.6" y1="114" x2="545.6" y2="114" stroke="white" stroke-width="2.4"/>
+    <path d="M 430.00 60.00 C 480.00 60.02, 530.00 60.72, 580.00 60.00 C 582.82 63.85, 586.22 67.12, 590.00 70.00 C 589.55 81.33, 590.77 92.67, 590.00 104.00 C 586.88 107.55, 583.78 111.11, 580.00 114.00 C 530.00 114.03, 480.00 113.58, 430.00 114.00 C 426.78 110.55, 423.40 107.26, 420.00 104.00 C 419.53 92.67, 419.24 81.33, 420.00 70.00 C 423.44 66.77, 427.04 63.71, 430.00 60.00" fill="#f1e7cc" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 532.60 114.00 C 535.30 167.32, 537.08 220.68, 539.60 274.00 C 542.16 220.68, 543.89 167.32, 546.60 114.00" fill="#f1e7cc" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="533.6" y1="114" x2="545.6" y2="114" stroke="#f1e7cc" stroke-width="2.4"/>
     <text x="505.0" y="78.0" text-anchor="middle" font-family="Comic Neue, Comic Sans MS, cursive" font-size="13" fill="black"><tspan x="505.0" dy="0">P.s kick starting dec</tspan><tspan x="505.0" dy="16">with classic.</tspan></text>
   </g>
 </svg>

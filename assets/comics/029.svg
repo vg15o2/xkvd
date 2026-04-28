@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 412 402" width="412" height="402" role="img" aria-label="#029 — Pride &amp; Prejudice (2005)">
-  <rect width="100%" height="100%" fill="white"/>
+  <rect width="100%" height="100%" fill="#f1e7cc"/>
   <text x="206.0" y="34" text-anchor="middle" font-family="Comic Neue, Comic Sans MS, cursive" font-size="16" font-weight="700" fill="black">#029 — Pride &amp; Prejudice (2005) ★★★★½</text>
   <g class="panel">
     <path d="M 16.00 46.00 C 142.67 45.88, 269.33 46.76, 396.00 46.00 C 395.24 159.33, 395.96 272.67, 396.00 386.00 C 269.33 385.51, 142.67 386.36, 16.00 386.00 C 16.25 272.67, 15.82 159.33, 16.00 46.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
@@ -17,9 +17,9 @@
     <path d="M 141.60 320.00 C 143.15 319.77, 143.98 318.10, 145.60 318.00" fill="none" stroke="black" stroke-width="1.4" stroke-linecap="round"/>
     <path d="M 258.40 322.00 C 269.07 321.51, 279.73 322.61, 290.40 322.00 C 288.81 318.77, 287.40 315.47, 286.40 312.00 C 278.40 311.44, 270.40 311.76, 262.40 312.00 C 260.97 315.29, 259.00 318.37, 258.40 322.00" fill="black" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
     <path d="M 256.40 322.00 C 268.40 321.53, 280.40 321.04, 292.40 322.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
-    <path d="M 36.00 60.00 C 86.00 60.64, 136.00 59.46, 186.00 60.00 C 189.09 63.57, 193.06 66.27, 196.00 70.00 C 196.07 81.33, 195.28 92.67, 196.00 104.00 C 192.22 106.89, 189.64 110.97, 186.00 114.00 C 136.00 114.71, 86.00 114.69, 36.00 114.00 C 32.68 110.65, 29.34 107.32, 26.00 104.00 C 25.71 92.67, 26.12 81.33, 26.00 70.00 C 29.21 66.55, 32.75 63.42, 36.00 60.00" fill="white" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M 138.60 114.00 C 140.48 188.01, 143.12 262.00, 145.60 336.00 C 148.38 262.01, 149.55 187.98, 152.60 114.00" fill="white" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
-    <line x1="139.60000000000002" y1="114" x2="151.60000000000002" y2="114" stroke="white" stroke-width="2.4"/>
+    <path d="M 36.00 60.00 C 86.00 60.64, 136.00 59.46, 186.00 60.00 C 189.09 63.57, 193.06 66.27, 196.00 70.00 C 196.07 81.33, 195.28 92.67, 196.00 104.00 C 192.22 106.89, 189.64 110.97, 186.00 114.00 C 136.00 114.71, 86.00 114.69, 36.00 114.00 C 32.68 110.65, 29.34 107.32, 26.00 104.00 C 25.71 92.67, 26.12 81.33, 26.00 70.00 C 29.21 66.55, 32.75 63.42, 36.00 60.00" fill="#f1e7cc" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 138.60 114.00 C 140.48 188.01, 143.12 262.00, 145.60 336.00 C 148.38 262.01, 149.55 187.98, 152.60 114.00" fill="#f1e7cc" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="139.60000000000002" y1="114" x2="151.60000000000002" y2="114" stroke="#f1e7cc" stroke-width="2.4"/>
     <text x="111.0" y="78.0" text-anchor="middle" font-family="Comic Neue, Comic Sans MS, cursive" font-size="13" fill="black"><tspan x="111.0" dy="0">Awfully perfect period</tspan><tspan x="111.0" dy="16">drama ever</tspan></text>
   </g>
 </svg>

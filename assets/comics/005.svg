@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 412 402" width="412" height="402" role="img" aria-label="#005 — A Complete Unknown (2024)">
-  <rect width="100%" height="100%" fill="white"/>
+  <rect width="100%" height="100%" fill="#f1e7cc"/>
   <text x="206.0" y="34" text-anchor="middle" font-family="Comic Neue, Comic Sans MS, cursive" font-size="16" font-weight="700" fill="black">#005 — A Complete Unknown (2024) ★★★★</text>
   <g class="panel">
     <path d="M 16.00 46.00 C 142.67 46.52, 269.33 46.64, 396.00 46.00 C 395.75 159.33, 395.62 272.67, 396.00 386.00 C 269.33 385.44, 142.67 385.48, 16.00 386.00 C 16.40 272.67, 16.59 159.33, 16.00 46.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
@@ -24,9 +24,9 @@
     <path d="M 296.40 278.00 C 296.89 284.19, 299.14 289.98, 300.40 296.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
     <path d="M 274.40 324.00 C 270.55 332.74, 266.60 341.43, 262.40 350.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
     <path d="M 274.40 324.00 C 278.73 332.52, 282.71 341.19, 286.40 350.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
-    <path d="M 36.00 60.00 C 86.00 60.34, 136.00 59.26, 186.00 60.00 C 188.78 63.89, 192.41 66.93, 196.00 70.00 C 195.81 81.33, 196.22 92.67, 196.00 104.00 C 192.48 107.15, 189.21 110.54, 186.00 114.00 C 136.00 114.43, 86.00 114.51, 36.00 114.00 C 32.46 110.87, 28.78 107.88, 26.00 104.00 C 26.80 92.67, 25.42 81.33, 26.00 70.00 C 29.33 66.66, 32.69 63.36, 36.00 60.00" fill="white" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M 138.60 114.00 C 140.46 167.35, 143.17 220.67, 145.60 274.00 C 148.27 220.68, 150.30 167.33, 152.60 114.00" fill="white" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
-    <line x1="139.60000000000002" y1="114" x2="151.60000000000002" y2="114" stroke="white" stroke-width="2.4"/>
+    <path d="M 36.00 60.00 C 86.00 60.34, 136.00 59.26, 186.00 60.00 C 188.78 63.89, 192.41 66.93, 196.00 70.00 C 195.81 81.33, 196.22 92.67, 196.00 104.00 C 192.48 107.15, 189.21 110.54, 186.00 114.00 C 136.00 114.43, 86.00 114.51, 36.00 114.00 C 32.46 110.87, 28.78 107.88, 26.00 104.00 C 26.80 92.67, 25.42 81.33, 26.00 70.00 C 29.33 66.66, 32.69 63.36, 36.00 60.00" fill="#f1e7cc" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 138.60 114.00 C 140.46 167.35, 143.17 220.67, 145.60 274.00 C 148.27 220.68, 150.30 167.33, 152.60 114.00" fill="#f1e7cc" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="139.60000000000002" y1="114" x2="151.60000000000002" y2="114" stroke="#f1e7cc" stroke-width="2.4"/>
     <text x="111.0" y="78.0" text-anchor="middle" font-family="Comic Neue, Comic Sans MS, cursive" font-size="13" fill="black"><tspan x="111.0" dy="0">Watched on Sunday July</tspan><tspan x="111.0" dy="16">20, 2025.</tspan></text>
   </g>
 </svg>

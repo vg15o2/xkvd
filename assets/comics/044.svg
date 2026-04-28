@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 806 402" width="806" height="402" role="img" aria-label="#044 — Zootopia (2016)">
-  <rect width="100%" height="100%" fill="white"/>
+  <rect width="100%" height="100%" fill="#f1e7cc"/>
   <text x="403.0" y="34" text-anchor="middle" font-family="Comic Neue, Comic Sans MS, cursive" font-size="16" font-weight="700" fill="black">#044 — Zootopia (2016) ★★★★</text>
   <g class="panel">
     <path d="M 16.00 46.00 C 142.67 45.76, 269.33 46.77, 396.00 46.00 C 396.28 159.33, 396.45 272.67, 396.00 386.00 C 269.33 385.83, 142.67 386.33, 16.00 386.00 C 16.09 272.67, 15.21 159.33, 16.00 46.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
@@ -35,9 +35,9 @@
     <path d="M 226.00 340.00 C 234.00 340.15, 242.00 340.56, 250.00 340.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
     <path d="M 250.00 340.00 C 250.90 345.97, 250.46 352.10, 252.00 358.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
     <path d="M 226.00 340.00 C 223.08 345.89, 220.94 352.12, 218.00 358.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
-    <path d="M 36.00 60.00 C 86.00 60.63, 136.00 60.54, 186.00 60.00 C 189.36 63.31, 192.61 66.72, 196.00 70.00 C 196.38 97.33, 195.60 124.67, 196.00 152.00 C 192.56 155.22, 189.71 159.04, 186.00 162.00 C 136.00 161.83, 86.00 161.57, 36.00 162.00 C 32.57 158.76, 29.06 155.60, 26.00 152.00 C 26.21 124.67, 25.60 97.33, 26.00 70.00 C 29.25 66.58, 32.51 63.18, 36.00 60.00" fill="white" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M 131.00 162.00 C 132.88 209.36, 135.18 256.69, 138.00 304.00 C 141.01 256.70, 143.24 209.36, 145.00 162.00" fill="white" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
-    <line x1="132.0" y1="162" x2="144.0" y2="162" stroke="white" stroke-width="2.4"/>
+    <path d="M 36.00 60.00 C 86.00 60.63, 136.00 60.54, 186.00 60.00 C 189.36 63.31, 192.61 66.72, 196.00 70.00 C 196.38 97.33, 195.60 124.67, 196.00 152.00 C 192.56 155.22, 189.71 159.04, 186.00 162.00 C 136.00 161.83, 86.00 161.57, 36.00 162.00 C 32.57 158.76, 29.06 155.60, 26.00 152.00 C 26.21 124.67, 25.60 97.33, 26.00 70.00 C 29.25 66.58, 32.51 63.18, 36.00 60.00" fill="#f1e7cc" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 131.00 162.00 C 132.88 209.36, 135.18 256.69, 138.00 304.00 C 141.01 256.70, 143.24 209.36, 145.00 162.00" fill="#f1e7cc" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="132.0" y1="162" x2="144.0" y2="162" stroke="#f1e7cc" stroke-width="2.4"/>
     <text x="111.0" y="78.0" text-anchor="middle" font-family="Comic Neue, Comic Sans MS, cursive" font-size="13" fill="black"><tspan x="111.0" dy="0">damnzaaa another diz</tspan><tspan x="111.0" dy="16">banger its always the</tspan><tspan x="111.0" dy="16">disney movies when</tspan><tspan x="111.0" dy="16">comfort was the need</tspan><tspan x="111.0" dy="16">eh?</tspan></text>
   </g>
   <g class="panel">
@@ -60,9 +60,9 @@
     <path d="M 668.40 290.00 C 673.07 297.19, 678.88 303.48, 684.40 310.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
     <path d="M 668.40 324.00 C 664.41 332.67, 660.53 341.39, 656.40 350.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
     <path d="M 668.40 324.00 C 673.24 332.28, 675.57 341.72, 680.40 350.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
-    <path d="M 430.00 60.00 C 480.00 60.10, 530.00 60.47, 580.00 60.00 C 582.95 63.72, 586.31 67.02, 590.00 70.00 C 590.47 86.67, 589.83 103.33, 590.00 120.00 C 586.80 123.47, 582.84 126.17, 580.00 130.00 C 530.00 129.67, 480.00 129.82, 430.00 130.00 C 426.85 126.49, 423.33 123.34, 420.00 120.00 C 419.85 103.33, 420.02 86.67, 420.00 70.00 C 423.01 66.35, 426.93 63.59, 430.00 60.00" fill="white" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M 532.60 130.00 C 534.96 178.00, 536.60 226.03, 539.60 274.00 C 541.71 225.99, 544.40 178.01, 546.60 130.00" fill="white" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
-    <line x1="533.6" y1="130" x2="545.6" y2="130" stroke="white" stroke-width="2.4"/>
+    <path d="M 430.00 60.00 C 480.00 60.10, 530.00 60.47, 580.00 60.00 C 582.95 63.72, 586.31 67.02, 590.00 70.00 C 590.47 86.67, 589.83 103.33, 590.00 120.00 C 586.80 123.47, 582.84 126.17, 580.00 130.00 C 530.00 129.67, 480.00 129.82, 430.00 130.00 C 426.85 126.49, 423.33 123.34, 420.00 120.00 C 419.85 103.33, 420.02 86.67, 420.00 70.00 C 423.01 66.35, 426.93 63.59, 430.00 60.00" fill="#f1e7cc" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 532.60 130.00 C 534.96 178.00, 536.60 226.03, 539.60 274.00 C 541.71 225.99, 544.40 178.01, 546.60 130.00" fill="#f1e7cc" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="533.6" y1="130" x2="545.6" y2="130" stroke="#f1e7cc" stroke-width="2.4"/>
     <text x="505.0" y="78.0" text-anchor="middle" font-family="Comic Neue, Comic Sans MS, cursive" font-size="13" fill="black"><tspan x="505.0" dy="0">Godfather cameo was</tspan><tspan x="505.0" dy="16">cherry on top tho chef</tspan><tspan x="505.0" dy="16">kiss</tspan></text>
   </g>
 </svg>

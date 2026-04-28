@@ -22,6 +22,7 @@ PADDING = 16
 HEADER_H = 30
 STROKE = 2.0
 THIN = 1.4
+BG = "#f1e7cc"  # old-book parchment, must match assets/css/xkcd.css body background
 
 # ---------- Wobble (hand-drawn feel) ----------
 
@@ -311,7 +312,7 @@ def prop_clapper(rng: random.Random, x: float, y: float) -> str:
         # body
         _polyline(rng, [(x, y + 12), (x + w, y + 12), (x + w, y + h), (x, y + h)], close=True),
         # top stick
-        _polyline(rng, [(x, y), (x + w, y), (x + w, y + 12), (x, y + 12)], close=True, fill="white"),
+        _polyline(rng, [(x, y), (x + w, y), (x + w, y + 12), (x, y + 12)], close=True, fill=BG),
         # diagonal stripes on top stick
         _polyline(rng, [(x + 4, y + 12), (x + 16, y), (x + 24, y), (x + 12, y + 12)], close=True, fill="black"),
         _polyline(rng, [(x + 28, y + 12), (x + 40, y), (x + 48, y), (x + 36, y + 12)], close=True, fill="black"),
@@ -332,14 +333,14 @@ def prop_thought_bubble(rng: random.Random, x: float, y: float, w: float, lines:
         rx = (w / 2 + 4) + (4 if i % 2 == 0 else -2)
         ry = (h / 2 + 4) + (4 if i % 2 == 0 else -2)
         bumps.append((cx + rx * math.cos(a), cy + ry * math.sin(a)))
-    cloud = _polyline(rng, bumps, close=True, fill="white")
+    cloud = _polyline(rng, bumps, close=True, fill=BG)
     # trail of small circles down to head
     hx, hy = char_head
     trail = []
     for i, t in enumerate([0.55, 0.75, 0.9]):
         tx = cx + (hx - cx) * t
         ty = (y + h) + ((hy - (y + h)) * t * 0.8)
-        trail.append(_wobbly_circle(rng, tx, ty, 4 - i, fill="white"))
+        trail.append(_wobbly_circle(rng, tx, ty, 4 - i, fill=BG))
     text = _bubble_text(x + 8, y + 18, w - 16, lines)
     return cloud + "\n    " + "\n    ".join(trail) + "\n    " + text
 
@@ -371,7 +372,7 @@ def speech_bubble(rng: random.Random, x: float, y: float, w: float, lines: List[
         (x + w - rx, y + h), (x + rx, y + h),
         (x, y + h - rx), (x, y + rx),
     ]
-    rect = _polyline(rng, pts, close=True, fill="white")
+    rect = _polyline(rng, pts, close=True, fill=BG)
 
     # tail: from bubble edge nearest the target, to target point
     tx, ty = tail_to
@@ -380,11 +381,11 @@ def speech_bubble(rng: random.Random, x: float, y: float, w: float, lines: List[
     if ty < y:  # target above bubble (rare)
         by = y
     seam_y = by
-    tail = _polyline(rng, [(bx - 7, by), (tx, ty), (bx + 7, by)], close=False, fill="white")
+    tail = _polyline(rng, [(bx - 7, by), (tx, ty), (bx + 7, by)], close=False, fill=BG)
     # cover the seam where tail meets bubble
     seam_cover = (
         f'<line x1="{bx - 6}" y1="{seam_y}" x2="{bx + 6}" y2="{seam_y}" '
-        f'stroke="white" stroke-width="2.4"/>'
+        f'stroke="{BG}" stroke-width="2.4"/>'
     )
     return rect + "\n    " + tail + "\n    " + seam_cover + "\n    " + _bubble_text(x + 8, y + 18, w - 16, lines)
 
@@ -694,7 +695,7 @@ def render_comic(
         f'<?xml version="1.0" encoding="UTF-8"?>\n'
         f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {width} {height}" '
         f'width="{width}" height="{height}" role="img" aria-label="{html.escape(title)}">\n'
-        f'  <rect width="100%" height="100%" fill="white"/>\n'
+        f'  <rect width="100%" height="100%" fill="{BG}"/>\n'
         f'  {header}\n  '
         + "\n  ".join(panel_blocks)
         + "\n</svg>\n"

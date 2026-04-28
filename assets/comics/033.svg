@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 412 402" width="412" height="402" role="img" aria-label="#033 — Manchester by the Sea (2016)">
-  <rect width="100%" height="100%" fill="white"/>
+  <rect width="100%" height="100%" fill="#f1e7cc"/>
   <text x="206.0" y="34" text-anchor="middle" font-family="Comic Neue, Comic Sans MS, cursive" font-size="16" font-weight="700" fill="black">#033 — Manchester by the Sea (2016) ★★★★</text>
   <g class="panel">
     <path d="M 16.00 46.00 C 142.67 45.58, 269.33 45.30, 396.00 46.00 C 395.38 159.33, 395.48 272.67, 396.00 386.00 C 269.33 385.62, 142.67 386.22, 16.00 386.00 C 15.71 272.67, 16.09 159.33, 16.00 46.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
@@ -19,9 +19,9 @@
     <path d="M 274.40 290.00 C 279.24 297.06, 285.00 303.38, 290.40 310.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
     <path d="M 274.40 324.00 C 270.75 332.83, 266.04 341.17, 262.40 350.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
     <path d="M 274.40 324.00 C 278.72 332.52, 282.47 341.30, 286.40 350.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
-    <path d="M 36.00 60.00 C 82.67 59.37, 129.33 59.89, 176.00 60.00 C 178.97 63.70, 182.83 66.50, 186.00 70.00 C 186.67 81.33, 186.38 92.67, 186.00 104.00 C 182.68 107.34, 179.73 111.06, 176.00 114.00 C 129.33 113.42, 82.67 114.67, 36.00 114.00 C 32.78 110.55, 28.79 107.88, 26.00 104.00 C 26.50 92.67, 26.04 81.33, 26.00 70.00 C 29.11 66.45, 32.67 63.33, 36.00 60.00" fill="white" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M 138.60 114.00 C 141.19 167.32, 143.20 220.67, 145.60 274.00 C 148.10 220.67, 150.80 167.36, 152.60 114.00" fill="white" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
-    <line x1="139.60000000000002" y1="114" x2="151.60000000000002" y2="114" stroke="white" stroke-width="2.4"/>
+    <path d="M 36.00 60.00 C 82.67 59.37, 129.33 59.89, 176.00 60.00 C 178.97 63.70, 182.83 66.50, 186.00 70.00 C 186.67 81.33, 186.38 92.67, 186.00 104.00 C 182.68 107.34, 179.73 111.06, 176.00 114.00 C 129.33 113.42, 82.67 114.67, 36.00 114.00 C 32.78 110.55, 28.79 107.88, 26.00 104.00 C 26.50 92.67, 26.04 81.33, 26.00 70.00 C 29.11 66.45, 32.67 63.33, 36.00 60.00" fill="#f1e7cc" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 138.60 114.00 C 141.19 167.32, 143.20 220.67, 145.60 274.00 C 148.10 220.67, 150.80 167.36, 152.60 114.00" fill="#f1e7cc" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="139.60000000000002" y1="114" x2="151.60000000000002" y2="114" stroke="#f1e7cc" stroke-width="2.4"/>
     <text x="106.0" y="78.0" text-anchor="middle" font-family="Comic Neue, Comic Sans MS, cursive" font-size="13" fill="black"><tspan x="106.0" dy="0">The monologue THE</tspan><tspan x="106.0" dy="16">MONOLOGUE</tspan></text>
   </g>
 </svg>

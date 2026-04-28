@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 806 402" width="806" height="402" role="img" aria-label="#018 — Rain Man (1988)">
-  <rect width="100%" height="100%" fill="white"/>
+  <rect width="100%" height="100%" fill="#f1e7cc"/>
   <text x="403.0" y="34" text-anchor="middle" font-family="Comic Neue, Comic Sans MS, cursive" font-size="16" font-weight="700" fill="black">#018 — Rain Man (1988) ★★★★</text>
   <g class="panel">
     <path d="M 16.00 46.00 C 142.67 45.51, 269.33 46.71, 396.00 46.00 C 396.51 159.33, 396.18 272.67, 396.00 386.00 C 269.33 386.00, 142.67 386.46, 16.00 386.00 C 15.71 272.67, 16.09 159.33, 16.00 46.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
@@ -38,13 +38,13 @@
     <path d="M 226.00 340.00 C 234.00 339.66, 242.00 340.81, 250.00 340.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
     <path d="M 250.00 340.00 C 250.74 345.99, 251.78 351.95, 252.00 358.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
     <path d="M 226.00 340.00 C 224.03 346.31, 221.49 352.37, 218.00 358.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
-    <path d="M 36.00 60.00 C 86.00 59.30, 136.00 60.57, 186.00 60.00 C 189.51 63.15, 193.01 66.32, 196.00 70.00 C 196.63 81.33, 196.27 92.67, 196.00 104.00 C 192.60 107.27, 189.58 110.92, 186.00 114.00 C 136.00 113.62, 86.00 114.29, 36.00 114.00 C 32.68 110.65, 29.86 106.81, 26.00 104.00 C 25.99 92.67, 25.55 81.33, 26.00 70.00 C 29.00 66.33, 33.21 63.88, 36.00 60.00" fill="white" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M 131.00 114.00 C 133.66 177.32, 134.91 240.69, 138.00 304.00 C 140.05 240.66, 142.22 177.32, 145.00 114.00" fill="white" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
-    <line x1="132.0" y1="114" x2="144.0" y2="114" stroke="white" stroke-width="2.4"/>
+    <path d="M 36.00 60.00 C 86.00 59.30, 136.00 60.57, 186.00 60.00 C 189.51 63.15, 193.01 66.32, 196.00 70.00 C 196.63 81.33, 196.27 92.67, 196.00 104.00 C 192.60 107.27, 189.58 110.92, 186.00 114.00 C 136.00 113.62, 86.00 114.29, 36.00 114.00 C 32.68 110.65, 29.86 106.81, 26.00 104.00 C 25.99 92.67, 25.55 81.33, 26.00 70.00 C 29.00 66.33, 33.21 63.88, 36.00 60.00" fill="#f1e7cc" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 131.00 114.00 C 133.66 177.32, 134.91 240.69, 138.00 304.00 C 140.05 240.66, 142.22 177.32, 145.00 114.00" fill="#f1e7cc" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="132.0" y1="114" x2="144.0" y2="114" stroke="#f1e7cc" stroke-width="2.4"/>
     <text x="111.0" y="78.0" text-anchor="middle" font-family="Comic Neue, Comic Sans MS, cursive" font-size="13" fill="black"><tspan x="111.0" dy="0">Kmart sucks Yeah Yeah</tspan><tspan x="111.0" dy="16">Yeahh!</tspan></text>
-    <path d="M 228.00 60.00 C 277.33 60.75, 326.67 60.07, 376.00 60.00 C 379.72 62.94, 383.13 66.20, 386.00 70.00 C 385.92 86.67, 386.53 103.33, 386.00 120.00 C 382.73 123.40, 379.06 126.39, 376.00 130.00 C 326.67 129.97, 277.33 130.20, 228.00 130.00 C 224.97 126.37, 221.76 122.90, 218.00 120.00 C 218.58 103.33, 217.71 86.67, 218.00 70.00 C 221.24 66.57, 225.16 63.83, 228.00 60.00" fill="white" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M 223.00 130.00 C 221.93 188.02, 220.38 246.02, 218.00 304.00 C 224.33 246.00, 231.09 188.05, 237.00 130.00" fill="white" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
-    <line x1="224" y1="130" x2="236" y2="130" stroke="white" stroke-width="2.4"/>
+    <path d="M 228.00 60.00 C 277.33 60.75, 326.67 60.07, 376.00 60.00 C 379.72 62.94, 383.13 66.20, 386.00 70.00 C 385.92 86.67, 386.53 103.33, 386.00 120.00 C 382.73 123.40, 379.06 126.39, 376.00 130.00 C 326.67 129.97, 277.33 130.20, 228.00 130.00 C 224.97 126.37, 221.76 122.90, 218.00 120.00 C 218.58 103.33, 217.71 86.67, 218.00 70.00 C 221.24 66.57, 225.16 63.83, 228.00 60.00" fill="#f1e7cc" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 223.00 130.00 C 221.93 188.02, 220.38 246.02, 218.00 304.00 C 224.33 246.00, 231.09 188.05, 237.00 130.00" fill="#f1e7cc" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="224" y1="130" x2="236" y2="130" stroke="#f1e7cc" stroke-width="2.4"/>
     <text x="302.0" y="78.0" text-anchor="middle" font-family="Comic Neue, Comic Sans MS, cursive" font-size="13" fill="black"><tspan x="302.0" dy="0">Absolutely loved</tspan><tspan x="302.0" dy="16">everything😭 246</tspan><tspan x="302.0" dy="16">toothpicks and all</tspan></text>
   </g>
   <g class="panel">
@@ -77,9 +77,9 @@
     <path d="M 668.40 292.00 C 673.72 298.01, 679.61 303.52, 684.40 310.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
     <path d="M 668.40 324.00 C 664.89 332.89, 659.72 341.02, 656.40 350.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
     <path d="M 668.40 324.00 C 673.09 332.35, 677.26 340.94, 680.40 350.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
-    <path d="M 430.00 60.00 C 479.33 60.59, 528.67 59.65, 578.00 60.00 C 581.65 63.02, 584.50 66.83, 588.00 70.00 C 587.78 86.67, 588.11 103.33, 588.00 120.00 C 584.38 123.05, 580.85 126.19, 578.00 130.00 C 528.67 130.15, 479.33 129.35, 430.00 130.00 C 426.25 127.09, 423.03 123.64, 420.00 120.00 C 419.93 103.33, 420.12 86.67, 420.00 70.00 C 423.75 67.09, 426.14 62.81, 430.00 60.00" fill="white" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M 532.60 130.00 C 535.24 177.99, 537.90 225.97, 539.60 274.00 C 541.56 225.98, 544.62 178.02, 546.60 130.00" fill="white" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
-    <line x1="533.6" y1="130" x2="545.6" y2="130" stroke="white" stroke-width="2.4"/>
+    <path d="M 430.00 60.00 C 479.33 60.59, 528.67 59.65, 578.00 60.00 C 581.65 63.02, 584.50 66.83, 588.00 70.00 C 587.78 86.67, 588.11 103.33, 588.00 120.00 C 584.38 123.05, 580.85 126.19, 578.00 130.00 C 528.67 130.15, 479.33 129.35, 430.00 130.00 C 426.25 127.09, 423.03 123.64, 420.00 120.00 C 419.93 103.33, 420.12 86.67, 420.00 70.00 C 423.75 67.09, 426.14 62.81, 430.00 60.00" fill="#f1e7cc" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 532.60 130.00 C 535.24 177.99, 537.90 225.97, 539.60 274.00 C 541.56 225.98, 544.62 178.02, 546.60 130.00" fill="#f1e7cc" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="533.6" y1="130" x2="545.6" y2="130" stroke="#f1e7cc" stroke-width="2.4"/>
     <text x="504.0" y="78.0" text-anchor="middle" font-family="Comic Neue, Comic Sans MS, cursive" font-size="13" fill="black"><tspan x="504.0" dy="0">Absolutely loved</tspan><tspan x="504.0" dy="16">everything😭 246</tspan><tspan x="504.0" dy="16">toothpicks and all</tspan></text>
   </g>
 </svg>

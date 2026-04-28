@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 412 402" width="412" height="402" role="img" aria-label="#036 — Coco (2017)">
-  <rect width="100%" height="100%" fill="white"/>
+  <rect width="100%" height="100%" fill="#f1e7cc"/>
   <text x="206.0" y="34" text-anchor="middle" font-family="Comic Neue, Comic Sans MS, cursive" font-size="16" font-weight="700" fill="black">#036 — Coco (2017) ★★★★</text>
   <g class="panel">
     <path d="M 16.00 46.00 C 142.67 46.67, 269.33 46.04, 396.00 46.00 C 395.61 159.33, 395.86 272.67, 396.00 386.00 C 269.33 385.40, 142.67 386.57, 16.00 386.00 C 15.97 272.67, 16.17 159.33, 16.00 46.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
@@ -14,9 +14,9 @@
     <path d="M 119.60 322.00 C 131.60 322.30, 143.60 322.38, 155.60 322.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
     <path d="M 260.40 322.00 C 269.73 321.67, 279.07 321.22, 288.40 322.00 C 287.65 319.04, 285.77 316.65, 284.40 314.00 C 277.73 313.59, 271.07 313.20, 264.40 314.00 C 263.68 316.97, 261.05 318.99, 260.40 322.00" fill="black" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
     <path d="M 285.97 314.00 C 286.34 314.22, 286.21 314.43, 285.95 314.64 C 285.83 314.86, 285.70 315.07, 285.73 315.33 C 285.76 315.74, 285.30 315.62, 285.17 315.87 C 284.80 316.06, 284.79 315.34, 284.40 315.56 C 284.23 315.95, 283.70 315.80, 283.51 316.16 C 283.58 315.72, 283.00 315.79, 282.94 315.46 C 283.23 315.11, 282.79 314.95, 282.73 314.69 C 282.81 314.46, 282.86 314.22, 282.96 314.00 C 282.71 313.83, 282.61 313.61, 282.78 313.33 C 283.19 313.33, 282.88 312.85, 283.16 312.76 C 283.32 312.41, 283.55 312.39, 283.83 312.62 C 283.87 312.18, 284.51 312.05, 284.40 311.53 C 284.89 311.56, 284.57 312.31, 285.10 312.31 C 285.15 312.58, 285.60 312.49, 285.56 312.84 C 285.95 313.00, 286.42 312.67, 286.78 313.01 C 286.65 313.46, 285.99 313.47, 285.97 314.00" fill="black" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
-    <path d="M 36.00 60.00 C 86.00 59.58, 136.00 59.52, 186.00 60.00 C 189.89 62.78, 192.60 66.73, 196.00 70.00 C 196.29 86.67, 196.63 103.33, 196.00 120.00 C 192.52 123.18, 188.80 126.14, 186.00 130.00 C 136.00 129.72, 86.00 130.04, 36.00 130.00 C 32.70 126.63, 29.52 123.15, 26.00 120.00 C 26.58 103.33, 25.47 86.67, 26.00 70.00 C 29.24 66.57, 33.22 63.89, 36.00 60.00" fill="white" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M 138.60 130.00 C 141.53 198.65, 142.50 267.36, 145.60 336.00 C 147.30 267.31, 149.75 198.65, 152.60 130.00" fill="white" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
-    <line x1="139.60000000000002" y1="130" x2="151.60000000000002" y2="130" stroke="white" stroke-width="2.4"/>
+    <path d="M 36.00 60.00 C 86.00 59.58, 136.00 59.52, 186.00 60.00 C 189.89 62.78, 192.60 66.73, 196.00 70.00 C 196.29 86.67, 196.63 103.33, 196.00 120.00 C 192.52 123.18, 188.80 126.14, 186.00 130.00 C 136.00 129.72, 86.00 130.04, 36.00 130.00 C 32.70 126.63, 29.52 123.15, 26.00 120.00 C 26.58 103.33, 25.47 86.67, 26.00 70.00 C 29.24 66.57, 33.22 63.89, 36.00 60.00" fill="#f1e7cc" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 138.60 130.00 C 141.53 198.65, 142.50 267.36, 145.60 336.00 C 147.30 267.31, 149.75 198.65, 152.60 130.00" fill="#f1e7cc" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="139.60000000000002" y1="130" x2="151.60000000000002" y2="130" stroke="#f1e7cc" stroke-width="2.4"/>
     <text x="111.0" y="78.0" text-anchor="middle" font-family="Comic Neue, Comic Sans MS, cursive" font-size="13" fill="black"><tspan x="111.0" dy="0">remember me! each time</tspan><tspan x="111.0" dy="16">you hear a sad guitar</tspan><tspan x="111.0" dy="16">re mem ber me</tspan></text>
   </g>
 </svg>

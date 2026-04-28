@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 806 402" width="806" height="402" role="img" aria-label="#019 — The Breakfast Club (1985)">
-  <rect width="100%" height="100%" fill="white"/>
+  <rect width="100%" height="100%" fill="#f1e7cc"/>
   <text x="403.0" y="34" text-anchor="middle" font-family="Comic Neue, Comic Sans MS, cursive" font-size="16" font-weight="700" fill="black">#019 — The Breakfast Club (1985) ★★★</text>
   <g class="panel">
     <path d="M 16.00 46.00 C 142.67 45.40, 269.33 46.36, 396.00 46.00 C 395.58 159.33, 395.57 272.67, 396.00 386.00 C 269.33 386.42, 142.67 385.62, 16.00 386.00 C 16.49 272.67, 16.12 159.33, 16.00 46.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
@@ -13,9 +13,9 @@
     <path d="M 187.00 288.00 C 194.93 279.13, 201.81 269.45, 209.00 260.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
     <path d="M 187.00 324.00 C 183.31 332.81, 178.54 341.12, 175.00 350.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
     <path d="M 187.00 324.00 C 190.80 332.76, 195.34 341.18, 199.00 350.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
-    <path d="M 36.00 60.00 C 86.00 59.29, 136.00 60.16, 186.00 60.00 C 189.35 63.32, 193.10 66.24, 196.00 70.00 C 195.41 97.33, 195.37 124.67, 196.00 152.00 C 192.21 154.88, 189.30 158.63, 186.00 162.00 C 136.00 162.18, 86.00 161.49, 36.00 162.00 C 32.95 158.38, 29.83 154.83, 26.00 152.00 C 25.44 124.67, 26.72 97.33, 26.00 70.00 C 29.22 66.55, 32.92 63.59, 36.00 60.00" fill="white" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M 177.00 162.00 C 182.50 199.41, 188.35 236.77, 195.00 274.00 C 193.05 236.69, 192.25 199.34, 191.00 162.00" fill="white" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
-    <line x1="178" y1="162" x2="190" y2="162" stroke="white" stroke-width="2.4"/>
+    <path d="M 36.00 60.00 C 86.00 59.29, 136.00 60.16, 186.00 60.00 C 189.35 63.32, 193.10 66.24, 196.00 70.00 C 195.41 97.33, 195.37 124.67, 196.00 152.00 C 192.21 154.88, 189.30 158.63, 186.00 162.00 C 136.00 162.18, 86.00 161.49, 36.00 162.00 C 32.95 158.38, 29.83 154.83, 26.00 152.00 C 25.44 124.67, 26.72 97.33, 26.00 70.00 C 29.22 66.55, 32.92 63.59, 36.00 60.00" fill="#f1e7cc" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 177.00 162.00 C 182.50 199.41, 188.35 236.77, 195.00 274.00 C 193.05 236.69, 192.25 199.34, 191.00 162.00" fill="#f1e7cc" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="178" y1="162" x2="190" y2="162" stroke="#f1e7cc" stroke-width="2.4"/>
     <text x="111.0" y="78.0" text-anchor="middle" font-family="Comic Neue, Comic Sans MS, cursive" font-size="13" fill="black"><tspan x="111.0" dy="0">great concept but i</tspan><tspan x="111.0" dy="16">rather found it hard</tspan><tspan x="111.0" dy="16">to watch, john comes</tspan><tspan x="111.0" dy="16">from a shitty place i</tspan><tspan x="111.0" dy="16">agree but i do feel</tspan></text>
   </g>
   <g class="panel">
@@ -29,9 +29,9 @@
     <path d="M 537.17 314.00 C 536.78 314.66, 536.87 315.41, 536.71 316.12 C 536.25 316.68, 535.77 317.22, 535.50 317.90 C 535.23 318.71, 534.27 318.95, 533.97 319.73 C 533.17 319.42, 532.39 319.62, 531.60 319.81 C 530.77 319.92, 529.91 319.62, 529.11 320.01 C 528.84 319.18, 528.48 318.40, 527.78 317.82 C 527.53 317.10, 526.97 316.63, 526.43 316.14 C 526.52 315.34, 525.80 314.78, 525.80 314.00 C 526.00 313.14, 525.55 312.34, 525.55 311.49 C 526.29 311.06, 527.07 310.69, 527.70 310.10 C 528.10 309.39, 528.79 308.90, 529.20 308.20 C 529.97 307.74, 530.77 307.69, 531.60 308.02 C 532.34 308.39, 533.14 308.36, 533.93 308.38 C 534.61 308.78, 535.34 309.13, 535.67 309.93 C 536.24 310.48, 536.83 311.01, 537.35 311.62 C 537.49 312.43, 537.41 313.22, 537.17 314.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
     <path d="M 520.60 333.00 C 518.99 336.50, 519.42 340.36, 518.60 344.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
     <path d="M 542.60 333.00 C 542.74 336.76, 543.41 340.43, 544.60 344.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
-    <path d="M 430.00 60.00 C 480.00 60.06, 530.00 60.30, 580.00 60.00 C 583.83 62.84, 586.53 66.81, 590.00 70.00 C 590.59 92.00, 589.74 114.00, 590.00 136.00 C 586.92 139.58, 583.73 143.06, 580.00 146.00 C 530.00 146.41, 480.00 145.40, 430.00 146.00 C 426.44 142.89, 423.03 139.64, 420.00 136.00 C 419.75 114.00, 420.72 92.00, 420.00 70.00 C 423.31 66.65, 426.52 63.19, 430.00 60.00" fill="white" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M 532.60 146.00 C 534.75 209.34, 536.85 272.68, 539.60 336.00 C 542.17 272.68, 543.48 209.30, 546.60 146.00" fill="white" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
-    <line x1="533.6" y1="146" x2="545.6" y2="146" stroke="white" stroke-width="2.4"/>
+    <path d="M 430.00 60.00 C 480.00 60.06, 530.00 60.30, 580.00 60.00 C 583.83 62.84, 586.53 66.81, 590.00 70.00 C 590.59 92.00, 589.74 114.00, 590.00 136.00 C 586.92 139.58, 583.73 143.06, 580.00 146.00 C 530.00 146.41, 480.00 145.40, 430.00 146.00 C 426.44 142.89, 423.03 139.64, 420.00 136.00 C 419.75 114.00, 420.72 92.00, 420.00 70.00 C 423.31 66.65, 426.52 63.19, 430.00 60.00" fill="#f1e7cc" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 532.60 146.00 C 534.75 209.34, 536.85 272.68, 539.60 336.00 C 542.17 272.68, 543.48 209.30, 546.60 146.00" fill="#f1e7cc" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="533.6" y1="146" x2="545.6" y2="146" stroke="#f1e7cc" stroke-width="2.4"/>
     <text x="505.0" y="78.0" text-anchor="middle" font-family="Comic Neue, Comic Sans MS, cursive" font-size="13" fill="black"><tspan x="505.0" dy="0">great concept but i</tspan><tspan x="505.0" dy="16">rather found it hard</tspan><tspan x="505.0" dy="16">to watch, john comes</tspan><tspan x="505.0" dy="16">from a shitty…</tspan></text>
   </g>
 </svg>
