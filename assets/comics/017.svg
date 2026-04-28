@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 412 402" width="412" height="402" role="img" aria-label="#017 — No Hard Feelings (2023)">
-  <defs><filter id="grain" x="0%" y="0%" width="100%" height="100%"><feTurbulence type="fractalNoise" baseFrequency="0.85" numOctaves="2" stitchTiles="stitch" seed="9"/><feColorMatrix values="0 0 0 0 0.32  0 0 0 0 0.22  0 0 0 0 0.13  0 0 0 -1.4 0.55"/></filter></defs>
-  <rect width="100%" height="100%" fill="#f1e7cc"/>
-  <rect width="100%" height="100%" filter="url(#grain)" opacity="0.75"/>
+  <defs><filter id="fibers" x="0%" y="0%" width="100%" height="100%"><feTurbulence type="fractalNoise" baseFrequency="0.04 0.7" numOctaves="2" stitchTiles="stitch" seed="8"/><feColorMatrix values="0 0 0 0 0.38  0 0 0 0 0.26  0 0 0 0 0.13  0 0 0 -0.7 0.28"/></filter><filter id="grain" x="0%" y="0%" width="100%" height="100%"><feTurbulence type="fractalNoise" baseFrequency="0.65" numOctaves="3" stitchTiles="stitch" seed="9"/><feColorMatrix values="0 0 0 0 0.42  0 0 0 0 0.30  0 0 0 0 0.16  0 0 0 -1.1 0.5"/></filter></defs>
+  <rect width="100%" height="100%" fill="#e3d3a2"/>
+  <rect width="100%" height="100%" filter="url(#fibers)" opacity="0.55"/>
+  <rect width="100%" height="100%" filter="url(#grain)" opacity="0.85"/>
   <text x="206.0" y="34" text-anchor="middle" font-family="Comic Neue, Comic Sans MS, cursive" font-size="16" font-weight="700" fill="black">#017 — No Hard Feelings (2023) ★★</text>
   <g class="panel">
     <path d="M 16.00 46.00 C 142.67 45.57, 269.33 46.32, 396.00 46.00 C 395.87 159.33, 396.50 272.67, 396.00 386.00 C 269.33 385.56, 142.67 386.72, 16.00 386.00 C 15.44 272.67, 15.44 159.33, 16.00 46.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
@@ -39,9 +40,9 @@
     <path d="M 226.00 340.00 C 234.00 340.80, 242.00 340.22, 250.00 340.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
     <path d="M 250.00 340.00 C 251.61 345.90, 250.98 352.04, 252.00 358.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
     <path d="M 226.00 340.00 C 223.62 346.13, 219.99 351.70, 218.00 358.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
-    <path d="M 36.00 60.00 C 86.00 59.25, 136.00 59.43, 186.00 60.00 C 189.89 62.78, 192.83 66.50, 196.00 70.00 C 195.78 76.00, 196.63 82.00, 196.00 88.00 C 192.91 91.58, 189.77 95.10, 186.00 98.00 C 136.00 98.73, 86.00 97.27, 36.00 98.00 C 32.83 94.50, 29.79 90.88, 26.00 88.00 C 25.45 82.00, 25.57 76.00, 26.00 70.00 C 29.23 66.56, 32.36 63.03, 36.00 60.00" fill="#f1e7cc" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M 131.00 98.00 C 134.04 166.64, 136.03 235.32, 138.00 304.00 C 140.56 235.34, 141.88 166.64, 145.00 98.00" fill="#f1e7cc" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
-    <line x1="132.0" y1="98" x2="144.0" y2="98" stroke="#f1e7cc" stroke-width="2.4"/>
+    <path d="M 36.00 60.00 C 86.00 59.25, 136.00 59.43, 186.00 60.00 C 189.89 62.78, 192.83 66.50, 196.00 70.00 C 195.78 76.00, 196.63 82.00, 196.00 88.00 C 192.91 91.58, 189.77 95.10, 186.00 98.00 C 136.00 98.73, 86.00 97.27, 36.00 98.00 C 32.83 94.50, 29.79 90.88, 26.00 88.00 C 25.45 82.00, 25.57 76.00, 26.00 70.00 C 29.23 66.56, 32.36 63.03, 36.00 60.00" fill="#e3d3a2" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 131.00 98.00 C 134.04 166.64, 136.03 235.32, 138.00 304.00 C 140.56 235.34, 141.88 166.64, 145.00 98.00" fill="#e3d3a2" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="132.0" y1="98" x2="144.0" y2="98" stroke="#e3d3a2" stroke-width="2.4"/>
     <text x="111.0" y="78.0" text-anchor="middle" font-family="Comic Neue, Comic Sans MS, cursive" font-size="13" fill="black"><tspan x="111.0" dy="0">mom j law is so cool</tspan></text>
   </g>
 </svg>

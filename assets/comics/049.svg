@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 412 402" width="412" height="402" role="img" aria-label="#049 — Michael (2026)">
-  <defs><filter id="grain" x="0%" y="0%" width="100%" height="100%"><feTurbulence type="fractalNoise" baseFrequency="0.85" numOctaves="2" stitchTiles="stitch" seed="5"/><feColorMatrix values="0 0 0 0 0.32  0 0 0 0 0.22  0 0 0 0 0.13  0 0 0 -1.4 0.55"/></filter></defs>
-  <rect width="100%" height="100%" fill="#f1e7cc"/>
-  <rect width="100%" height="100%" filter="url(#grain)" opacity="0.75"/>
+  <defs><filter id="fibers" x="0%" y="0%" width="100%" height="100%"><feTurbulence type="fractalNoise" baseFrequency="0.04 0.7" numOctaves="2" stitchTiles="stitch" seed="5"/><feColorMatrix values="0 0 0 0 0.38  0 0 0 0 0.26  0 0 0 0 0.13  0 0 0 -0.7 0.28"/></filter><filter id="grain" x="0%" y="0%" width="100%" height="100%"><feTurbulence type="fractalNoise" baseFrequency="0.65" numOctaves="3" stitchTiles="stitch" seed="5"/><feColorMatrix values="0 0 0 0 0.42  0 0 0 0 0.30  0 0 0 0 0.16  0 0 0 -1.1 0.5"/></filter></defs>
+  <rect width="100%" height="100%" fill="#e3d3a2"/>
+  <rect width="100%" height="100%" filter="url(#fibers)" opacity="0.55"/>
+  <rect width="100%" height="100%" filter="url(#grain)" opacity="0.85"/>
   <text x="206.0" y="34" text-anchor="middle" font-family="Comic Neue, Comic Sans MS, cursive" font-size="16" font-weight="700" fill="black">#049 — Michael (2026) ★★★★½</text>
   <g class="panel">
     <path d="M 16.00 46.00 C 142.67 46.44, 269.33 45.94, 396.00 46.00 C 396.42 159.33, 396.73 272.67, 396.00 386.00 C 269.33 385.99, 142.67 385.28, 16.00 386.00 C 15.66 272.67, 16.56 159.33, 16.00 46.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
@@ -37,9 +38,9 @@
     <path d="M 226.00 340.00 C 234.00 340.25, 242.00 340.71, 250.00 340.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
     <path d="M 250.00 340.00 C 250.83 345.98, 252.07 351.92, 252.00 358.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
     <path d="M 226.00 340.00 C 223.83 346.22, 220.01 351.71, 218.00 358.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
-    <path d="M 36.00 60.00 C 86.00 60.28, 136.00 59.68, 186.00 60.00 C 188.87 63.80, 192.88 66.45, 196.00 70.00 C 195.32 92.00, 195.46 114.00, 196.00 136.00 C 192.57 139.24, 189.15 142.48, 186.00 146.00 C 136.00 146.46, 86.00 145.37, 36.00 146.00 C 32.49 142.84, 29.90 138.77, 26.00 136.00 C 25.76 114.00, 25.51 92.00, 26.00 70.00 C 29.11 66.44, 32.45 63.11, 36.00 60.00" fill="#f1e7cc" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M 131.00 146.00 C 132.92 198.68, 135.82 251.33, 138.00 304.00 C 140.02 251.32, 142.16 198.64, 145.00 146.00" fill="#f1e7cc" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
-    <line x1="132.0" y1="146" x2="144.0" y2="146" stroke="#f1e7cc" stroke-width="2.4"/>
+    <path d="M 36.00 60.00 C 86.00 60.28, 136.00 59.68, 186.00 60.00 C 188.87 63.80, 192.88 66.45, 196.00 70.00 C 195.32 92.00, 195.46 114.00, 196.00 136.00 C 192.57 139.24, 189.15 142.48, 186.00 146.00 C 136.00 146.46, 86.00 145.37, 36.00 146.00 C 32.49 142.84, 29.90 138.77, 26.00 136.00 C 25.76 114.00, 25.51 92.00, 26.00 70.00 C 29.11 66.44, 32.45 63.11, 36.00 60.00" fill="#e3d3a2" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 131.00 146.00 C 132.92 198.68, 135.82 251.33, 138.00 304.00 C 140.02 251.32, 142.16 198.64, 145.00 146.00" fill="#e3d3a2" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="132.0" y1="146" x2="144.0" y2="146" stroke="#e3d3a2" stroke-width="2.4"/>
     <text x="111.0" y="78.0" text-anchor="middle" font-family="Comic Neue, Comic Sans MS, cursive" font-size="13" fill="black"><tspan x="111.0" dy="0">no job needed FYI!</tspan><tspan x="111.0" dy="16">best post credits</tspan><tspan x="111.0" dy="16">everrrr? don&#x27;t leave</tspan><tspan x="111.0" dy="16">them seats yet</tspan></text>
   </g>
 </svg>

@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 412 402" width="412" height="402" role="img" aria-label="#040 — The Bride! (2026)">
-  <defs><filter id="grain" x="0%" y="0%" width="100%" height="100%"><feTurbulence type="fractalNoise" baseFrequency="0.85" numOctaves="2" stitchTiles="stitch" seed="5"/><feColorMatrix values="0 0 0 0 0.32  0 0 0 0 0.22  0 0 0 0 0.13  0 0 0 -1.4 0.55"/></filter></defs>
-  <rect width="100%" height="100%" fill="#f1e7cc"/>
-  <rect width="100%" height="100%" filter="url(#grain)" opacity="0.75"/>
+  <defs><filter id="fibers" x="0%" y="0%" width="100%" height="100%"><feTurbulence type="fractalNoise" baseFrequency="0.04 0.7" numOctaves="2" stitchTiles="stitch" seed="11"/><feColorMatrix values="0 0 0 0 0.38  0 0 0 0 0.26  0 0 0 0 0.13  0 0 0 -0.7 0.28"/></filter><filter id="grain" x="0%" y="0%" width="100%" height="100%"><feTurbulence type="fractalNoise" baseFrequency="0.65" numOctaves="3" stitchTiles="stitch" seed="5"/><feColorMatrix values="0 0 0 0 0.42  0 0 0 0 0.30  0 0 0 0 0.16  0 0 0 -1.1 0.5"/></filter></defs>
+  <rect width="100%" height="100%" fill="#e3d3a2"/>
+  <rect width="100%" height="100%" filter="url(#fibers)" opacity="0.55"/>
+  <rect width="100%" height="100%" filter="url(#grain)" opacity="0.85"/>
   <text x="206.0" y="34" text-anchor="middle" font-family="Comic Neue, Comic Sans MS, cursive" font-size="16" font-weight="700" fill="black">#040 — The Bride! (2026) ★★★★</text>
   <g class="panel">
     <path d="M 16.00 46.00 C 142.67 46.30, 269.33 45.39, 396.00 46.00 C 395.87 159.33, 396.74 272.67, 396.00 386.00 C 269.33 385.56, 142.67 386.59, 16.00 386.00 C 15.43 272.67, 15.59 159.33, 16.00 46.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
@@ -17,9 +18,9 @@
     <path d="M 148.60 333.00 C 148.41 336.82, 149.97 340.33, 150.60 344.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
     <path d="M 258.40 322.00 C 269.07 322.20, 279.73 322.63, 290.40 322.00 C 288.62 318.85, 288.22 315.14, 286.40 312.00 C 278.40 311.31, 270.40 312.56, 262.40 312.00 C 260.94 315.28, 259.91 318.74, 258.40 322.00" fill="black" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
     <path d="M 256.40 322.00 C 268.40 321.88, 280.40 321.12, 292.40 322.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
-    <path d="M 36.00 60.00 C 86.00 60.09, 136.00 60.20, 186.00 60.00 C 188.97 63.70, 192.19 67.14, 196.00 70.00 C 195.63 81.33, 195.84 92.67, 196.00 104.00 C 192.33 106.99, 189.16 110.49, 186.00 114.00 C 136.00 114.74, 86.00 114.64, 36.00 114.00 C 32.93 110.40, 29.53 107.14, 26.00 104.00 C 26.10 92.67, 26.70 81.33, 26.00 70.00 C 29.51 66.84, 32.29 62.95, 36.00 60.00" fill="#f1e7cc" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M 138.60 114.00 C 141.56 187.98, 142.52 262.02, 145.60 336.00 C 147.36 261.98, 150.16 188.00, 152.60 114.00" fill="#f1e7cc" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
-    <line x1="139.60000000000002" y1="114" x2="151.60000000000002" y2="114" stroke="#f1e7cc" stroke-width="2.4"/>
+    <path d="M 36.00 60.00 C 86.00 60.09, 136.00 60.20, 186.00 60.00 C 188.97 63.70, 192.19 67.14, 196.00 70.00 C 195.63 81.33, 195.84 92.67, 196.00 104.00 C 192.33 106.99, 189.16 110.49, 186.00 114.00 C 136.00 114.74, 86.00 114.64, 36.00 114.00 C 32.93 110.40, 29.53 107.14, 26.00 104.00 C 26.10 92.67, 26.70 81.33, 26.00 70.00 C 29.51 66.84, 32.29 62.95, 36.00 60.00" fill="#e3d3a2" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 138.60 114.00 C 141.56 187.98, 142.52 262.02, 145.60 336.00 C 147.36 261.98, 150.16 188.00, 152.60 114.00" fill="#e3d3a2" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="139.60000000000002" y1="114" x2="151.60000000000002" y2="114" stroke="#e3d3a2" stroke-width="2.4"/>
     <text x="111.0" y="78.0" text-anchor="middle" font-family="Comic Neue, Comic Sans MS, cursive" font-size="13" fill="black"><tspan x="111.0" dy="0">plotless but ouu good</tspan><tspan x="111.0" dy="16">one I tell yall</tspan></text>
   </g>
 </svg>

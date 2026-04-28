@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 806 402" width="806" height="402" role="img" aria-label="#047 — The Drama (2026)">
-  <defs><filter id="grain" x="0%" y="0%" width="100%" height="100%"><feTurbulence type="fractalNoise" baseFrequency="0.85" numOctaves="2" stitchTiles="stitch" seed="3"/><feColorMatrix values="0 0 0 0 0.32  0 0 0 0 0.22  0 0 0 0 0.13  0 0 0 -1.4 0.55"/></filter></defs>
-  <rect width="100%" height="100%" fill="#f1e7cc"/>
-  <rect width="100%" height="100%" filter="url(#grain)" opacity="0.75"/>
+  <defs><filter id="fibers" x="0%" y="0%" width="100%" height="100%"><feTurbulence type="fractalNoise" baseFrequency="0.04 0.7" numOctaves="2" stitchTiles="stitch" seed="10"/><feColorMatrix values="0 0 0 0 0.38  0 0 0 0 0.26  0 0 0 0 0.13  0 0 0 -0.7 0.28"/></filter><filter id="grain" x="0%" y="0%" width="100%" height="100%"><feTurbulence type="fractalNoise" baseFrequency="0.65" numOctaves="3" stitchTiles="stitch" seed="3"/><feColorMatrix values="0 0 0 0 0.42  0 0 0 0 0.30  0 0 0 0 0.16  0 0 0 -1.1 0.5"/></filter></defs>
+  <rect width="100%" height="100%" fill="#e3d3a2"/>
+  <rect width="100%" height="100%" filter="url(#fibers)" opacity="0.55"/>
+  <rect width="100%" height="100%" filter="url(#grain)" opacity="0.85"/>
   <text x="403.0" y="34" text-anchor="middle" font-family="Comic Neue, Comic Sans MS, cursive" font-size="16" font-weight="700" fill="black">#047 — The Drama (2026) ★★★★½</text>
   <g class="panel">
     <path d="M 16.00 46.00 C 142.67 45.37, 269.33 46.67, 396.00 46.00 C 396.02 159.33, 395.56 272.67, 396.00 386.00 C 269.33 386.34, 142.67 385.49, 16.00 386.00 C 16.18 272.67, 15.45 159.33, 16.00 46.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
@@ -39,13 +40,13 @@
     <path d="M 226.00 340.00 C 234.00 340.89, 242.00 339.81, 250.00 340.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
     <path d="M 250.00 340.00 C 250.40 346.03, 251.15 352.02, 252.00 358.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
     <path d="M 226.00 340.00 C 223.33 346.00, 220.84 352.08, 218.00 358.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
-    <path d="M 36.00 60.00 C 86.00 59.78, 136.00 59.49, 186.00 60.00 C 189.32 63.35, 192.64 66.70, 196.00 70.00 C 196.30 97.33, 196.02 124.67, 196.00 152.00 C 193.08 155.74, 189.65 158.98, 186.00 162.00 C 136.00 162.16, 86.00 161.27, 36.00 162.00 C 32.61 158.73, 29.20 155.47, 26.00 152.00 C 25.72 124.67, 26.37 97.33, 26.00 70.00 C 29.52 66.85, 32.91 63.58, 36.00 60.00" fill="#f1e7cc" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M 131.00 162.00 C 132.73 209.36, 136.16 256.64, 138.00 304.00 C 140.55 256.68, 142.09 209.31, 145.00 162.00" fill="#f1e7cc" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
-    <line x1="132.0" y1="162" x2="144.0" y2="162" stroke="#f1e7cc" stroke-width="2.4"/>
+    <path d="M 36.00 60.00 C 86.00 59.78, 136.00 59.49, 186.00 60.00 C 189.32 63.35, 192.64 66.70, 196.00 70.00 C 196.30 97.33, 196.02 124.67, 196.00 152.00 C 193.08 155.74, 189.65 158.98, 186.00 162.00 C 136.00 162.16, 86.00 161.27, 36.00 162.00 C 32.61 158.73, 29.20 155.47, 26.00 152.00 C 25.72 124.67, 26.37 97.33, 26.00 70.00 C 29.52 66.85, 32.91 63.58, 36.00 60.00" fill="#e3d3a2" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 131.00 162.00 C 132.73 209.36, 136.16 256.64, 138.00 304.00 C 140.55 256.68, 142.09 209.31, 145.00 162.00" fill="#e3d3a2" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="132.0" y1="162" x2="144.0" y2="162" stroke="#e3d3a2" stroke-width="2.4"/>
     <text x="111.0" y="78.0" text-anchor="middle" font-family="Comic Neue, Comic Sans MS, cursive" font-size="13" fill="black"><tspan x="111.0" dy="0">This review may</tspan><tspan x="111.0" dy="16">contain spoilers.</tspan><tspan x="111.0" dy="16">classic a24 fookin</tspan><tspan x="111.0" dy="16">love the way they</tspan><tspan x="111.0" dy="16">touched some serious</tspan></text>
-    <path d="M 286.00 60.00 C 316.00 59.92, 346.00 60.76, 376.00 60.00 C 379.22 63.44, 382.39 66.94, 386.00 70.00 C 386.79 76.00, 385.67 82.00, 386.00 88.00 C 382.28 90.94, 379.29 94.63, 376.00 98.00 C 346.00 97.78, 316.00 98.53, 286.00 98.00 C 282.94 94.39, 278.93 91.74, 276.00 88.00 C 275.83 82.00, 275.93 76.00, 276.00 70.00 C 278.89 66.22, 283.22 63.89, 286.00 60.00" fill="#f1e7cc" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M 281.00 98.00 C 260.70 166.88, 239.17 235.39, 218.00 304.00 C 242.94 235.06, 269.05 166.56, 295.00 98.00" fill="#f1e7cc" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
-    <line x1="282" y1="98" x2="294" y2="98" stroke="#f1e7cc" stroke-width="2.4"/>
+    <path d="M 286.00 60.00 C 316.00 59.92, 346.00 60.76, 376.00 60.00 C 379.22 63.44, 382.39 66.94, 386.00 70.00 C 386.79 76.00, 385.67 82.00, 386.00 88.00 C 382.28 90.94, 379.29 94.63, 376.00 98.00 C 346.00 97.78, 316.00 98.53, 286.00 98.00 C 282.94 94.39, 278.93 91.74, 276.00 88.00 C 275.83 82.00, 275.93 76.00, 276.00 70.00 C 278.89 66.22, 283.22 63.89, 286.00 60.00" fill="#e3d3a2" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 281.00 98.00 C 260.70 166.88, 239.17 235.39, 218.00 304.00 C 242.94 235.06, 269.05 166.56, 295.00 98.00" fill="#e3d3a2" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="282" y1="98" x2="294" y2="98" stroke="#e3d3a2" stroke-width="2.4"/>
     <text x="331.0" y="78.0" text-anchor="middle" font-family="Comic Neue, Comic Sans MS, cursive" font-size="13" fill="black"><tspan x="331.0" dy="0">ACTING.</tspan></text>
   </g>
   <g class="panel">
@@ -70,9 +71,9 @@
     <path d="M 668.40 290.00 C 673.84 296.58, 679.40 303.06, 684.40 310.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
     <path d="M 668.40 324.00 C 664.10 332.53, 659.93 341.12, 656.40 350.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
     <path d="M 668.40 324.00 C 672.20 332.76, 675.95 341.54, 680.40 350.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
-    <path d="M 430.00 60.00 C 480.00 59.35, 530.00 60.67, 580.00 60.00 C 583.70 62.97, 586.43 66.91, 590.00 70.00 C 589.35 97.33, 590.35 124.67, 590.00 152.00 C 586.30 154.96, 583.28 158.61, 580.00 162.00 C 530.00 161.28, 480.00 162.47, 430.00 162.00 C 426.95 158.38, 422.86 155.80, 420.00 152.00 C 420.14 124.67, 419.53 97.33, 420.00 70.00 C 423.89 67.22, 426.19 62.85, 430.00 60.00" fill="#f1e7cc" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M 532.60 162.00 C 535.72 199.28, 537.57 236.65, 539.60 274.00 C 542.06 236.67, 545.06 199.38, 546.60 162.00" fill="#f1e7cc" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
-    <line x1="533.6" y1="162" x2="545.6" y2="162" stroke="#f1e7cc" stroke-width="2.4"/>
+    <path d="M 430.00 60.00 C 480.00 59.35, 530.00 60.67, 580.00 60.00 C 583.70 62.97, 586.43 66.91, 590.00 70.00 C 589.35 97.33, 590.35 124.67, 590.00 152.00 C 586.30 154.96, 583.28 158.61, 580.00 162.00 C 530.00 161.28, 480.00 162.47, 430.00 162.00 C 426.95 158.38, 422.86 155.80, 420.00 152.00 C 420.14 124.67, 419.53 97.33, 420.00 70.00 C 423.89 67.22, 426.19 62.85, 430.00 60.00" fill="#e3d3a2" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 532.60 162.00 C 535.72 199.28, 537.57 236.65, 539.60 274.00 C 542.06 236.67, 545.06 199.38, 546.60 162.00" fill="#e3d3a2" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="533.6" y1="162" x2="545.6" y2="162" stroke="#e3d3a2" stroke-width="2.4"/>
     <text x="505.0" y="78.0" text-anchor="middle" font-family="Comic Neue, Comic Sans MS, cursive" font-size="13" fill="black"><tspan x="505.0" dy="0">Rob patt be definitely</tspan><tspan x="505.0" dy="16">competing against</tspan><tspan x="505.0" dy="16">himself at upcoming</tspan><tspan x="505.0" dy="16">award season MOMMY ZEN</tspan><tspan x="505.0" dy="16">RAKSSS ALWAYS</tspan></text>
   </g>
 </svg>

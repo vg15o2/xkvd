@@ -7,8 +7,8 @@ body {
   font-size: 16px;
   margin: 0;
   padding: 0 1rem 2rem;
-  background-color: #f1e7cc;
-  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='260' height='260'><filter id='n' x='0' y='0' width='100%25' height='100%25'><feTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='2' stitchTiles='stitch' seed='4'/><feColorMatrix values='0 0 0 0 0.32  0 0 0 0 0.22  0 0 0 0 0.13  0 0 0 -1.4 0.55'/></filter><rect width='260' height='260' filter='url(%23n)' opacity='0.75'/></svg>");
+  background-color: #e3d3a2;
+  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='320' height='320'><filter id='f' x='0' y='0' width='100%25' height='100%25'><feTurbulence type='fractalNoise' baseFrequency='0.04 0.7' numOctaves='2' stitchTiles='stitch' seed='9'/><feColorMatrix values='0 0 0 0 0.38  0 0 0 0 0.26  0 0 0 0 0.13  0 0 0 -0.7 0.28'/></filter><filter id='n' x='0' y='0' width='100%25' height='100%25'><feTurbulence type='fractalNoise' baseFrequency='0.65' numOctaves='3' stitchTiles='stitch' seed='4'/><feColorMatrix values='0 0 0 0 0.42  0 0 0 0 0.30  0 0 0 0 0.16  0 0 0 -1.1 0.5'/></filter><rect width='320' height='320' filter='url(%23f)' opacity='0.55'/><rect width='320' height='320' filter='url(%23n)' opacity='0.85'/></svg>");
   background-repeat: repeat;
   color: #2a241a;
   text-align: center;

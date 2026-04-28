@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 806 402" width="806" height="402" role="img" aria-label="#022 — The Perks of Being a Wallflower (2012)">
-  <defs><filter id="grain" x="0%" y="0%" width="100%" height="100%"><feTurbulence type="fractalNoise" baseFrequency="0.85" numOctaves="2" stitchTiles="stitch" seed="5"/><feColorMatrix values="0 0 0 0 0.32  0 0 0 0 0.22  0 0 0 0 0.13  0 0 0 -1.4 0.55"/></filter></defs>
-  <rect width="100%" height="100%" fill="#f1e7cc"/>
-  <rect width="100%" height="100%" filter="url(#grain)" opacity="0.75"/>
+  <defs><filter id="fibers" x="0%" y="0%" width="100%" height="100%"><feTurbulence type="fractalNoise" baseFrequency="0.04 0.7" numOctaves="2" stitchTiles="stitch" seed="1"/><feColorMatrix values="0 0 0 0 0.38  0 0 0 0 0.26  0 0 0 0 0.13  0 0 0 -0.7 0.28"/></filter><filter id="grain" x="0%" y="0%" width="100%" height="100%"><feTurbulence type="fractalNoise" baseFrequency="0.65" numOctaves="3" stitchTiles="stitch" seed="5"/><feColorMatrix values="0 0 0 0 0.42  0 0 0 0 0.30  0 0 0 0 0.16  0 0 0 -1.1 0.5"/></filter></defs>
+  <rect width="100%" height="100%" fill="#e3d3a2"/>
+  <rect width="100%" height="100%" filter="url(#fibers)" opacity="0.55"/>
+  <rect width="100%" height="100%" filter="url(#grain)" opacity="0.85"/>
   <text x="403.0" y="34" text-anchor="middle" font-family="Comic Neue, Comic Sans MS, cursive" font-size="16" font-weight="700" fill="black">#022 — The Perks of Being a Wallflower (2012) ★★★½</text>
   <g class="panel">
     <path d="M 16.00 46.00 C 142.67 45.34, 269.33 45.41, 396.00 46.00 C 395.73 159.33, 395.23 272.67, 396.00 386.00 C 269.33 386.27, 142.67 385.93, 16.00 386.00 C 15.90 272.67, 15.62 159.33, 16.00 46.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
@@ -37,13 +38,13 @@
     <path d="M 226.00 340.00 C 234.00 340.92, 242.00 340.10, 250.00 340.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
     <path d="M 250.00 340.00 C 250.51 346.02, 251.03 352.03, 252.00 358.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
     <path d="M 226.00 340.00 C 222.61 345.68, 220.19 351.79, 218.00 358.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
-    <path d="M 36.00 60.00 C 77.33 60.39, 118.67 60.48, 160.00 60.00 C 163.33 63.34, 166.16 67.18, 170.00 70.00 C 169.63 81.33, 170.04 92.67, 170.00 104.00 C 167.20 107.87, 163.01 110.34, 160.00 114.00 C 118.67 113.87, 77.33 114.35, 36.00 114.00 C 32.97 110.36, 28.97 107.70, 26.00 104.00 C 25.96 92.67, 26.03 81.33, 26.00 70.00 C 29.07 66.41, 32.25 62.91, 36.00 60.00" fill="#f1e7cc" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M 131.00 114.00 C 133.28 177.34, 136.46 240.64, 138.00 304.00 C 140.00 240.65, 141.88 177.30, 145.00 114.00" fill="#f1e7cc" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
-    <line x1="132.0" y1="114" x2="144.0" y2="114" stroke="#f1e7cc" stroke-width="2.4"/>
+    <path d="M 36.00 60.00 C 77.33 60.39, 118.67 60.48, 160.00 60.00 C 163.33 63.34, 166.16 67.18, 170.00 70.00 C 169.63 81.33, 170.04 92.67, 170.00 104.00 C 167.20 107.87, 163.01 110.34, 160.00 114.00 C 118.67 113.87, 77.33 114.35, 36.00 114.00 C 32.97 110.36, 28.97 107.70, 26.00 104.00 C 25.96 92.67, 26.03 81.33, 26.00 70.00 C 29.07 66.41, 32.25 62.91, 36.00 60.00" fill="#e3d3a2" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 131.00 114.00 C 133.28 177.34, 136.46 240.64, 138.00 304.00 C 140.00 240.65, 141.88 177.30, 145.00 114.00" fill="#e3d3a2" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="132.0" y1="114" x2="144.0" y2="114" stroke="#e3d3a2" stroke-width="2.4"/>
     <text x="98.0" y="78.0" text-anchor="middle" font-family="Comic Neue, Comic Sans MS, cursive" font-size="13" fill="black"><tspan x="98.0" dy="0">that was wayyyy</tspan><tspan x="98.0" dy="16">intense!</tspan></text>
-    <path d="M 226.00 60.00 C 276.00 60.69, 326.00 60.68, 376.00 60.00 C 379.06 63.61, 382.49 66.84, 386.00 70.00 C 386.37 97.33, 386.16 124.67, 386.00 152.00 C 382.97 155.63, 379.63 158.97, 376.00 162.00 C 326.00 162.72, 276.00 162.04, 226.00 162.00 C 223.07 158.26, 219.27 155.40, 216.00 152.00 C 215.20 124.67, 216.44 97.33, 216.00 70.00 C 219.20 66.53, 223.21 63.88, 226.00 60.00" fill="#f1e7cc" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M 221.00 162.00 C 219.30 209.32, 218.73 256.66, 218.00 304.00 C 223.26 256.62, 230.10 209.43, 235.00 162.00" fill="#f1e7cc" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
-    <line x1="222" y1="162" x2="234" y2="162" stroke="#f1e7cc" stroke-width="2.4"/>
+    <path d="M 226.00 60.00 C 276.00 60.69, 326.00 60.68, 376.00 60.00 C 379.06 63.61, 382.49 66.84, 386.00 70.00 C 386.37 97.33, 386.16 124.67, 386.00 152.00 C 382.97 155.63, 379.63 158.97, 376.00 162.00 C 326.00 162.72, 276.00 162.04, 226.00 162.00 C 223.07 158.26, 219.27 155.40, 216.00 152.00 C 215.20 124.67, 216.44 97.33, 216.00 70.00 C 219.20 66.53, 223.21 63.88, 226.00 60.00" fill="#e3d3a2" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 221.00 162.00 C 219.30 209.32, 218.73 256.66, 218.00 304.00 C 223.26 256.62, 230.10 209.43, 235.00 162.00" fill="#e3d3a2" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="222" y1="162" x2="234" y2="162" stroke="#e3d3a2" stroke-width="2.4"/>
     <text x="301.0" y="78.0" text-anchor="middle" font-family="Comic Neue, Comic Sans MS, cursive" font-size="13" fill="black"><tspan x="301.0" dy="0">It’s rare to find a</tspan><tspan x="301.0" dy="16">film that touches</tspan><tspan x="301.0" dy="16">loneliness without</tspan><tspan x="301.0" dy="16">glamorizing it.</tspan><tspan x="301.0" dy="16">visually stunning and</tspan></text>
   </g>
   <g class="panel">
@@ -73,9 +74,9 @@
     <path d="M 668.40 292.00 C 674.35 297.45, 678.91 304.14, 684.40 310.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
     <path d="M 668.40 324.00 C 664.52 332.72, 660.30 341.29, 656.40 350.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
     <path d="M 668.40 324.00 C 672.28 332.72, 677.03 341.04, 680.40 350.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
-    <path d="M 430.00 60.00 C 480.00 59.96, 530.00 59.49, 580.00 60.00 C 583.70 62.97, 586.58 66.75, 590.00 70.00 C 589.43 92.00, 589.50 114.00, 590.00 136.00 C 586.65 139.31, 582.77 142.11, 580.00 146.00 C 530.00 145.95, 480.00 146.39, 430.00 146.00 C 426.82 142.52, 423.82 138.85, 420.00 136.00 C 420.34 114.00, 419.77 92.00, 420.00 70.00 C 423.03 66.36, 426.80 63.46, 430.00 60.00" fill="#f1e7cc" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M 532.60 146.00 C 534.38 188.70, 537.10 231.34, 539.60 274.00 C 541.50 231.31, 544.99 188.71, 546.60 146.00" fill="#f1e7cc" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
-    <line x1="533.6" y1="146" x2="545.6" y2="146" stroke="#f1e7cc" stroke-width="2.4"/>
+    <path d="M 430.00 60.00 C 480.00 59.96, 530.00 59.49, 580.00 60.00 C 583.70 62.97, 586.58 66.75, 590.00 70.00 C 589.43 92.00, 589.50 114.00, 590.00 136.00 C 586.65 139.31, 582.77 142.11, 580.00 146.00 C 530.00 145.95, 480.00 146.39, 430.00 146.00 C 426.82 142.52, 423.82 138.85, 420.00 136.00 C 420.34 114.00, 419.77 92.00, 420.00 70.00 C 423.03 66.36, 426.80 63.46, 430.00 60.00" fill="#e3d3a2" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 532.60 146.00 C 534.38 188.70, 537.10 231.34, 539.60 274.00 C 541.50 231.31, 544.99 188.71, 546.60 146.00" fill="#e3d3a2" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="533.6" y1="146" x2="545.6" y2="146" stroke="#e3d3a2" stroke-width="2.4"/>
     <text x="505.0" y="78.0" text-anchor="middle" font-family="Comic Neue, Comic Sans MS, cursive" font-size="13" fill="black"><tspan x="505.0" dy="0">It’s rare to find a</tspan><tspan x="505.0" dy="16">film that touches</tspan><tspan x="505.0" dy="16">loneliness without</tspan><tspan x="505.0" dy="16">glamorizing it.…</tspan></text>
   </g>
 </svg>

@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 412 402" width="412" height="402" role="img" aria-label="#023 — Bāhubali: The Epic (2025)">
-  <defs><filter id="grain" x="0%" y="0%" width="100%" height="100%"><feTurbulence type="fractalNoise" baseFrequency="0.85" numOctaves="2" stitchTiles="stitch" seed="6"/><feColorMatrix values="0 0 0 0 0.32  0 0 0 0 0.22  0 0 0 0 0.13  0 0 0 -1.4 0.55"/></filter></defs>
-  <rect width="100%" height="100%" fill="#f1e7cc"/>
-  <rect width="100%" height="100%" filter="url(#grain)" opacity="0.75"/>
+  <defs><filter id="fibers" x="0%" y="0%" width="100%" height="100%"><feTurbulence type="fractalNoise" baseFrequency="0.04 0.7" numOctaves="2" stitchTiles="stitch" seed="4"/><feColorMatrix values="0 0 0 0 0.38  0 0 0 0 0.26  0 0 0 0 0.13  0 0 0 -0.7 0.28"/></filter><filter id="grain" x="0%" y="0%" width="100%" height="100%"><feTurbulence type="fractalNoise" baseFrequency="0.65" numOctaves="3" stitchTiles="stitch" seed="6"/><feColorMatrix values="0 0 0 0 0.42  0 0 0 0 0.30  0 0 0 0 0.16  0 0 0 -1.1 0.5"/></filter></defs>
+  <rect width="100%" height="100%" fill="#e3d3a2"/>
+  <rect width="100%" height="100%" filter="url(#fibers)" opacity="0.55"/>
+  <rect width="100%" height="100%" filter="url(#grain)" opacity="0.85"/>
   <text x="206.0" y="34" text-anchor="middle" font-family="Comic Neue, Comic Sans MS, cursive" font-size="16" font-weight="700" fill="black">#023 — Bāhubali: The Epic (2025) ★★★★★</text>
   <g class="panel">
     <path d="M 16.00 46.00 C 142.67 46.68, 269.33 46.64, 396.00 46.00 C 395.47 159.33, 396.18 272.67, 396.00 386.00 C 269.33 385.49, 142.67 385.84, 16.00 386.00 C 16.11 272.67, 15.23 159.33, 16.00 46.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
@@ -28,9 +29,9 @@
     <path d="M 274.40 292.00 C 280.02 297.75, 284.51 304.50, 290.40 310.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
     <path d="M 274.40 324.00 C 271.29 333.08, 266.54 341.40, 262.40 350.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
     <path d="M 274.40 324.00 C 278.30 332.71, 282.37 341.35, 286.40 350.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
-    <path d="M 36.00 60.00 C 77.33 60.56, 118.67 60.22, 160.00 60.00 C 163.81 62.86, 166.51 66.82, 170.00 70.00 C 170.27 81.33, 170.33 92.67, 170.00 104.00 C 166.32 106.98, 163.32 110.65, 160.00 114.00 C 118.67 114.09, 77.33 113.92, 36.00 114.00 C 32.77 110.56, 29.56 107.10, 26.00 104.00 C 26.45 92.67, 26.25 81.33, 26.00 70.00 C 28.87 66.21, 32.72 63.39, 36.00 60.00" fill="#f1e7cc" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M 138.60 114.00 C 141.52 167.31, 143.13 220.67, 145.60 274.00 C 148.57 220.69, 149.96 167.32, 152.60 114.00" fill="#f1e7cc" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
-    <line x1="139.60000000000002" y1="114" x2="151.60000000000002" y2="114" stroke="#f1e7cc" stroke-width="2.4"/>
+    <path d="M 36.00 60.00 C 77.33 60.56, 118.67 60.22, 160.00 60.00 C 163.81 62.86, 166.51 66.82, 170.00 70.00 C 170.27 81.33, 170.33 92.67, 170.00 104.00 C 166.32 106.98, 163.32 110.65, 160.00 114.00 C 118.67 114.09, 77.33 113.92, 36.00 114.00 C 32.77 110.56, 29.56 107.10, 26.00 104.00 C 26.45 92.67, 26.25 81.33, 26.00 70.00 C 28.87 66.21, 32.72 63.39, 36.00 60.00" fill="#e3d3a2" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 138.60 114.00 C 141.52 167.31, 143.13 220.67, 145.60 274.00 C 148.57 220.69, 149.96 167.32, 152.60 114.00" fill="#e3d3a2" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="139.60000000000002" y1="114" x2="151.60000000000002" y2="114" stroke="#e3d3a2" stroke-width="2.4"/>
     <text x="98.0" y="78.0" text-anchor="middle" font-family="Comic Neue, Comic Sans MS, cursive" font-size="13" fill="black"><tspan x="98.0" dy="0">Long live</tspan><tspan x="98.0" dy="16">mahishmaathiiii</tspan></text>
   </g>
 </svg>

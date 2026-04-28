@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 412 402" width="412" height="402" role="img" aria-label="#026 — Home Alone (1990)">
-  <defs><filter id="grain" x="0%" y="0%" width="100%" height="100%"><feTurbulence type="fractalNoise" baseFrequency="0.85" numOctaves="2" stitchTiles="stitch" seed="9"/><feColorMatrix values="0 0 0 0 0.32  0 0 0 0 0.22  0 0 0 0 0.13  0 0 0 -1.4 0.55"/></filter></defs>
-  <rect width="100%" height="100%" fill="#f1e7cc"/>
-  <rect width="100%" height="100%" filter="url(#grain)" opacity="0.75"/>
+  <defs><filter id="fibers" x="0%" y="0%" width="100%" height="100%"><feTurbulence type="fractalNoise" baseFrequency="0.04 0.7" numOctaves="2" stitchTiles="stitch" seed="2"/><feColorMatrix values="0 0 0 0 0.38  0 0 0 0 0.26  0 0 0 0 0.13  0 0 0 -0.7 0.28"/></filter><filter id="grain" x="0%" y="0%" width="100%" height="100%"><feTurbulence type="fractalNoise" baseFrequency="0.65" numOctaves="3" stitchTiles="stitch" seed="9"/><feColorMatrix values="0 0 0 0 0.42  0 0 0 0 0.30  0 0 0 0 0.16  0 0 0 -1.1 0.5"/></filter></defs>
+  <rect width="100%" height="100%" fill="#e3d3a2"/>
+  <rect width="100%" height="100%" filter="url(#fibers)" opacity="0.55"/>
+  <rect width="100%" height="100%" filter="url(#grain)" opacity="0.85"/>
   <text x="206.0" y="34" text-anchor="middle" font-family="Comic Neue, Comic Sans MS, cursive" font-size="16" font-weight="700" fill="black">#026 — Home Alone (1990) ★★★★</text>
   <g class="panel">
     <path d="M 16.00 46.00 C 142.67 45.69, 269.33 46.24, 396.00 46.00 C 395.71 159.33, 396.14 272.67, 396.00 386.00 C 269.33 386.03, 142.67 386.11, 16.00 386.00 C 15.52 272.67, 16.60 159.33, 16.00 46.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
@@ -33,9 +34,9 @@
     <path d="M 274.40 292.00 C 279.30 298.38, 285.40 303.70, 290.40 310.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
     <path d="M 274.40 324.00 C 271.23 333.05, 265.82 341.07, 262.40 350.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
     <path d="M 274.40 324.00 C 278.44 332.65, 283.04 341.04, 286.40 350.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
-    <path d="M 36.00 60.00 C 85.33 60.39, 134.67 60.49, 184.00 60.00 C 187.00 63.66, 190.58 66.76, 194.00 70.00 C 194.49 76.00, 194.02 82.00, 194.00 88.00 C 190.23 90.90, 187.46 94.80, 184.00 98.00 C 134.67 98.12, 85.33 98.26, 36.00 98.00 C 32.79 94.55, 28.92 91.74, 26.00 88.00 C 26.50 82.00, 26.68 76.00, 26.00 70.00 C 29.50 66.84, 33.01 63.68, 36.00 60.00" fill="#f1e7cc" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M 138.60 98.00 C 141.70 156.64, 142.77 215.35, 145.60 274.00 C 148.66 215.36, 150.64 156.68, 152.60 98.00" fill="#f1e7cc" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
-    <line x1="139.60000000000002" y1="98" x2="151.60000000000002" y2="98" stroke="#f1e7cc" stroke-width="2.4"/>
+    <path d="M 36.00 60.00 C 85.33 60.39, 134.67 60.49, 184.00 60.00 C 187.00 63.66, 190.58 66.76, 194.00 70.00 C 194.49 76.00, 194.02 82.00, 194.00 88.00 C 190.23 90.90, 187.46 94.80, 184.00 98.00 C 134.67 98.12, 85.33 98.26, 36.00 98.00 C 32.79 94.55, 28.92 91.74, 26.00 88.00 C 26.50 82.00, 26.68 76.00, 26.00 70.00 C 29.50 66.84, 33.01 63.68, 36.00 60.00" fill="#e3d3a2" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 138.60 98.00 C 141.70 156.64, 142.77 215.35, 145.60 274.00 C 148.66 215.36, 150.64 156.68, 152.60 98.00" fill="#e3d3a2" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="139.60000000000002" y1="98" x2="151.60000000000002" y2="98" stroke="#e3d3a2" stroke-width="2.4"/>
     <text x="110.0" y="78.0" text-anchor="middle" font-family="Comic Neue, Comic Sans MS, cursive" font-size="13" fill="black"><tspan x="110.0" dy="0">I fickin love this</tspan></text>
   </g>
 </svg>

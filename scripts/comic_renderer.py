@@ -22,7 +22,7 @@ PADDING = 16
 HEADER_H = 30
 STROKE = 2.0
 THIN = 1.4
-BG = "#f1e7cc"  # old-book parchment, must match assets/css/xkcd.css body background
+BG = "#e3d3a2"  # sandy paper, must match assets/css/xkcd.css body background
 
 # ---------- Wobble (hand-drawn feel) ----------
 
@@ -692,12 +692,18 @@ def render_comic(
         alt = _truncate(alt, 200)
 
     grain_seed = comic_id % 9 + 1
+    fiber_seed = (comic_id * 3) % 11 + 1
     defs = (
         f'<defs>'
+        f'<filter id="fibers" x="0%" y="0%" width="100%" height="100%">'
+        f'<feTurbulence type="fractalNoise" baseFrequency="0.04 0.7" numOctaves="2" '
+        f'stitchTiles="stitch" seed="{fiber_seed}"/>'
+        f'<feColorMatrix values="0 0 0 0 0.38  0 0 0 0 0.26  0 0 0 0 0.13  0 0 0 -0.7 0.28"/>'
+        f'</filter>'
         f'<filter id="grain" x="0%" y="0%" width="100%" height="100%">'
-        f'<feTurbulence type="fractalNoise" baseFrequency="0.85" numOctaves="2" '
+        f'<feTurbulence type="fractalNoise" baseFrequency="0.65" numOctaves="3" '
         f'stitchTiles="stitch" seed="{grain_seed}"/>'
-        f'<feColorMatrix values="0 0 0 0 0.32  0 0 0 0 0.22  0 0 0 0 0.13  0 0 0 -1.4 0.55"/>'
+        f'<feColorMatrix values="0 0 0 0 0.42  0 0 0 0 0.30  0 0 0 0 0.16  0 0 0 -1.1 0.5"/>'
         f'</filter>'
         f'</defs>'
     )
@@ -708,7 +714,8 @@ def render_comic(
         f'width="{width}" height="{height}" role="img" aria-label="{html.escape(title)}">\n'
         f'  {defs}\n'
         f'  <rect width="100%" height="100%" fill="{BG}"/>\n'
-        f'  <rect width="100%" height="100%" filter="url(#grain)" opacity="0.75"/>\n'
+        f'  <rect width="100%" height="100%" filter="url(#fibers)" opacity="0.55"/>\n'
+        f'  <rect width="100%" height="100%" filter="url(#grain)" opacity="0.85"/>\n'
         f'  {header}\n  '
         + "\n  ".join(panel_blocks)
         + "\n</svg>\n"

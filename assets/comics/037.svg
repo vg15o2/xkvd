@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 806 402" width="806" height="402" role="img" aria-label="#037 — Wuthering Heights (2026)">
-  <defs><filter id="grain" x="0%" y="0%" width="100%" height="100%"><feTurbulence type="fractalNoise" baseFrequency="0.85" numOctaves="2" stitchTiles="stitch" seed="2"/><feColorMatrix values="0 0 0 0 0.32  0 0 0 0 0.22  0 0 0 0 0.13  0 0 0 -1.4 0.55"/></filter></defs>
-  <rect width="100%" height="100%" fill="#f1e7cc"/>
-  <rect width="100%" height="100%" filter="url(#grain)" opacity="0.75"/>
+  <defs><filter id="fibers" x="0%" y="0%" width="100%" height="100%"><feTurbulence type="fractalNoise" baseFrequency="0.04 0.7" numOctaves="2" stitchTiles="stitch" seed="2"/><feColorMatrix values="0 0 0 0 0.38  0 0 0 0 0.26  0 0 0 0 0.13  0 0 0 -0.7 0.28"/></filter><filter id="grain" x="0%" y="0%" width="100%" height="100%"><feTurbulence type="fractalNoise" baseFrequency="0.65" numOctaves="3" stitchTiles="stitch" seed="2"/><feColorMatrix values="0 0 0 0 0.42  0 0 0 0 0.30  0 0 0 0 0.16  0 0 0 -1.1 0.5"/></filter></defs>
+  <rect width="100%" height="100%" fill="#e3d3a2"/>
+  <rect width="100%" height="100%" filter="url(#fibers)" opacity="0.55"/>
+  <rect width="100%" height="100%" filter="url(#grain)" opacity="0.85"/>
   <text x="403.0" y="34" text-anchor="middle" font-family="Comic Neue, Comic Sans MS, cursive" font-size="16" font-weight="700" fill="black">#037 — Wuthering Heights (2026) ★★★</text>
   <g class="panel">
     <path d="M 16.00 46.00 C 142.67 46.48, 269.33 46.29, 396.00 46.00 C 395.32 159.33, 396.39 272.67, 396.00 386.00 C 269.33 385.60, 142.67 386.63, 16.00 386.00 C 15.76 272.67, 15.96 159.33, 16.00 46.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
@@ -26,13 +27,13 @@
     <path d="M 274.40 292.00 C 279.33 298.36, 285.75 303.40, 290.40 310.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
     <path d="M 274.40 324.00 C 270.68 332.80, 266.66 341.45, 262.40 350.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
     <path d="M 274.40 324.00 C 278.44 332.65, 282.39 341.34, 286.40 350.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
-    <path d="M 36.00 60.00 C 86.00 60.13, 136.00 59.91, 186.00 60.00 C 189.66 63.01, 192.77 66.57, 196.00 70.00 C 196.12 97.33, 196.60 124.67, 196.00 152.00 C 192.92 155.59, 189.18 158.51, 186.00 162.00 C 136.00 162.11, 86.00 161.47, 36.00 162.00 C 32.67 158.66, 29.27 155.40, 26.00 152.00 C 26.57 124.67, 26.21 97.33, 26.00 70.00 C 29.45 66.79, 32.53 63.19, 36.00 60.00" fill="#f1e7cc" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M 138.60 162.00 C 140.70 199.35, 143.71 236.64, 145.60 274.00 C 147.78 236.66, 150.53 199.35, 152.60 162.00" fill="#f1e7cc" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
-    <line x1="139.60000000000002" y1="162" x2="151.60000000000002" y2="162" stroke="#f1e7cc" stroke-width="2.4"/>
+    <path d="M 36.00 60.00 C 86.00 60.13, 136.00 59.91, 186.00 60.00 C 189.66 63.01, 192.77 66.57, 196.00 70.00 C 196.12 97.33, 196.60 124.67, 196.00 152.00 C 192.92 155.59, 189.18 158.51, 186.00 162.00 C 136.00 162.11, 86.00 161.47, 36.00 162.00 C 32.67 158.66, 29.27 155.40, 26.00 152.00 C 26.57 124.67, 26.21 97.33, 26.00 70.00 C 29.45 66.79, 32.53 63.19, 36.00 60.00" fill="#e3d3a2" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 138.60 162.00 C 140.70 199.35, 143.71 236.64, 145.60 274.00 C 147.78 236.66, 150.53 199.35, 152.60 162.00" fill="#e3d3a2" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="139.60000000000002" y1="162" x2="151.60000000000002" y2="162" stroke="#e3d3a2" stroke-width="2.4"/>
     <text x="111.0" y="78.0" text-anchor="middle" font-family="Comic Neue, Comic Sans MS, cursive" font-size="13" fill="black"><tspan x="111.0" dy="0">come undone! tf! edit:</tspan><tspan x="111.0" dy="16">what a f ass movie</tspan><tspan x="111.0" dy="16">come undone? well</tspan><tspan x="111.0" dy="16">duhhh till the</tspan><tspan x="111.0" dy="16">intermission I had</tspan></text>
-    <path d="M 226.00 60.00 C 276.00 60.31, 326.00 60.13, 376.00 60.00 C 379.66 63.00, 382.34 66.99, 386.00 70.00 C 385.88 97.33, 385.77 124.67, 386.00 152.00 C 383.21 155.87, 378.97 158.30, 376.00 162.00 C 326.00 162.11, 276.00 162.05, 226.00 162.00 C 222.34 158.99, 218.78 155.89, 216.00 152.00 C 216.35 124.67, 215.76 97.33, 216.00 70.00 C 219.63 66.96, 222.25 62.91, 226.00 60.00" fill="#f1e7cc" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M 259.40 162.00 C 262.34 199.30, 264.46 236.64, 266.40 274.00 C 268.17 236.63, 271.80 199.38, 273.40 162.00" fill="#f1e7cc" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
-    <line x1="260.40000000000003" y1="162" x2="272.40000000000003" y2="162" stroke="#f1e7cc" stroke-width="2.4"/>
+    <path d="M 226.00 60.00 C 276.00 60.31, 326.00 60.13, 376.00 60.00 C 379.66 63.00, 382.34 66.99, 386.00 70.00 C 385.88 97.33, 385.77 124.67, 386.00 152.00 C 383.21 155.87, 378.97 158.30, 376.00 162.00 C 326.00 162.11, 276.00 162.05, 226.00 162.00 C 222.34 158.99, 218.78 155.89, 216.00 152.00 C 216.35 124.67, 215.76 97.33, 216.00 70.00 C 219.63 66.96, 222.25 62.91, 226.00 60.00" fill="#e3d3a2" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 259.40 162.00 C 262.34 199.30, 264.46 236.64, 266.40 274.00 C 268.17 236.63, 271.80 199.38, 273.40 162.00" fill="#e3d3a2" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="260.40000000000003" y1="162" x2="272.40000000000003" y2="162" stroke="#e3d3a2" stroke-width="2.4"/>
     <text x="301.0" y="78.0" text-anchor="middle" font-family="Comic Neue, Comic Sans MS, cursive" font-size="13" fill="black"><tspan x="301.0" dy="0">I mean the story is</tspan><tspan x="301.0" dy="16">undone? was that the</tspan><tspan x="301.0" dy="16">tag? also she drops</tspan><tspan x="301.0" dy="16">whateva our soulz are</tspan><tspan x="301.0" dy="16">made off he&#x27;s and</tspan></text>
   </g>
   <g class="panel">
@@ -64,9 +65,9 @@
     <path d="M 668.40 292.00 C 673.31 298.37, 678.89 304.15, 684.40 310.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
     <path d="M 668.40 324.00 C 663.61 332.30, 660.89 341.56, 656.40 350.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
     <path d="M 668.40 324.00 C 672.04 332.83, 676.74 341.17, 680.40 350.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
-    <path d="M 430.00 60.00 C 480.00 60.08, 530.00 60.41, 580.00 60.00 C 583.28 63.39, 586.81 66.52, 590.00 70.00 C 589.42 92.00, 589.97 114.00, 590.00 136.00 C 586.80 139.47, 583.31 142.64, 580.00 146.00 C 530.00 145.96, 480.00 145.49, 430.00 146.00 C 426.35 142.98, 423.12 139.54, 420.00 136.00 C 419.56 114.00, 419.43 92.00, 420.00 70.00 C 423.32 66.65, 426.23 62.90, 430.00 60.00" fill="#f1e7cc" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M 532.60 146.00 C 535.15 188.65, 536.54 231.37, 539.60 274.00 C 541.58 231.31, 544.90 188.70, 546.60 146.00" fill="#f1e7cc" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
-    <line x1="533.6" y1="146" x2="545.6" y2="146" stroke="#f1e7cc" stroke-width="2.4"/>
+    <path d="M 430.00 60.00 C 480.00 60.08, 530.00 60.41, 580.00 60.00 C 583.28 63.39, 586.81 66.52, 590.00 70.00 C 589.42 92.00, 589.97 114.00, 590.00 136.00 C 586.80 139.47, 583.31 142.64, 580.00 146.00 C 530.00 145.96, 480.00 145.49, 430.00 146.00 C 426.35 142.98, 423.12 139.54, 420.00 136.00 C 419.56 114.00, 419.43 92.00, 420.00 70.00 C 423.32 66.65, 426.23 62.90, 430.00 60.00" fill="#e3d3a2" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 532.60 146.00 C 535.15 188.65, 536.54 231.37, 539.60 274.00 C 541.58 231.31, 544.90 188.70, 546.60 146.00" fill="#e3d3a2" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="533.6" y1="146" x2="545.6" y2="146" stroke="#e3d3a2" stroke-width="2.4"/>
     <text x="505.0" y="78.0" text-anchor="middle" font-family="Comic Neue, Comic Sans MS, cursive" font-size="13" fill="black"><tspan x="505.0" dy="0">I mean the story is</tspan><tspan x="505.0" dy="16">undone? was that the</tspan><tspan x="505.0" dy="16">tag? also she drops</tspan><tspan x="505.0" dy="16">whateva our soulz…</tspan></text>
   </g>
 </svg>
