@@ -1,20 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 328 398" width="328" height="398" role="img" aria-label="#043 — Project Hail Mary (2026)">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 412 402" width="412" height="402" role="img" aria-label="#043 — Project Hail Mary (2026)">
   <rect width="100%" height="100%" fill="white"/>
-  <text x="164.0" y="32" text-anchor="middle" font-family="Comic Neue, Comic Sans MS, cursive" font-size="15" font-weight="700" fill="black">#043 — Project Hail Mary (2026) ★★★★</text>
-    <g class="panel">
-    <rect x="14" y="44" width="300" height="340" fill="white" stroke="black" stroke-width="2"/>
-    <rect x="29" y="58" width="270" height="54" rx="12" ry="12" fill="white" stroke="black" stroke-width="1.6"/>
-    <polygon points="156.0,111 172.0,111 148.49530731517353,240" fill="white" stroke="black" stroke-width="1.6"/>
-    <line x1="157.0" y1="112" x2="171.0" y2="112" stroke="white" stroke-width="2.2"/>
-    <text x="164.0" y="76" text-anchor="middle" font-family="Comic Neue, Comic Sans MS, cursive" font-size="13" fill="black"><tspan x="164.0" dy="0">book lover am I,</tspan><tspan x="164.0" dy="16">question?</tspan></text>
-    <circle cx="148.49530731517353" cy="264" r="14" fill="none" stroke="black" stroke-width="2.2"/>
-    <line x1="148.49530731517353" y1="278" x2="148.49530731517353" y2="312" stroke="black" stroke-width="2.2"/>
-    <line x1="148.49530731517353" y1="290" x2="130.49530731517353" y2="304" stroke="black" stroke-width="2.2"/>
-    <line x1="148.49530731517353" y1="290" x2="166.49530731517353" y2="304" stroke="black" stroke-width="2.2"/>
-    <line x1="148.49530731517353" y1="312" x2="174.49530731517353" y2="312" stroke="black" stroke-width="2.2"/>
-    <line x1="174.49530731517353" y1="312" x2="174.49530731517353" y2="338" stroke="black" stroke-width="2.2"/>
-    <line x1="148.49530731517353" y1="312" x2="134.49530731517353" y2="336" stroke="black" stroke-width="2.2"/>
-    <line x1="34" y1="350" x2="294" y2="350" stroke="black" stroke-width="1.5"/>
-</g>
+  <text x="206.0" y="34" text-anchor="middle" font-family="Comic Neue, Comic Sans MS, cursive" font-size="16" font-weight="700" fill="black">#043 — Project Hail Mary (2026) ★★★★</text>
+  <g class="panel">
+    <path d="M 16.00 46.00 C 142.67 45.62, 269.33 45.98, 396.00 46.00 C 396.03 159.33, 396.05 272.67, 396.00 386.00 C 269.33 385.56, 142.67 385.60, 16.00 386.00 C 16.79 272.67, 15.42 159.33, 16.00 46.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 26.00 362.00 C 146.00 361.43, 266.00 361.10, 386.00 362.00" fill="none" stroke="black" stroke-width="1.4" stroke-linecap="round"/>
+    <path d="M 84.40 314.00 C 104.40 314.40, 124.40 313.25, 144.40 314.00 C 145.14 324.67, 145.02 335.33, 144.40 346.00 C 124.40 345.86, 104.40 346.22, 84.40 346.00 C 83.83 335.33, 83.62 324.67, 84.40 314.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 84.40 302.00 C 104.40 302.01, 124.40 302.25, 144.40 302.00 C 144.44 306.00, 144.28 310.00, 144.40 314.00 C 124.40 314.74, 104.40 314.72, 84.40 314.00 C 84.06 310.00, 84.80 306.00, 84.40 302.00" fill="white" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 88.40 314.00 C 92.13 309.73, 95.91 305.51, 100.40 302.00 C 103.07 301.70, 105.73 301.44, 108.40 302.00 C 104.77 306.37, 100.19 309.79, 96.40 314.00 C 93.73 314.44, 91.07 314.71, 88.40 314.00" fill="black" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 112.40 314.00 C 115.84 309.44, 120.63 306.23, 124.40 302.00 C 127.07 301.24, 129.73 301.64, 132.40 302.00 C 128.67 306.27, 124.69 310.29, 120.40 314.00 C 117.73 313.81, 115.07 314.24, 112.40 314.00" fill="black" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 279.02 270.00 C 278.60 271.51, 277.85 272.91, 277.61 274.48 C 276.90 275.91, 276.02 277.26, 275.64 278.84 C 274.23 279.61, 273.02 280.74, 271.45 281.22 C 269.99 281.96, 268.38 282.15, 266.80 282.43 C 265.15 282.43, 263.61 281.85, 262.02 281.54 C 260.92 280.31, 259.62 279.36, 258.12 278.68 C 257.36 277.26, 256.60 275.84, 255.40 274.72 C 255.01 273.16, 254.96 271.58, 255.26 270.00 C 255.17 268.40, 255.26 266.79, 255.17 265.18 C 256.59 264.34, 257.29 262.75, 258.63 261.83 C 259.72 260.65, 260.88 259.54, 261.98 258.37 C 263.59 258.24, 265.18 257.88, 266.80 258.22 C 268.38 258.16, 269.88 258.85, 271.47 258.72 C 272.82 259.55, 273.88 260.75, 275.26 261.54 C 276.02 262.92, 277.11 264.07, 278.00 265.36 C 278.04 266.97, 278.72 268.44, 279.02 270.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
+    <path d="M 254.80 268.00 C 254.81 278.71, 254.34 289.39, 252.80 300.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
+    <path d="M 256.80 266.00 C 255.65 278.64, 254.49 291.28, 254.80 304.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
+    <path d="M 278.80 268.00 C 280.28 278.62, 279.43 289.38, 280.80 300.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
+    <path d="M 262.80 258.00 C 261.88 256.50, 260.07 256.78, 258.80 256.00" fill="none" stroke="black" stroke-width="1.4" stroke-linecap="round"/>
+    <path d="M 270.80 258.00 C 272.21 257.48, 273.04 255.81, 274.80 256.00" fill="none" stroke="black" stroke-width="1.4" stroke-linecap="round"/>
+    <path d="M 266.80 282.00 C 266.20 296.00, 267.63 310.00, 266.80 324.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
+    <path d="M 266.80 292.00 C 257.46 290.70, 248.00 290.26, 238.80 288.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
+    <path d="M 266.80 292.00 C 271.81 298.28, 277.35 304.10, 282.80 310.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
+    <path d="M 266.80 324.00 C 262.00 332.30, 258.07 340.99, 254.80 350.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
+    <path d="M 266.80 324.00 C 271.41 332.39, 275.13 341.18, 278.80 350.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
+    <path d="M 244.00 60.00 C 288.00 59.47, 332.00 60.39, 376.00 60.00 C 379.32 63.35, 382.48 66.85, 386.00 70.00 C 386.74 81.33, 386.46 92.67, 386.00 104.00 C 382.66 107.32, 378.92 110.26, 376.00 114.00 C 332.00 113.42, 288.00 113.73, 244.00 114.00 C 240.66 110.67, 237.51 107.16, 234.00 104.00 C 233.33 92.67, 233.98 81.33, 234.00 70.00 C 237.44 66.78, 240.77 63.43, 244.00 60.00" fill="white" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 251.80 114.00 C 254.38 167.32, 255.70 220.70, 258.80 274.00 C 260.54 220.64, 263.45 167.33, 265.80 114.00" fill="white" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="252.8" y1="114" x2="264.8" y2="114" stroke="white" stroke-width="2.4"/>
+    <text x="310.0" y="78.0" text-anchor="middle" font-family="Comic Neue, Comic Sans MS, cursive" font-size="13" fill="black"><tspan x="310.0" dy="0">book lover am I,</tspan><tspan x="310.0" dy="16">question?</tspan></text>
+  </g>
 </svg>

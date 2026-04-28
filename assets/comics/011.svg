@@ -1,19 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 328 398" width="328" height="398" role="img" aria-label="#011 — Ratatouille (2007)">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 412 402" width="412" height="402" role="img" aria-label="#011 — Ratatouille (2007)">
   <rect width="100%" height="100%" fill="white"/>
-  <text x="164.0" y="32" text-anchor="middle" font-family="Comic Neue, Comic Sans MS, cursive" font-size="15" font-weight="700" fill="black">#011 — Ratatouille (2007) ★★★★★</text>
-    <g class="panel">
-    <rect x="14" y="44" width="300" height="340" fill="white" stroke="black" stroke-width="2"/>
-    <rect x="29" y="58" width="270" height="86" rx="12" ry="12" fill="white" stroke="black" stroke-width="1.6"/>
-    <polygon points="156.0,143 172.0,143 147.07968288537754,240" fill="white" stroke="black" stroke-width="1.6"/>
-    <line x1="157.0" y1="144" x2="171.0" y2="144" stroke="white" stroke-width="2.2"/>
-    <text x="164.0" y="76" text-anchor="middle" font-family="Comic Neue, Comic Sans MS, cursive" font-size="13" fill="black"><tspan x="164.0" dy="0">I watch it every damn</tspan><tspan x="164.0" dy="16">week almost, a rat has</tspan><tspan x="164.0" dy="16">become my comfort</tspan><tspan x="164.0" dy="16">source wow!</tspan></text>
-    <circle cx="147.07968288537754" cy="254" r="14" fill="none" stroke="black" stroke-width="2.2"/>
-    <line x1="147.07968288537754" y1="268" x2="147.07968288537754" y2="308" stroke="black" stroke-width="2.2"/>
-    <line x1="147.07968288537754" y1="280" x2="173.07968288537754" y2="276" stroke="black" stroke-width="2.2"/>
-    <line x1="147.07968288537754" y1="280" x2="131.07968288537754" y2="298" stroke="black" stroke-width="2.2"/>
-    <line x1="147.07968288537754" y1="308" x2="133.07968288537754" y2="336" stroke="black" stroke-width="2.2"/>
-    <line x1="147.07968288537754" y1="308" x2="161.07968288537754" y2="336" stroke="black" stroke-width="2.2"/>
-    <line x1="34" y1="350" x2="294" y2="350" stroke="black" stroke-width="1.5"/>
-</g>
+  <text x="206.0" y="34" text-anchor="middle" font-family="Comic Neue, Comic Sans MS, cursive" font-size="16" font-weight="700" fill="black">#011 — Ratatouille (2007) ★★★★★</text>
+  <g class="panel">
+    <path d="M 16.00 46.00 C 142.67 45.24, 269.33 46.26, 396.00 46.00 C 395.48 159.33, 396.01 272.67, 396.00 386.00 C 269.33 386.33, 142.67 385.99, 16.00 386.00 C 15.67 272.67, 16.38 159.33, 16.00 46.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 26.00 356.00 C 146.00 355.95, 266.00 356.01, 386.00 356.00" fill="none" stroke="black" stroke-width="1.4" stroke-linecap="round"/>
+    <path d="M 30.00 280.00 C 56.67 279.36, 83.33 280.35, 110.00 280.00 C 109.67 298.67, 109.34 317.33, 110.00 336.00 C 83.33 335.53, 56.67 335.96, 30.00 336.00 C 29.81 317.33, 29.99 298.67, 30.00 280.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 36.00 286.00 C 58.67 285.62, 81.33 286.73, 104.00 286.00 C 103.35 300.67, 103.76 315.33, 104.00 330.00 C 81.33 329.89, 58.67 330.57, 36.00 330.00 C 36.04 315.33, 36.41 300.67, 36.00 286.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 56.00 336.00 C 65.33 336.24, 74.67 336.51, 84.00 336.00" fill="none" stroke="black" stroke-width="1.4" stroke-linecap="round"/>
+    <path d="M 70.00 336.00 C 70.82 338.67, 70.59 341.33, 70.00 344.00" fill="none" stroke="black" stroke-width="1.4" stroke-linecap="round"/>
+    <path d="M 56.00 346.00 C 65.33 346.46, 74.67 345.04, 84.00 346.00" fill="none" stroke="black" stroke-width="1.4" stroke-linecap="round"/>
+    <path d="M 42.00 322.00 C 46.06 313.61, 48.52 304.61, 52.00 296.00 C 57.37 304.98, 61.33 314.67, 66.00 324.00 C 70.29 315.13, 74.63 306.29, 80.00 298.00 C 85.89 304.93, 90.22 312.99, 96.00 320.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 110.00 300.00 C 160.67 299.63, 211.33 299.27, 262.00 300.00 C 261.93 310.00, 261.86 320.00, 262.00 330.00 C 211.33 329.88, 160.67 330.73, 110.00 330.00 C 109.29 320.00, 110.02 310.00, 110.00 300.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 110.00 330.00 C 160.67 330.19, 211.33 329.27, 262.00 330.00 C 262.18 342.00, 262.12 354.00, 262.00 366.00 C 211.33 366.59, 160.67 366.61, 110.00 366.00 C 109.36 354.00, 110.39 342.00, 110.00 330.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 102.00 312.00 C 104.67 311.64, 107.33 311.50, 110.00 312.00 C 110.34 330.00, 110.52 348.00, 110.00 366.00 C 107.33 366.64, 104.67 366.11, 102.00 366.00 C 101.27 348.00, 102.21 330.00, 102.00 312.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 262.00 312.00 C 264.67 311.78, 267.33 312.13, 270.00 312.00 C 269.35 330.00, 270.76 348.00, 270.00 366.00 C 267.33 365.50, 264.67 365.71, 262.00 366.00 C 261.24 348.00, 261.75 330.00, 262.00 312.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 186.00 330.00 C 186.97 342.00, 186.02 354.00, 186.00 366.00" fill="none" stroke="black" stroke-width="1.4" stroke-linecap="round"/>
+    <path d="M 157.82 300.00 C 158.02 301.61, 157.92 303.19, 157.48 304.75 C 156.28 305.79, 155.06 306.82, 154.08 308.08 C 152.99 309.17, 151.51 309.80, 150.59 311.07 C 149.10 311.67, 147.51 311.95, 146.00 312.50 C 144.49 311.98, 142.90 311.69, 141.45 310.98 C 140.15 310.16, 138.89 309.30, 137.93 308.07 C 137.05 306.82, 136.11 305.61, 134.98 304.56 C 135.10 303.01, 134.93 301.49, 134.47 300.00 C 134.58 298.48, 134.80 296.98, 135.14 295.50 C 136.04 294.18, 136.88 292.83, 137.24 291.24 C 138.62 290.45, 140.27 290.24, 141.53 289.21 C 143.01 288.91, 144.53 288.87, 146.00 288.54 C 147.56 288.54, 149.10 288.70, 150.66 288.76 C 152.05 289.52, 153.18 290.59, 154.20 291.80 C 155.37 292.84, 156.24 294.13, 157.16 295.38 C 157.01 296.97, 157.84 298.42, 157.82 300.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
+    <path d="M 152.11 282.00 C 152.35 282.84, 152.26 283.65, 151.87 284.43 C 151.40 285.10, 150.65 285.55, 150.38 286.38 C 149.61 286.69, 148.90 287.08, 148.38 287.74 C 147.58 287.81, 146.78 287.78, 146.00 287.58 C 145.22 287.88, 144.38 287.35, 143.61 287.76 C 142.95 287.25, 142.18 286.95, 141.45 286.55 C 140.91 285.90, 140.63 285.10, 140.11 284.44 C 139.93 283.56, 140.66 282.86, 140.60 282.00 C 140.63 281.29, 141.14 280.64, 140.90 279.89 C 140.71 278.98, 141.27 278.22, 141.38 277.38 C 142.18 277.08, 143.01 276.82, 143.55 276.09 C 144.34 275.77, 145.16 275.71, 146.00 275.74 C 146.87 275.87, 147.44 276.47, 148.08 276.99 C 148.85 277.10, 149.41 277.82, 150.25 277.75 C 151.00 278.18, 151.23 278.98, 151.60 279.68 C 151.94 280.42, 151.57 281.31, 152.11 282.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
+    <path d="M 135.00 301.00 C 134.61 304.72, 133.82 308.36, 133.00 312.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
+    <path d="M 157.00 301.00 C 156.82 304.82, 158.81 308.25, 159.00 312.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
+    <path d="M 146.00 312.00 C 146.12 321.33, 145.78 330.67, 146.00 340.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
+    <path d="M 146.00 326.00 C 140.63 329.95, 135.09 333.67, 130.00 338.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
+    <path d="M 146.00 326.00 C 151.22 330.15, 156.89 333.70, 162.00 338.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
+    <path d="M 146.00 340.00 C 154.00 340.24, 162.00 339.99, 170.00 340.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
+    <path d="M 170.00 340.00 C 170.30 346.04, 171.27 352.01, 172.00 358.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
+    <path d="M 146.00 340.00 C 143.02 345.86, 140.32 351.85, 138.00 358.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
+    <path d="M 238.14 300.00 C 237.90 301.56, 237.26 302.98, 236.65 304.41 C 236.27 305.96, 235.40 307.28, 234.66 308.66 C 233.15 309.15, 231.85 310.05, 230.46 310.77 C 228.91 311.09, 227.47 311.73, 226.00 312.30 C 224.50 311.82, 222.88 311.74, 221.46 310.97 C 220.02 310.34, 218.78 309.41, 217.59 308.41 C 216.55 307.22, 215.90 305.71, 214.63 304.71 C 214.61 303.11, 214.06 301.58, 213.93 300.00 C 214.10 298.41, 214.30 296.83, 214.53 295.25 C 215.10 293.69, 216.24 292.49, 217.14 291.14 C 218.64 290.56, 219.97 289.64, 221.47 289.07 C 223.02 288.94, 224.55 288.75, 226.00 288.17 C 227.53 288.45, 229.12 288.34, 230.61 288.88 C 231.81 289.90, 233.30 290.49, 234.54 291.46 C 235.23 292.86, 236.16 294.11, 236.86 295.50 C 237.53 296.93, 238.08 298.39, 238.14 300.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
+    <path d="M 210.00 290.00 C 220.67 290.79, 231.33 290.65, 242.00 290.00 C 240.20 286.85, 239.57 283.24, 238.00 280.00 C 230.00 280.72, 222.00 279.36, 214.00 280.00 C 212.68 283.34, 210.74 286.43, 210.00 290.00" fill="black" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 208.00 290.00 C 220.00 289.06, 232.00 290.13, 244.00 290.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
+    <path d="M 226.00 312.00 C 226.62 321.33, 225.90 330.67, 226.00 340.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
+    <path d="M 226.00 326.00 C 220.77 330.14, 214.96 333.50, 210.00 338.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
+    <path d="M 226.00 326.00 C 230.86 330.62, 237.22 333.26, 242.00 338.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
+    <path d="M 226.00 340.00 C 234.00 340.92, 242.00 339.79, 250.00 340.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
+    <path d="M 250.00 340.00 C 250.97 345.97, 251.63 351.97, 252.00 358.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
+    <path d="M 226.00 340.00 C 223.37 346.02, 221.32 352.29, 218.00 358.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
+    <path d="M 36.00 60.00 C 86.00 59.46, 136.00 59.75, 186.00 60.00 C 189.51 63.16, 192.19 67.15, 196.00 70.00 C 195.82 92.00, 196.04 114.00, 196.00 136.00 C 193.03 139.70, 189.36 142.70, 186.00 146.00 C 136.00 146.28, 86.00 145.22, 36.00 146.00 C 32.34 142.99, 29.19 139.48, 26.00 136.00 C 25.29 114.00, 26.66 92.00, 26.00 70.00 C 29.41 66.75, 32.71 63.38, 36.00 60.00" fill="white" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 131.00 146.00 C 133.71 198.65, 136.09 251.31, 138.00 304.00 C 139.75 251.31, 143.24 198.69, 145.00 146.00" fill="white" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="132.0" y1="146" x2="144.0" y2="146" stroke="white" stroke-width="2.4"/>
+    <text x="111.0" y="78.0" text-anchor="middle" font-family="Comic Neue, Comic Sans MS, cursive" font-size="13" fill="black"><tspan x="111.0" dy="0">I watch it every damn</tspan><tspan x="111.0" dy="16">week almost, a rat has</tspan><tspan x="111.0" dy="16">become my comfort</tspan><tspan x="111.0" dy="16">source wow!</tspan></text>
+  </g>
 </svg>

@@ -177,6 +177,7 @@ def main() -> int:
     _force_utf8_stdout()
     parser = argparse.ArgumentParser()
     parser.add_argument("--user", help="Letterboxd username", default=None)
+    parser.add_argument("--force", action="store_true", help="Regenerate every comic, ignoring state.")
     args = parser.parse_args()
 
     username = args.user
@@ -198,12 +199,20 @@ def main() -> int:
     state = load_state()
     by_guid = state["by_guid"]
     next_id = state["next_id"]
+    if args.force:
+        by_guid = {}
+        next_id = 1
 
     new_count = 0
+    regen_count = 0
     for item in items:
         if not has_review(item):
             continue
         if item["guid"] in by_guid:
+            if args.force:
+                comic_id = by_guid[item["guid"]]
+                write_comic(item, comic_id)
+                regen_count += 1
             continue
         comic_id = next_id
         next_id += 1
@@ -216,6 +225,8 @@ def main() -> int:
     state["next_id"] = next_id
     save_state(state)
 
+    if regen_count:
+        print(f"Regenerated {regen_count} comic(s).")
     print(f"Done. {new_count} new comic(s); {len(by_guid)} total.")
     return 0
 

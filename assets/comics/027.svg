@@ -1,20 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 328 398" width="328" height="398" role="img" aria-label="#027 — Frankenstein (2025)">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 412 402" width="412" height="402" role="img" aria-label="#027 — Frankenstein (2025)">
   <rect width="100%" height="100%" fill="white"/>
-  <text x="164.0" y="32" text-anchor="middle" font-family="Comic Neue, Comic Sans MS, cursive" font-size="15" font-weight="700" fill="black">#027 — Frankenstein (2025) ★★★</text>
-    <g class="panel">
-    <rect x="14" y="44" width="300" height="340" fill="white" stroke="black" stroke-width="2"/>
-    <rect x="29" y="58" width="270" height="38" rx="12" ry="12" fill="white" stroke="black" stroke-width="1.6"/>
-    <polygon points="156.0,95 172.0,95 158.31323723555286,240" fill="white" stroke="black" stroke-width="1.6"/>
-    <line x1="157.0" y1="96" x2="171.0" y2="96" stroke="white" stroke-width="2.2"/>
-    <text x="164.0" y="76" text-anchor="middle" font-family="Comic Neue, Comic Sans MS, cursive" font-size="13" fill="black"><tspan x="164.0" dy="0">Sexy creature ftw</tspan></text>
-    <circle cx="158.31323723555286" cy="264" r="14" fill="none" stroke="black" stroke-width="2.2"/>
-    <line x1="158.31323723555286" y1="278" x2="158.31323723555286" y2="312" stroke="black" stroke-width="2.2"/>
-    <line x1="158.31323723555286" y1="290" x2="140.31323723555286" y2="304" stroke="black" stroke-width="2.2"/>
-    <line x1="158.31323723555286" y1="290" x2="176.31323723555286" y2="304" stroke="black" stroke-width="2.2"/>
-    <line x1="158.31323723555286" y1="312" x2="184.31323723555286" y2="312" stroke="black" stroke-width="2.2"/>
-    <line x1="184.31323723555286" y1="312" x2="184.31323723555286" y2="338" stroke="black" stroke-width="2.2"/>
-    <line x1="158.31323723555286" y1="312" x2="144.31323723555286" y2="336" stroke="black" stroke-width="2.2"/>
-    <line x1="34" y1="350" x2="294" y2="350" stroke="black" stroke-width="1.5"/>
-</g>
+  <text x="206.0" y="34" text-anchor="middle" font-family="Comic Neue, Comic Sans MS, cursive" font-size="16" font-weight="700" fill="black">#027 — Frankenstein (2025) ★★★</text>
+  <g class="panel">
+    <path d="M 16.00 46.00 C 142.67 46.69, 269.33 45.27, 396.00 46.00 C 395.89 159.33, 396.26 272.67, 396.00 386.00 C 269.33 386.04, 142.67 385.99, 16.00 386.00 C 15.84 272.67, 16.55 159.33, 16.00 46.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 26.00 362.00 C 146.00 361.92, 266.00 361.15, 386.00 362.00" fill="none" stroke="black" stroke-width="1.4" stroke-linecap="round"/>
+    <path d="M 149.43 270.00 C 149.25 271.60, 149.62 273.22, 149.21 274.81 C 147.86 275.71, 146.89 277.02, 145.72 278.12 C 144.48 279.10, 143.23 280.08, 142.33 281.41 C 140.75 281.65, 139.17 281.73, 137.60 282.01 C 136.15 281.36, 134.60 281.17, 133.04 281.00 C 131.62 280.34, 130.50 279.21, 129.15 278.45 C 128.51 277.05, 127.29 275.97, 126.86 274.45 C 126.09 273.05, 125.86 271.47, 125.31 270.00 C 125.62 268.44, 125.82 266.85, 126.33 265.33 C 127.61 264.38, 128.65 263.22, 129.44 261.84 C 130.71 260.99, 131.70 259.78, 133.07 259.06 C 134.54 258.59, 136.13 258.77, 137.60 258.30 C 139.00 258.98, 140.50 259.21, 142.04 259.29 C 143.46 259.89, 144.75 260.70, 145.98 261.62 C 146.68 262.98, 147.45 264.30, 148.29 265.57 C 148.32 267.14, 148.87 268.57, 149.43 270.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
+    <path d="M 137.60 282.00 C 137.85 296.00, 138.18 310.00, 137.60 324.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
+    <path d="M 137.60 290.00 C 130.70 285.21, 122.75 282.34, 115.60 278.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
+    <path d="M 115.60 278.00 C 114.03 283.95, 112.19 289.84, 111.60 296.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
+    <path d="M 137.60 290.00 C 145.14 286.37, 151.98 281.48, 159.60 278.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
+    <path d="M 159.60 278.00 C 160.28 284.15, 162.99 289.84, 163.60 296.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
+    <path d="M 137.60 324.00 C 134.45 333.06, 129.46 341.27, 125.60 350.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
+    <path d="M 137.60 324.00 C 141.43 332.75, 145.57 341.35, 149.60 350.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
+    <path d="M 285.99 270.00 C 285.71 271.47, 285.25 272.91, 284.99 274.39 C 284.04 275.65, 283.73 277.22, 282.97 278.57 C 281.66 279.40, 280.27 280.11, 278.84 280.73 C 277.41 281.27, 275.93 281.65, 274.40 281.81 C 272.90 281.44, 271.30 281.63, 269.86 280.96 C 268.57 280.04, 267.27 279.13, 265.72 278.68 C 265.20 277.16, 264.28 275.87, 263.39 274.56 C 263.04 273.06, 262.77 271.55, 262.99 270.00 C 262.67 268.43, 262.88 266.89, 263.17 265.35 C 264.10 264.10, 265.46 263.20, 266.15 261.75 C 267.60 261.11, 268.59 259.86, 269.82 258.93 C 271.34 258.50, 272.94 258.34, 274.40 257.68 C 275.94 258.08, 277.55 258.18, 279.03 258.83 C 280.09 259.96, 281.33 260.89, 282.47 261.93 C 283.34 263.19, 284.62 264.11, 285.42 265.44 C 285.80 266.93, 285.47 268.52, 285.99 270.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
+    <path d="M 258.40 260.00 C 269.07 259.23, 279.73 259.76, 290.40 260.00 C 289.67 256.43, 287.33 253.49, 286.40 250.00 C 278.40 250.63, 270.40 250.40, 262.40 250.00 C 260.51 253.11, 259.32 256.50, 258.40 260.00" fill="black" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 256.40 260.00 C 268.40 260.02, 280.40 259.16, 292.40 260.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
+    <path d="M 274.40 282.00 C 275.23 296.00, 273.79 310.00, 274.40 324.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
+    <path d="M 274.40 290.00 C 267.52 285.18, 259.49 282.45, 252.40 278.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
+    <path d="M 252.40 278.00 C 251.43 284.08, 250.63 290.20, 248.40 296.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
+    <path d="M 274.40 290.00 C 281.88 286.27, 288.61 281.16, 296.40 278.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
+    <path d="M 296.40 278.00 C 298.19 283.90, 299.11 289.99, 300.40 296.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
+    <path d="M 274.40 324.00 C 270.65 332.78, 265.63 340.98, 262.40 350.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
+    <path d="M 274.40 324.00 C 279.24 332.28, 282.77 341.16, 286.40 350.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
+    <path d="M 36.00 60.00 C 82.67 60.74, 129.33 59.77, 176.00 60.00 C 179.60 63.07, 182.36 66.97, 186.00 70.00 C 186.53 76.00, 185.99 82.00, 186.00 88.00 C 182.65 91.31, 179.09 94.42, 176.00 98.00 C 129.33 97.49, 82.67 97.46, 36.00 98.00 C 33.01 94.32, 29.04 91.63, 26.00 88.00 C 25.54 82.00, 25.69 76.00, 26.00 70.00 C 29.49 66.83, 33.03 63.69, 36.00 60.00" fill="white" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 138.60 98.00 C 140.98 156.66, 143.82 215.31, 145.60 274.00 C 147.52 215.32, 150.46 156.67, 152.60 98.00" fill="white" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="139.60000000000002" y1="98" x2="151.60000000000002" y2="98" stroke="white" stroke-width="2.4"/>
+    <text x="106.0" y="78.0" text-anchor="middle" font-family="Comic Neue, Comic Sans MS, cursive" font-size="13" fill="black"><tspan x="106.0" dy="0">Sexy creature ftw</tspan></text>
+  </g>
 </svg>

@@ -1,19 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 328 398" width="328" height="398" role="img" aria-label="#049 — Michael (2026)">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 412 402" width="412" height="402" role="img" aria-label="#049 — Michael (2026)">
   <rect width="100%" height="100%" fill="white"/>
-  <text x="164.0" y="32" text-anchor="middle" font-family="Comic Neue, Comic Sans MS, cursive" font-size="15" font-weight="700" fill="black">#049 — Michael (2026) ★★★★½</text>
-    <g class="panel">
-    <rect x="14" y="44" width="300" height="340" fill="white" stroke="black" stroke-width="2"/>
-    <rect x="29" y="58" width="270" height="86" rx="12" ry="12" fill="white" stroke="black" stroke-width="1.6"/>
-    <polygon points="156.0,143 172.0,143 177.14956443315842,240" fill="white" stroke="black" stroke-width="1.6"/>
-    <line x1="157.0" y1="144" x2="171.0" y2="144" stroke="white" stroke-width="2.2"/>
-    <text x="164.0" y="76" text-anchor="middle" font-family="Comic Neue, Comic Sans MS, cursive" font-size="13" fill="black"><tspan x="164.0" dy="0">no job needed FYI!</tspan><tspan x="164.0" dy="16">best post credits</tspan><tspan x="164.0" dy="16">everrrr? don&#x27;t leave</tspan><tspan x="164.0" dy="16">them seats yet</tspan></text>
-    <circle cx="177.14956443315842" cy="254" r="14" fill="none" stroke="black" stroke-width="2.2"/>
-    <line x1="177.14956443315842" y1="268" x2="177.14956443315842" y2="308" stroke="black" stroke-width="2.2"/>
-    <line x1="177.14956443315842" y1="280" x2="159.14956443315842" y2="298" stroke="black" stroke-width="2.2"/>
-    <line x1="177.14956443315842" y1="280" x2="195.14956443315842" y2="298" stroke="black" stroke-width="2.2"/>
-    <line x1="177.14956443315842" y1="308" x2="163.14956443315842" y2="336" stroke="black" stroke-width="2.2"/>
-    <line x1="177.14956443315842" y1="308" x2="191.14956443315842" y2="336" stroke="black" stroke-width="2.2"/>
-    <line x1="34" y1="350" x2="294" y2="350" stroke="black" stroke-width="1.5"/>
-</g>
+  <text x="206.0" y="34" text-anchor="middle" font-family="Comic Neue, Comic Sans MS, cursive" font-size="16" font-weight="700" fill="black">#049 — Michael (2026) ★★★★½</text>
+  <g class="panel">
+    <path d="M 16.00 46.00 C 142.67 46.44, 269.33 45.94, 396.00 46.00 C 396.42 159.33, 396.73 272.67, 396.00 386.00 C 269.33 385.99, 142.67 385.28, 16.00 386.00 C 15.66 272.67, 16.56 159.33, 16.00 46.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 26.00 356.00 C 146.00 356.38, 266.00 356.69, 386.00 356.00" fill="none" stroke="black" stroke-width="1.4" stroke-linecap="round"/>
+    <path d="M 30.00 280.00 C 56.67 279.55, 83.33 279.98, 110.00 280.00 C 110.77 298.67, 109.79 317.33, 110.00 336.00 C 83.33 335.99, 56.67 336.59, 30.00 336.00 C 29.76 317.33, 29.83 298.67, 30.00 280.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 36.00 286.00 C 58.67 286.22, 81.33 286.29, 104.00 286.00 C 103.51 300.67, 104.06 315.33, 104.00 330.00 C 81.33 329.23, 58.67 330.03, 36.00 330.00 C 35.25 315.33, 36.47 300.67, 36.00 286.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 56.00 336.00 C 65.33 336.97, 74.67 335.22, 84.00 336.00" fill="none" stroke="black" stroke-width="1.4" stroke-linecap="round"/>
+    <path d="M 70.00 336.00 C 69.97 338.67, 70.63 341.33, 70.00 344.00" fill="none" stroke="black" stroke-width="1.4" stroke-linecap="round"/>
+    <path d="M 56.00 346.00 C 65.33 346.40, 74.67 345.61, 84.00 346.00" fill="none" stroke="black" stroke-width="1.4" stroke-linecap="round"/>
+    <path d="M 42.00 322.00 C 45.04 313.22, 48.64 304.66, 52.00 296.00 C 56.39 305.47, 61.96 314.35, 66.00 324.00 C 70.55 315.27, 75.00 306.49, 80.00 298.00 C 85.26 305.38, 91.18 312.30, 96.00 320.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 110.00 300.00 C 160.67 299.29, 211.33 299.31, 262.00 300.00 C 262.03 310.00, 261.62 320.00, 262.00 330.00 C 211.33 329.36, 160.67 329.24, 110.00 330.00 C 109.42 320.00, 110.05 310.00, 110.00 300.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 110.00 330.00 C 160.67 329.31, 211.33 330.77, 262.00 330.00 C 261.58 342.00, 261.53 354.00, 262.00 366.00 C 211.33 366.17, 160.67 366.05, 110.00 366.00 C 110.73 354.00, 109.44 342.00, 110.00 330.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 102.00 312.00 C 104.67 311.49, 107.33 311.57, 110.00 312.00 C 109.89 330.00, 109.75 348.00, 110.00 366.00 C 107.33 365.92, 104.67 365.90, 102.00 366.00 C 101.82 348.00, 102.49 330.00, 102.00 312.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 262.00 312.00 C 264.67 312.41, 267.33 312.41, 270.00 312.00 C 270.22 330.00, 270.33 348.00, 270.00 366.00 C 267.33 365.31, 264.67 365.34, 262.00 366.00 C 261.56 348.00, 262.49 330.00, 262.00 312.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 186.00 330.00 C 186.37 342.00, 185.36 354.00, 186.00 366.00" fill="none" stroke="black" stroke-width="1.4" stroke-linecap="round"/>
+    <path d="M 158.37 300.00 C 158.27 301.62, 157.38 303.04, 157.19 304.64 C 156.45 306.05, 155.70 307.45, 154.74 308.74 C 153.41 309.64, 152.00 310.34, 150.41 310.64 C 148.80 310.85, 147.44 311.70, 146.00 312.35 C 144.36 312.37, 142.82 311.80, 141.23 311.52 C 140.11 310.39, 138.78 309.47, 137.69 308.31 C 136.46 307.30, 135.70 305.92, 134.81 304.64 C 134.79 303.09, 134.66 301.54, 134.56 300.00 C 134.86 298.53, 135.37 297.11, 135.33 295.58 C 135.79 294.08, 136.70 292.82, 137.51 291.51 C 138.95 290.80, 139.99 289.55, 141.31 288.69 C 142.92 288.49, 144.39 287.72, 146.00 287.52 C 147.44 288.27, 148.94 288.82, 150.55 289.01 C 152.15 289.40, 153.39 290.50, 154.87 291.13 C 155.96 292.37, 156.58 293.86, 157.10 295.40 C 157.84 296.85, 158.05 298.44, 158.37 300.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
+    <path d="M 146.00 312.00 C 145.29 321.33, 145.39 330.67, 146.00 340.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
+    <path d="M 146.00 326.00 C 140.72 330.07, 135.62 334.39, 130.00 338.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
+    <path d="M 146.00 326.00 C 151.27 330.08, 156.60 334.09, 162.00 338.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
+    <path d="M 146.00 340.00 C 154.00 339.02, 162.00 339.22, 170.00 340.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
+    <path d="M 170.00 340.00 C 171.51 345.91, 170.95 352.04, 172.00 358.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
+    <path d="M 146.00 340.00 C 143.72 346.17, 140.99 352.14, 138.00 358.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
+    <path d="M 237.52 300.00 C 237.59 301.54, 237.34 303.03, 236.74 304.45 C 235.68 305.54, 234.86 306.80, 234.13 308.13 C 233.05 309.21, 231.80 310.06, 230.47 310.80 C 229.02 311.40, 227.46 311.69, 226.00 312.28 C 224.38 312.24, 223.01 311.17, 221.38 311.14 C 220.19 310.12, 219.04 309.04, 217.55 308.45 C 216.36 307.37, 215.83 305.74, 214.53 304.75 C 214.53 303.15, 214.08 301.60, 214.05 300.00 C 214.80 298.62, 215.08 297.10, 215.31 295.57 C 216.09 294.26, 217.22 293.17, 217.66 291.66 C 218.86 290.65, 220.19 289.79, 221.31 288.69 C 222.87 288.40, 224.49 288.53, 226.00 287.95 C 227.49 288.37, 228.91 289.04, 230.48 289.18 C 231.92 289.80, 233.30 290.53, 234.60 291.40 C 235.71 292.56, 236.41 293.98, 237.04 295.43 C 237.49 296.92, 237.72 298.44, 237.52 300.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
+    <path d="M 214.00 298.00 C 213.33 308.67, 212.06 319.30, 212.00 330.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
+    <path d="M 216.00 296.00 C 215.36 308.67, 215.22 321.36, 214.00 334.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
+    <path d="M 238.00 298.00 C 238.64 308.67, 238.63 319.38, 240.00 330.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
+    <path d="M 222.00 288.00 C 220.94 286.79, 219.53 286.28, 218.00 286.00" fill="none" stroke="black" stroke-width="1.4" stroke-linecap="round"/>
+    <path d="M 230.00 288.00 C 231.31 287.28, 232.95 287.24, 234.00 286.00" fill="none" stroke="black" stroke-width="1.4" stroke-linecap="round"/>
+    <path d="M 226.00 312.00 C 225.51 321.33, 226.14 330.67, 226.00 340.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
+    <path d="M 226.00 326.00 C 221.09 330.56, 214.81 333.30, 210.00 338.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
+    <path d="M 226.00 326.00 C 231.11 330.29, 237.16 333.34, 242.00 338.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
+    <path d="M 226.00 340.00 C 234.00 340.25, 242.00 340.71, 250.00 340.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
+    <path d="M 250.00 340.00 C 250.83 345.98, 252.07 351.92, 252.00 358.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
+    <path d="M 226.00 340.00 C 223.83 346.22, 220.01 351.71, 218.00 358.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
+    <path d="M 36.00 60.00 C 86.00 60.28, 136.00 59.68, 186.00 60.00 C 188.87 63.80, 192.88 66.45, 196.00 70.00 C 195.32 92.00, 195.46 114.00, 196.00 136.00 C 192.57 139.24, 189.15 142.48, 186.00 146.00 C 136.00 146.46, 86.00 145.37, 36.00 146.00 C 32.49 142.84, 29.90 138.77, 26.00 136.00 C 25.76 114.00, 25.51 92.00, 26.00 70.00 C 29.11 66.44, 32.45 63.11, 36.00 60.00" fill="white" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 131.00 146.00 C 132.92 198.68, 135.82 251.33, 138.00 304.00 C 140.02 251.32, 142.16 198.64, 145.00 146.00" fill="white" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="132.0" y1="146" x2="144.0" y2="146" stroke="white" stroke-width="2.4"/>
+    <text x="111.0" y="78.0" text-anchor="middle" font-family="Comic Neue, Comic Sans MS, cursive" font-size="13" fill="black"><tspan x="111.0" dy="0">no job needed FYI!</tspan><tspan x="111.0" dy="16">best post credits</tspan><tspan x="111.0" dy="16">everrrr? don&#x27;t leave</tspan><tspan x="111.0" dy="16">them seats yet</tspan></text>
+  </g>
 </svg>
