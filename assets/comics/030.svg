@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 412 402" width="412" height="402" role="img" aria-label="#030 — Rebecca (2020)">
+  <defs><filter id="grain" x="0%" y="0%" width="100%" height="100%"><feTurbulence type="fractalNoise" baseFrequency="0.85" numOctaves="2" stitchTiles="stitch" seed="4"/><feColorMatrix values="0 0 0 0 0.32  0 0 0 0 0.22  0 0 0 0 0.13  0 0 0 -1.4 0.55"/></filter></defs>
   <rect width="100%" height="100%" fill="#f1e7cc"/>
+  <rect width="100%" height="100%" filter="url(#grain)" opacity="0.75"/>
   <text x="206.0" y="34" text-anchor="middle" font-family="Comic Neue, Comic Sans MS, cursive" font-size="16" font-weight="700" fill="black">#030 — Rebecca (2020) ★½</text>
   <g class="panel">
     <path d="M 16.00 46.00 C 142.67 46.19, 269.33 46.73, 396.00 46.00 C 395.88 159.33, 396.17 272.67, 396.00 386.00 C 269.33 385.88, 142.67 386.21, 16.00 386.00 C 16.42 272.67, 15.50 159.33, 16.00 46.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>

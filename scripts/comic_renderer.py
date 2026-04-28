@@ -691,11 +691,24 @@ def render_comic(
     if len(alt) > 200:
         alt = _truncate(alt, 200)
 
+    grain_seed = comic_id % 9 + 1
+    defs = (
+        f'<defs>'
+        f'<filter id="grain" x="0%" y="0%" width="100%" height="100%">'
+        f'<feTurbulence type="fractalNoise" baseFrequency="0.85" numOctaves="2" '
+        f'stitchTiles="stitch" seed="{grain_seed}"/>'
+        f'<feColorMatrix values="0 0 0 0 0.32  0 0 0 0 0.22  0 0 0 0 0.13  0 0 0 -1.4 0.55"/>'
+        f'</filter>'
+        f'</defs>'
+    )
+
     svg = (
         f'<?xml version="1.0" encoding="UTF-8"?>\n'
         f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {width} {height}" '
         f'width="{width}" height="{height}" role="img" aria-label="{html.escape(title)}">\n'
+        f'  {defs}\n'
         f'  <rect width="100%" height="100%" fill="{BG}"/>\n'
+        f'  <rect width="100%" height="100%" filter="url(#grain)" opacity="0.75"/>\n'
         f'  {header}\n  '
         + "\n  ".join(panel_blocks)
         + "\n</svg>\n"

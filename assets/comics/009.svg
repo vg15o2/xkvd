@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 806 402" width="806" height="402" role="img" aria-label="#009 — Yesterday (2019)">
+  <defs><filter id="grain" x="0%" y="0%" width="100%" height="100%"><feTurbulence type="fractalNoise" baseFrequency="0.85" numOctaves="2" stitchTiles="stitch" seed="1"/><feColorMatrix values="0 0 0 0 0.32  0 0 0 0 0.22  0 0 0 0 0.13  0 0 0 -1.4 0.55"/></filter></defs>
   <rect width="100%" height="100%" fill="#f1e7cc"/>
+  <rect width="100%" height="100%" filter="url(#grain)" opacity="0.75"/>
   <text x="403.0" y="34" text-anchor="middle" font-family="Comic Neue, Comic Sans MS, cursive" font-size="16" font-weight="700" fill="black">#009 — Yesterday (2019) ★★★</text>
   <g class="panel">
     <path d="M 16.00 46.00 C 142.67 45.85, 269.33 46.03, 396.00 46.00 C 396.35 159.33, 396.58 272.67, 396.00 386.00 C 269.33 386.26, 142.67 386.21, 16.00 386.00 C 16.41 272.67, 16.50 159.33, 16.00 46.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
