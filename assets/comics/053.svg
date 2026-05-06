@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 412 402" width="412" height="402" role="img" aria-label="#053 — The Empire Strikes Back (1980)">
+  <defs><filter id="fibers" x="0%" y="0%" width="100%" height="100%"><feTurbulence type="fractalNoise" baseFrequency="0.04 0.7" numOctaves="2" stitchTiles="stitch" seed="6"/><feColorMatrix values="0 0 0 0 0.38  0 0 0 0 0.26  0 0 0 0 0.13  0 0 0 -0.7 0.28"/></filter><filter id="grain" x="0%" y="0%" width="100%" height="100%"><feTurbulence type="fractalNoise" baseFrequency="0.65" numOctaves="3" stitchTiles="stitch" seed="9"/><feColorMatrix values="0 0 0 0 0.42  0 0 0 0 0.30  0 0 0 0 0.16  0 0 0 -1.1 0.5"/></filter></defs>
+  <rect width="100%" height="100%" fill="#e3d3a2"/>
+  <rect width="100%" height="100%" filter="url(#fibers)" opacity="0.55"/>
+  <rect width="100%" height="100%" filter="url(#grain)" opacity="0.85"/>
+  <text x="206.0" y="34" text-anchor="middle" font-family="Comic Neue, Comic Sans MS, cursive" font-size="16" font-weight="700" fill="black">#053 — The Empire Strikes Back (1980) ★★★★</text>
+  <g class="panel">
+    <path d="M 16.00 46.00 C 142.67 45.70, 269.33 46.61, 396.00 46.00 C 396.09 159.33, 395.63 272.67, 396.00 386.00 C 269.33 385.57, 142.67 386.35, 16.00 386.00 C 15.88 272.67, 16.13 159.33, 16.00 46.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 26.00 362.00 C 146.00 361.76, 266.00 362.77, 386.00 362.00" fill="none" stroke="black" stroke-width="1.4" stroke-linecap="round"/>
+    <path d="M 149.92 270.00 C 149.36 271.52, 148.93 273.07, 148.96 274.71 C 148.24 276.15, 146.83 277.05, 146.01 278.41 C 144.53 278.96, 143.53 280.26, 142.12 280.91 C 140.57 280.96, 139.09 281.41, 137.60 281.77 C 136.04 281.67, 134.49 281.49, 132.94 281.25 C 131.52 280.52, 130.66 279.10, 129.28 278.32 C 128.28 277.13, 127.40 275.86, 126.49 274.60 C 126.51 273.04, 125.86 271.56, 125.91 270.00 C 126.37 268.54, 126.85 267.09, 126.82 265.54 C 127.35 264.07, 128.62 263.03, 129.17 261.57 C 130.34 260.53, 131.59 259.59, 132.99 258.87 C 134.51 258.58, 136.03 258.27, 137.60 258.49 C 139.19 258.43, 140.78 258.22, 142.37 258.49 C 143.81 259.27, 144.95 260.38, 145.90 261.70 C 147.07 262.76, 147.75 264.21, 148.81 265.36 C 149.34 266.87, 149.29 268.51, 149.92 270.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
+    <path d="M 137.60 282.00 C 137.69 296.00, 136.97 310.00, 137.60 324.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
+    <path d="M 137.60 290.00 C 132.16 296.58, 126.67 303.12, 121.60 310.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
+    <path d="M 137.60 290.00 C 142.93 296.67, 148.51 303.14, 153.60 310.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
+    <path d="M 137.60 324.00 C 133.82 332.77, 128.77 340.95, 125.60 350.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
+    <path d="M 137.60 324.00 C 141.21 332.85, 145.78 341.25, 149.60 350.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
+    <path d="M 286.58 270.00 C 286.36 271.56, 285.50 272.96, 285.40 274.56 C 284.58 275.89, 283.51 277.08, 283.00 278.60 C 281.62 279.33, 280.17 279.92, 278.87 280.79 C 277.32 280.94, 275.92 281.67, 274.40 281.94 C 272.89 281.49, 271.36 281.16, 269.77 281.18 C 268.56 280.21, 267.29 279.32, 266.20 278.20 C 265.50 276.81, 264.59 275.58, 263.42 274.55 C 262.65 273.12, 262.72 271.42, 261.95 270.00 C 262.27 268.43, 262.93 266.94, 263.17 265.35 C 264.02 264.03, 265.05 262.84, 266.00 261.60 C 267.25 260.69, 268.72 260.14, 269.90 259.15 C 271.45 258.95, 272.83 258.11, 274.40 257.99 C 276.01 257.90, 277.48 258.68, 279.07 258.72 C 280.24 259.86, 281.93 260.18, 283.11 261.29 C 284.15 262.52, 284.50 264.15, 285.50 265.40 C 285.78 266.95, 285.94 268.53, 286.58 270.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
+    <path d="M 262.40 268.00 C 260.86 278.61, 261.54 289.36, 260.40 300.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
+    <path d="M 264.40 266.00 C 263.48 278.65, 263.08 291.33, 262.40 304.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
+    <path d="M 286.40 268.00 C 286.13 278.73, 287.29 289.36, 288.40 300.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
+    <path d="M 270.40 258.00 C 269.47 256.53, 267.86 256.42, 266.40 256.00" fill="none" stroke="black" stroke-width="1.4" stroke-linecap="round"/>
+    <path d="M 278.40 258.00 C 280.14 258.15, 280.77 256.08, 282.40 256.00" fill="none" stroke="black" stroke-width="1.4" stroke-linecap="round"/>
+    <path d="M 274.40 282.00 C 274.66 296.00, 274.21 310.00, 274.40 324.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
+    <path d="M 274.40 290.00 C 269.39 296.92, 263.45 303.10, 258.40 310.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
+    <path d="M 274.40 290.00 C 279.07 297.19, 285.56 302.94, 290.40 310.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
+    <path d="M 274.40 324.00 C 270.56 332.74, 265.88 341.09, 262.40 350.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
+    <path d="M 274.40 324.00 C 278.38 332.68, 281.85 341.59, 286.40 350.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
+    <path d="M 36.00 60.00 C 86.00 59.96, 136.00 59.92, 186.00 60.00 C 188.96 63.71, 193.04 66.30, 196.00 70.00 C 196.22 81.33, 196.52 92.67, 196.00 104.00 C 192.27 106.93, 189.69 111.02, 186.00 114.00 C 136.00 114.74, 86.00 113.88, 36.00 114.00 C 32.85 110.48, 29.68 106.98, 26.00 104.00 C 26.58 92.67, 26.04 81.33, 26.00 70.00 C 29.44 66.78, 32.67 63.34, 36.00 60.00" fill="#e3d3a2" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 138.60 114.00 C 141.15 167.32, 143.70 220.65, 145.60 274.00 C 147.15 220.63, 149.59 167.30, 152.60 114.00" fill="#e3d3a2" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="139.60000000000002" y1="114" x2="151.60000000000002" y2="114" stroke="#e3d3a2" stroke-width="2.4"/>
+    <text x="111.0" y="78.0" text-anchor="middle" font-family="Comic Neue, Comic Sans MS, cursive" font-size="13" fill="black"><tspan x="111.0" dy="0">yeah taking the week</tspan><tspan x="111.0" dy="16">and celebrating</tspan></text>
+  </g>
+</svg>
