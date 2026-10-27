@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 412 402" width="412" height="402" role="img" aria-label="#080 — Ratatouille (2007)">
+  <defs><filter id="fibers" x="0%" y="0%" width="100%" height="100%"><feTurbulence type="fractalNoise" baseFrequency="0.04 0.7" numOctaves="2" stitchTiles="stitch" seed="10"/><feColorMatrix values="0 0 0 0 0.38  0 0 0 0 0.26  0 0 0 0 0.13  0 0 0 -0.7 0.28"/></filter><filter id="grain" x="0%" y="0%" width="100%" height="100%"><feTurbulence type="fractalNoise" baseFrequency="0.65" numOctaves="3" stitchTiles="stitch" seed="9"/><feColorMatrix values="0 0 0 0 0.42  0 0 0 0 0.30  0 0 0 0 0.16  0 0 0 -1.1 0.5"/></filter></defs>
+  <rect width="100%" height="100%" fill="#e3d3a2"/>
+  <rect width="100%" height="100%" filter="url(#fibers)" opacity="0.55"/>
+  <rect width="100%" height="100%" filter="url(#grain)" opacity="0.85"/>
+  <text x="206.0" y="34" text-anchor="middle" font-family="Comic Neue, Comic Sans MS, cursive" font-size="16" font-weight="700" fill="black">#080 — Ratatouille (2007) ★★★★★</text>
+  <g class="panel">
+    <path d="M 16.00 46.00 C 142.67 45.27, 269.33 46.73, 396.00 46.00 C 395.39 159.33, 396.65 272.67, 396.00 386.00 C 269.33 386.46, 142.67 385.38, 16.00 386.00 C 15.56 272.67, 16.16 159.33, 16.00 46.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 26.00 362.00 C 146.00 362.95, 266.00 361.44, 386.00 362.00" fill="none" stroke="black" stroke-width="1.4" stroke-linecap="round"/>
+    <path d="M 149.80 270.00 C 149.56 271.56, 149.08 273.06, 148.60 274.56 C 148.08 276.08, 147.01 277.31, 146.38 278.78 C 145.17 279.87, 143.89 280.87, 142.36 281.49 C 140.76 281.74, 139.22 282.26, 137.60 282.41 C 136.06 281.99, 134.78 280.91, 133.17 280.71 C 131.69 280.08, 130.18 279.55, 128.72 278.88 C 128.31 277.32, 127.56 275.89, 126.89 274.44 C 126.47 272.94, 125.88 271.49, 125.44 270.00 C 125.67 268.44, 126.41 267.00, 126.50 265.40 C 127.15 263.95, 128.30 262.88, 129.32 261.72 C 130.50 260.73, 131.72 259.77, 133.01 258.92 C 134.49 258.29, 136.08 257.97, 137.60 257.45 C 139.21 257.70, 140.54 258.79, 142.17 258.97 C 143.58 259.73, 144.94 260.60, 146.47 261.13 C 147.06 262.67, 148.48 263.70, 149.00 265.28 C 149.15 266.87, 149.88 268.37, 149.80 270.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
+    <path d="M 121.60 260.00 C 132.27 260.70, 142.93 259.78, 153.60 260.00 C 151.55 256.95, 151.34 253.17, 149.60 250.00 C 141.60 250.28, 133.60 249.53, 125.60 250.00 C 123.83 253.16, 123.59 256.93, 121.60 260.00" fill="black" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 119.60 260.00 C 131.60 259.33, 143.60 259.82, 155.60 260.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
+    <path d="M 137.60 282.00 C 137.65 296.00, 137.70 310.00, 137.60 324.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
+    <path d="M 137.60 292.00 C 146.96 290.86, 156.35 289.91, 165.60 288.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
+    <path d="M 137.60 292.00 C 133.01 298.66, 126.61 303.72, 121.60 310.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
+    <path d="M 137.60 324.00 C 132.79 332.29, 128.75 340.94, 125.60 350.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
+    <path d="M 137.60 324.00 C 141.00 332.94, 146.09 341.11, 149.60 350.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
+    <path d="M 286.74 270.00 C 286.85 271.66, 286.52 273.25, 286.01 274.81 C 285.13 276.17, 284.14 277.44, 282.86 278.46 C 281.77 279.63, 280.37 280.40, 279.09 281.31 C 277.60 282.01, 276.00 282.12, 274.40 282.24 C 272.82 282.01, 271.34 281.30, 269.71 281.31 C 268.40 280.43, 267.21 279.42, 266.23 278.17 C 265.45 276.77, 264.26 275.75, 263.12 274.67 C 262.98 273.12, 263.11 271.55, 262.95 270.00 C 262.83 268.46, 263.16 266.97, 263.48 265.48 C 264.31 264.13, 265.11 262.78, 265.70 261.30 C 267.19 260.72, 268.63 260.04, 269.82 258.93 C 271.27 258.23, 272.86 257.96, 274.40 257.55 C 275.94 258.06, 277.53 258.34, 279.12 258.60 C 280.08 259.91, 281.60 260.56, 282.73 261.67 C 283.69 262.87, 284.64 264.08, 285.32 265.47 C 286.11 266.89, 286.37 268.46, 286.74 270.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
+    <path d="M 274.40 282.00 C 274.00 296.00, 274.15 310.00, 274.40 324.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
+    <path d="M 274.40 292.00 C 265.04 290.88, 255.86 288.48, 246.40 288.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
+    <path d="M 274.40 292.00 C 280.23 297.56, 285.09 303.98, 290.40 310.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
+    <path d="M 274.40 324.00 C 269.56 332.28, 265.72 341.02, 262.40 350.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
+    <path d="M 274.40 324.00 C 279.05 332.37, 282.14 341.45, 286.40 350.00" fill="none" stroke="black" stroke-width="2.0" stroke-linecap="round"/>
+    <path d="M 36.00 60.00 C 72.00 60.06, 108.00 59.24, 144.00 60.00 C 147.41 63.26, 151.04 66.29, 154.00 70.00 C 154.69 76.00, 154.22 82.00, 154.00 88.00 C 151.20 91.86, 147.47 94.80, 144.00 98.00 C 108.00 97.53, 72.00 97.78, 36.00 98.00 C 32.53 94.80, 29.22 91.44, 26.00 88.00 C 25.60 82.00, 25.48 76.00, 26.00 70.00 C 29.82 67.15, 32.75 63.42, 36.00 60.00" fill="#e3d3a2" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 135.00 98.00 C 139.25 156.62, 142.36 215.32, 145.60 274.00 C 146.42 215.33, 147.64 156.66, 149.00 98.00" fill="#e3d3a2" stroke="black" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="136" y1="98" x2="148" y2="98" stroke="#e3d3a2" stroke-width="2.4"/>
+    <text x="90.0" y="78.0" text-anchor="middle" font-family="Comic Neue, Comic Sans MS, cursive" font-size="13" fill="black"><tspan x="90.0" dy="0">malli choosaa</tspan></text>
+  </g>
+</svg>
